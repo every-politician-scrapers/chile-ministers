@@ -6,10 +6,8 @@ module.exports = function () {
   return `SELECT DISTINCT ?item ?itemLabel ?position ?positionLabel ?start
                (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
-          # Positions currently in the cabinet
-          ?position p:P361 ?ps .
-          ?ps ps:P361 wd:${meta.cabinet.parent} .
-          FILTER NOT EXISTS { ?ps pq:P582 [] }
+          # Cabinet positions
+          ?position wdt:P279 wd:Q3304818 .
 
           # Who currently holds those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .

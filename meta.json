@@ -1,20 +1,12 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Chile",
+      "id": "Q298"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q50400320",
+      "start": "2018-03-11",
+      "parent": "Q29077203"
     },
-    "source": {
-        "url":   "XXX",
-        "title": "XXX",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
-        }
-    },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/chile-ministers"
 }
