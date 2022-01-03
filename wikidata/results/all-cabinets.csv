@@ -1,1 +1,8 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q50400320,Q50400320,,,2018-03-11,11,,,,,Q17633149,government of Chile,,,Q16629823,Q16629823,,,,,,
+,Q5881931,first government of Michelle Bachelet,,,2006-03-11,11,,,2010-03-11,11,Q17633149,government of Chile,,,,,Q47008560,first government of Sebastián Piñera,,,,
+,Q5881961,Presidency of Salvador Allende,,,1970-11-04,11,,,1973-09-11,11,Q17633149,government of Chile,,,,,Q2886342,Military Junta of Chile,,,,
+,Q16629823,Q16629823,,,2014-03-11,11,,,2018-03-11,11,Q17633149,government of Chile,,,Q47008560,first government of Sebastián Piñera,Q50400320,Q50400320,,,,
+,Q47008560,first government of Sebastián Piñera,,,2010-03-11,11,,,2014-03-11,11,Q17633149,government of Chile,,,Q5881931,first government of Michelle Bachelet,Q16629823,Q16629823,,,,
+,Q2886342,Military Junta of Chile,1973-09-11,11,1975-09-11,11,,,1990-03-11,11,Q17633149,government of Chile,,,Q5881961,Presidency of Salvador Allende,,,,,,
+,Q2886342,Military Junta of Chile,1973-09-11,11,1975-09-11,11,,,1990-03-11,11,Q25424534,military junta,,,Q5881961,Presidency of Salvador Allende,,,,,,
