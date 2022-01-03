@@ -3,66 +3,65 @@
 ->,Q922795,Roberto Ampuero,minister of Foreign Affairs of Chile->Foreign Affairs,2018-03-11,2019-06-13
 ->,Q9015138,Juan Andrés Fontaine Talavera->Juan Andrés Fontaine,Minister of Public Works of Chile->Public Works,2018-03-11,2019-06-13
 ->,Q9015138,Juan Andrés Fontaine Talavera->Juan Andrés Fontaine,"Minister of Economy, Development and Tourism->Economy",2019-06-13,2019-10-28
+->,Q88987534,Javier Naranjo Solano,Minister for the Environment->Environment,2021-11-22->2021-11-23,2022-03-11
+->,Q87086583,Carolina Cuevas Merino,Minister of Woman->Women,2020-03-13,2020-05-06
 ->,Q734056,Carolina Schmidt,Environment Minister->Environment,2018-08-09,NULL->2021-11-22
+->,Q72869572,Lucas Palacios,"Minister of Economy, Development and Tourism->Economy",2019-10-28,
 ->,Q72753586,María José Zaldivar->María José Zaldívar,Minister of Labour->Labor,2019-10-28,2021-04-07
 ->,Q72749842,Ignacio Briones,Minister of Finance - Chile->Finance,2019-10-28,2021-01-26
 ->,Q72724393,Julio Isamit,minister of National Assets of Chile->National Assets,2019-10-28,
 ->,Q7030399,Nicolás Monckeberg,Minister of Labour->Labor,2018-03-11,2019-10-28
+->,Q64596365,Susana Jiménez Schuster,Minister of Energy->Energy,2018-03-11,2019-07-13->2019-06-13
 ->,Q6165698,Víctor Pérez Varela->Víctor Pérez,Interior and Public Security Minister of Chile->Interior,2020-07-28,2020-11-03
 ->,Q6066731,Patricio Melero,Minister of Labour->Labor,2021-04-07,
 ->,Q60032521,Emilio Santelices,Chilean minister of Health->Health,2018-03-11,2019-06-13
 ->,Q5998614,Mario Desbordes,minister of National Defence of Chile->Defense,2020-07-28,2020-12-18
-->,Q5995504,Marcela Cubillos,Minister of Education of Chile->Education,2018-08-09->2018-08-19,2020-02-28
 ->,Q5995504,Marcela Cubillos,Environment Minister->Environment,2018-03-11,2018-08-09
-->,Q5988683,Macarena Santelices,NULL->Women,2020-05-06,2020-06-09
+->,Q5995504,Marcela Cubillos,Minister of Education of Chile->Education,2018-08-09->2018-08-19,2020-02-28
+->,Q5988683,Macarena Santelices,Minister for Women->Women,2020-05-06,2020-06-09
 ->,Q59797711,Antonio Walker,Agriculture minister of Chile->Agriculture,2018-03-11,2021-01-06->2019-10-28
 ->,Q5958343,Karla Rubilar,minister Secretary General of Government of Chile->Gen. Sec. ofGovernment,2019-10-28,2020-07-28
+->,Q5958343,Karla Rubilar,Minister of Social Development and Family (Chile)->SocialDevelopment,2020-07-28,
 ->,Q5881260,Gloria Hutt,Transport and Telecommunications Minister of Chile->Transport &Telecom,2018-03-11,
-->,Q5858483,Felipe Ward,Minister Secretary General of the Presidency of Chile->Gen. Sec. of thePresidency,2019-10-28,2020-06-04
-->,Q5858483,Felipe Ward,Minister of Housing and Urbanism of Chile->Housing &Urbanism,2020-06-04,
 ->,Q5858483,Felipe Ward,minister of National Assets of Chile->National Assets,2018-03-11,2019-10-28
+->,Q5858483,Felipe Ward,Minister of Housing and Urbanism of Chile->Housing &Urbanism,2020-06-04,
+->,Q5858483,Felipe Ward,Minister Secretary General of the Presidency of Chile->Gen. Sec. of thePresidency,2019-10-28,2020-06-04
 ->,Q5858275,Felipe Larraín Bascuñán->Felipe Larraín,Minister of Finance - Chile->Finance,2018-03-11,2019-10-28
 ->,Q58293,Alfredo Moreno->Alfredo Moreno Charme,Minister of Social Development of Chile->SocialDevelopment,2018-03-11,2019-04-02->2019-06-13
 ->,Q58293,Alfredo Moreno->Alfredo Moreno Charme,Minister of Public Works of Chile->Public Works,2019-06-13,
 ->,Q58009685,José Ramón Valente Vias->José Ramón Valente,"Minister of Economy, Development and Tourism->Economy",2018-03-11,2019-06-13
+->,Q5791610,Cristián Monckeberg,Minister of Housing and Urbanism of Chile->Housing &Urbanism,2018-03-11,2020-06-04
 ->,Q5791610,Cristián Monckeberg,Minister Secretary General of the Presidency of Chile->Gen. Sec. of thePresidency,2020-07-28,2021-01-06
 ->,Q5791610,Cristián Monckeberg,Minister of Social Development and Family (Chile)->SocialDevelopment,2020-06-04,2020-07-28->2020-07-20
-->,Q5791610,Cristián Monckeberg,Minister of Housing and Urbanism of Chile->Housing &Urbanism,2018-03-11,2020-06-04
 ->,Q5771849,Claudio Alvarado,Minister Secretary General of the Presidency of Chile->Gen. Sec. of thePresidency,2020-06-04,2020-07-28
 ->,Q5742466,Hernán Larraín,Minister of Justice and Human Rights->Justice,2018-03-11,
 ->,Q5663007,Alberto Espina,minister of National Defence of Chile->Defense,2018-03-11,2020-07-28
-->,Q5640564,Cecilia Pérez,minister Secretary General of Government of Chile->Gen. Sec. ofGovernment,2018-03-11,2019-10-28
 ->,Q5640564,Cecilia Pérez,sports minister of Chile->Sports,2019-10-28,
+->,Q5640564,Cecilia Pérez,minister Secretary General of Government of Chile->Gen. Sec. ofGovernment,2018-03-11,2019-10-28
 ->,Q56167729,Pauline Kantor,sports minister of Chile->Sports,2018-03-11,2019-10-28
-->,Q56072569,Consuelo Valdés,NULL->Culture & theArts,2018-08-13,
-->,Q56037180,Alejandra Pérez->Alejandra Pérez Lecaros,NULL->Culture & theArts,2018-03-11,2018-08-09
+->,Q56072569,Consuelo Valdés,Minister of Culture and the Arts->Culture & theArts,2018-08-13,
+->,Q56037180,Alejandra Pérez->Alejandra Pérez Lecaros,Minister of Culture and the Arts->Culture & theArts,2018-03-11,2018-08-09
 ->,Q55767801,Gerardo Varela,Minister of Education of Chile->Education,2018-03-11,2018-08-09
 ->,Q55640611,Sebastián Sichel,Minister of Social Development and Family (Chile)->SocialDevelopment,2019-06-13,2020-06-04
 ->,Q50820982,Raúl Figueroa,Minister of Education of Chile->Education,2020-02-28,
 ->,Q50532720,Gonzalo Blumel,Interior and Public Security Minister of Chile->Interior,2019-10-28,2020-07-28
 ->,Q50532720,Gonzalo Blumel,Minister Secretary General of the Presidency of Chile->Gen. Sec. of thePresidency,2018-03-11,2019-10-28
 ->,Q501752,Teodoro Ribera,minister of Foreign Affairs of Chile->Foreign Affairs,2019-06-13,2020-07-28
-->,Q4850447,Baldo Prokurica,NULL->Mining,2018-03-11,2020-12-18
+->,Q4850447,Baldo Prokurica,Minister of Mining->Mining,2018-03-11,2020-12-18
 ->,Q4850447,Baldo Prokurica,minister of National Defence of Chile->Defense,2020-12-18,
 ->,Q4760169,Andrés Chadwick,Interior and Public Security Minister of Chile->Interior,2018-03-11,2019-10-28
 ->,Q4760139,Andrés Allamand,minister of Foreign Affairs of Chile->Foreign Affairs,2020-07-28,
-->,Q47509510,Isabel Plá,NULL->Women,2018-03-11,2020-03-13
+->,Q47509510,Isabel Plá,Minister for Women->Women,2018-03-11,2020-03-13
 ->,Q3486821,Jaime Mañalich,Chilean minister of Health->Health,2019-06-13,2020-06-13
-->,Q2396467,Mauricio Rojas,NULL->Culture & theArts,2018-08-09,2018-08-13
+->,Q2396467,Mauricio Rojas,Minister of Culture and the Arts->Culture & theArts,2018-08-09,2018-08-13
 ->,Q16625878,Rodrigo Delgado,Interior and Public Security Minister of Chile->Interior,2020-11-04,
-->,Q16584439,Juan Carlos Jobet,NULL->Mining,2020-12-18,
+->,Q16584439,Juan Carlos Jobet,Minister of Mining->Mining,2020-12-18,
 ->,Q16584439,Juan Carlos Jobet,Minister of Energy (Chile)->Energy,2019-06-13,
-->,Q16302468,Mónica Zalaquett,NULL->Women,2020-06-09,
+->,Q16302468,Mónica Zalaquett,Minister for Women->Women,2020-06-09,
 ->,Q16297719,Jaime Bellolio,minister Secretary General of Government of Chile->Gen. Sec. ofGovernment,2020-07-28,
 ->,Q104795337,María Emilia Undurraga,Agriculture minister of Chile->Agriculture,2021-01-06,
 ->,Q102217865,Rodrigo Cerda Norambuena->Rodrigo Cerda,Minister of Finance - Chile->Finance,2021-01-26,
 ---,Q88996421,Juan José Ossa,Minister Secretary General of the Presidency of Chile,2021-01-06,
 ---,Q59821999,Andrés Couve,"Minister of Science, Technology, Knowledge and Innovation",2018-12-17,
----,Q5958343,Karla Rubilar,Minister of Social Development and Family (Chile),2020-07-28,
 ---,Q58293,Alfredo Moreno,Minister of Social Development and Family (Chile),2019-04-02,2019-06-13
-+++,Q88987534,Javier Naranjo Solano,Environment,2021-11-23,2022-03-11
-+++,Q87086583,Carolina Cuevas Merino,Women,2020-03-13,2020-05-06
-+++,Q72869572,Lucas Palacios,Economy,2019-10-28,
-+++,Q64596365,Susana Jiménez Schuster,Energy,2018-03-11,2019-06-13
-+++,Q5958343,Karla Rubilar,SocialDevelopment,2020-06-04,2020-07-20
 +++,,Sebastián Piñera,President,2018-03-11,2022-03-11
