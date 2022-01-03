@@ -13,11 +13,36 @@ class RemoveReferences < Scraped::Response::Decorator
   end
 end
 
+class UnspanInfoTables < Scraped::Response::Decorator
+  def body
+    Nokogiri::HTML(super).tap do |doc|
+      doc.css('table.infobox').each do |table|
+        unspanned_table = TableUnspanner::UnspannedTable.new(table)
+        table.children = unspanned_table.nokogiri_node.children
+      end
+    end.to_s
+  end
+end
+
+class RemoveEmptyRows < Scraped::Response::Decorator
+  def body
+    Nokogiri::HTML(super).tap do |doc|
+      doc.css('.mw-empty-elt').remove
+    end.to_s
+  end
+end
+
+
 class MemberList
   class Members
     decorator RemoveReferences
-    decorator UnspanAllTables
+    decorator RemoveEmptyRows
+    decorator UnspanInfoTables
     decorator WikidataIdsDecorator::Links
+
+    def members
+      super.reject { |row| row[:name].to_s.empty? }
+    end
 
     def member_container
       noko.xpath('//table[.//th[contains(.,"Piñera Cabinet")]][last()]//tr[td[3]]')
