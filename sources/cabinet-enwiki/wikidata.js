@@ -6,6 +6,7 @@ module.exports = function () {
   return `SELECT DISTINCT (STRAFTER(STR(?item), STR(wd:)) AS ?wdid)
                ?name ?wdLabel ?source ?sourceDate
                (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position
+               ?startDate ?endDate
                (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
           # Positions currently in the cabinet
@@ -13,10 +14,10 @@ module.exports = function () {
 
           # Who currently holds those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .
-          ?held ps:P39 ?positionItem ; pq:P580 ?start .
+          ?held ps:P39 ?positionItem ; pq:P580 ?startDate .
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
-          OPTIONAL { ?held pq:P582 ?end }
-          FILTER (!BOUND(?end) || ?end > "2018-03-11T00:00:00Z"^^xsd:dateTime)
+          OPTIONAL { ?held pq:P582 ?endDate }
+          FILTER (!BOUND(?endDate) || ?endDate > "2018-03-11T00:00:00Z"^^xsd:dateTime)
 
           OPTIONAL {
             ?held prov:wasDerivedFrom ?ref .
