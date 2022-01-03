@@ -1,62 +1,62 @@
-wdid,name,wdLabel,source,sourceDate,pid,position,psid
-Q102217865,Rodrigo Cerda Norambuena,Rodrigo Cerda Norambuena,,,Q55718046,Minister of Finance - Chile,Q102217865-2d112f57-435b-d94f-b83d-108ad505938c
-Q104795337,María Emilia Undurraga,María Emilia Undurraga,,,Q55717940,Agriculture minister of Chile,Q104795337-0e47451f-4d53-120b-9d88-b65347edd554
-Q16297719,Jaime Bellolio,Jaime Bellolio,,,Q55718069,minister Secretary General of Government of Chile,Q16297719-37308b35-450d-eded-7208-35cacfa9a764
-Q16302468,Mónica Zalaquett,Mónica Zalaquett,,,Q55718049,,Q16302468-81662d69-42a3-dcea-f47e-9a4c1da79ead
-Q16584439,Juan Carlos Jobet,Juan Carlos Jobet,,,Q55717973,Minister of Energy (Chile),Q16584439-1057ae6f-41c3-ae82-3877-0d43710d90ff
-Q16584439,Juan Carlos Jobet,Juan Carlos Jobet,,,Q55718056,,Q16584439-b63c3ef6-4ccf-a076-ffd3-435268bdb2ab
-Q16625878,Rodrigo Delgado,Rodrigo Delgado,,,Q55718065,Interior and Public Security Minister of Chile,Q16625878-5b294666-4e19-4a6c-a4bf-83c1035e4e79
-Q2396467,Mauricio Rojas,Mauricio Rojas,,,Q55718051,,Q2396467-019d95d8-4885-82d7-e2d4-fd0179b5c8e1
-Q3486821,Jaime Mañalich,Jaime Mañalich,,,Q22341446,Chilean minister of Health,Q3486821-6fb3b203-4256-e6ae-2565-3cc0cea3a8ab
-Q47509510,Isabel Plá,Isabel Plá,,,Q55718049,,Q47509510-29cf3e81-4ed7-027d-441d-f12d46406397
-Q4760139,Andrés Allamand,Andrés Allamand,,,Q24262884,minister of Foreign Affairs of Chile,Q4760139-48d435de-4d8d-bf53-fb8c-70249dc2efeb
-Q4760169,Andrés Chadwick,Andrés Chadwick,,,Q55718065,Interior and Public Security Minister of Chile,Q4760169-c31ad62a-4d5d-2c56-b304-8030b94cd567
-Q4850447,Baldo Prokurica,Baldo Prokurica,,,Q55717944,minister of National Defence of Chile,Q4850447-85591043-4233-dd9d-a9c7-3625eb032534
-Q4850447,Baldo Prokurica,Baldo Prokurica,,,Q55718056,,Q4850447-c57adb8c-4ac3-65a0-d4f4-6b02cd96ab55
-Q501752,Teodoro Ribera,Teodoro Ribera,,,Q24262884,minister of Foreign Affairs of Chile,Q501752-1c7ed9d2-4c25-a602-ee73-7acb205a2138
-Q50532720,Gonzalo Blumel,Gonzalo Blumel,,,Q55718065,Interior and Public Security Minister of Chile,Q50532720-472EDBFC-EEF8-4415-9A0C-F7D455CB5481
-Q50532720,Gonzalo Blumel,Gonzalo Blumel,,,Q55718071,Minister Secretary General of the Presidency of Chile,Q50532720-846ba74e-4a5b-2035-557c-f0b849f3c0a4
-Q50820982,Raúl Figueroa,Raúl Figueroa,,,Q27149969,Minister of Education of Chile,Q50820982-ec596b6e-3c47-4e3d-bcd5-23ea9b622cf0
-Q55640611,Sebastián Sichel,Sebastián Sichel,,,Q63980185,Minister of Social Development and Family (Chile),Q55640611-2d2bcd9e-4df9-4c86-cd12-62b003960e07
-Q55767801,Gerardo Varela,Gerardo Varela,,,Q27149969,Minister of Education of Chile,Q55767801-3ca1958c-47c2-dc3f-61bb-fe4905b41d01
-Q56037180,Alejandra Pérez,Alejandra Pérez,,,Q55718051,,Q56037180-17147c3e-4810-fcef-2961-fdc8432be2f0
-Q56072569,Consuelo Valdés,Consuelo Valdés,,,Q55718051,,Q56072569-63d1ad1e-49f2-5136-3a56-e93e1828c70e
-Q56167729,Pauline Kantor,Pauline Kantor,,,Q55718064,sports minister of Chile,Q56167729-E632E97A-9D54-4A43-B63D-612A6884279C
-Q5640564,Cecilia Pérez,Cecilia Pérez,,,Q55718064,sports minister of Chile,Q5640564-21af3da5-4649-c67c-f2a3-2e33a74f9bb5
-Q5640564,Cecilia Pérez,Cecilia Pérez,,,Q55718069,minister Secretary General of Government of Chile,Q5640564-59E5E83B-3CC2-4040-9E85-D563258F7DA5
-Q5663007,Alberto Espina,Alberto Espina,,,Q55717944,minister of National Defence of Chile,Q5663007-16EE9F0F-876D-45F7-A0DF-092E126F1596
-Q5742466,Hernán Larraín,Hernán Larraín,,,Q55718048,Minister of Justice and Human Rights,Q5742466-f31b2440-42c4-47c1-df5f-c1d93d03253a
-Q5771849,Claudio Alvarado,Claudio Alvarado,,,Q55718071,Minister Secretary General of the Presidency of Chile,Q5771849-ccecc6fe-4197-c309-c449-b5f138716ab6
-Q5791610,Cristián Monckeberg,Cristián Monckeberg,,,Q55718071,Minister Secretary General of the Presidency of Chile,Q5791610-0728c1fb-455a-b01f-0479-28e4ca63b094
-Q5791610,Cristián Monckeberg,Cristián Monckeberg,,,Q63980185,Minister of Social Development and Family (Chile),Q5791610-4e1ff69c-4504-fb51-ad7a-df52ac5b16b5
-Q5791610,Cristián Monckeberg,Cristián Monckeberg,,,Q55718063,Minister of Housing and Urbanism of Chile,Q5791610-9475ed64-4191-ec94-3c9d-f83875eaed82
-Q58009685,José Ramón Valente Vias,José Ramón Valente Vias,,,Q55717969,,Q58009685-27C44312-11A8-4A3A-A3B5-718F62543606
-Q58293,Alfredo Moreno,Alfredo Moreno,,,Q63980185,Minister of Social Development and Family (Chile),Q58293-497002b2-4510-183a-5ca0-f9b5b1ee4099
-Q58293,Alfredo Moreno,Alfredo Moreno,,,Q55717968,Minister of Social Development of Chile,Q58293-a0384d7a-4baa-dfd4-5f7d-ba7d70424464
-Q58293,Alfredo Moreno,Alfredo Moreno,,,Q55718058,Minister of Public Works of Chile,Q58293-c477b585-412b-68bf-4aa4-8835eecdb576
-Q5858275,Felipe Larraín Bascuñán,Felipe Larraín Bascuñán,,,Q55718046,Minister of Finance - Chile,Q5858275-5166EA57-EFDB-425D-91DD-B0EDB06A2178
-Q5858483,Felipe Ward,Felipe Ward,,,Q55717943,minister of National Assets of Chile,Q5858483-30a61507-4c0f-7c03-edc2-1a4a17a52d9e
-Q5858483,Felipe Ward,Felipe Ward,,,Q55718071,Minister Secretary General of the Presidency of Chile,Q5858483-6b28984d-4cc8-61e0-c256-3605cecf8b0f
-Q5858483,Felipe Ward,Felipe Ward,,,Q55718063,Minister of Housing and Urbanism of Chile,Q5858483-f15a679d-468e-321d-3b63-b0286f20ab9a
-Q5881260,Gloria Hutt,Gloria Hutt,,,Q55718060,Transport and Telecommunications Minister of Chile,Q5881260-0fbc5c62-4bb3-5536-fb15-4de23f476f2e
-Q5958343,Karla Rubilar,Karla Rubilar,,,Q55718069,minister Secretary General of Government of Chile,Q5958343-95a0127a-4f80-4a8f-03e2-15a541707405
-Q5958343,Karla Rubilar,Karla Rubilar,,,Q63980185,Minister of Social Development and Family (Chile),Q5958343-c00e4ff1-4766-b6ec-a6d6-d391a899d642
-Q59797711,Antonio Walker,Antonio Walker,,,Q55717940,Agriculture minister of Chile,Q59797711-fa8d6f33-44bf-e48f-2878-d29df8fb608a
-Q59821999,Andrés Couve,Andrés Couve,,,Q59831726,"Minister of Science, Technology, Knowledge and Innovation",Q59821999-72e8d6fa-4206-5249-d504-a5d5001acfb7
-Q5988683,Macarena Santelices,Macarena Santelices,,,Q55718049,,Q5988683-fa3260ac-4502-2943-8322-d914c6c372dd
-Q5995504,Marcela Cubillos,Marcela Cubillos,,,Q55718067,Environment Minister,Q5995504-50EC7EEF-0DC4-4C1B-BE55-C2086539833C
-Q5995504,Marcela Cubillos,Marcela Cubillos,,,Q27149969,Minister of Education of Chile,Q5995504-a5791d6c-4412-56e4-ff77-3c616a2e588c
-Q5998614,Mario Desbordes,Mario Desbordes,,,Q55717944,minister of National Defence of Chile,Q5998614-6e2acf84-40fb-3a26-1e10-4f02e3f1387f
-Q60032521,Emilio Santelices,Emilio Santelices,,,Q22341446,Chilean minister of Health,Q60032521-14117f4b-40db-42fd-adbb-0c5e487acdb7
-Q6066731,Patricio Melero,Patricio Melero,,,Q55718068,Minister of Labour,Q6066731-939433c0-48c1-fff3-981f-04cf99d7d096
-Q6165698,Víctor Pérez Varela,Víctor Pérez Varela,,,Q55718065,Interior and Public Security Minister of Chile,Q6165698-34b801e3-43a2-66bd-8e70-3258970c12d2
-Q7030399,Nicolás Monckeberg,Nicolás Monckeberg,,,Q55718068,Minister of Labour,Q7030399-0e5547d7-4a7e-5f63-0b26-50be27a183e8
-Q72724393,Julio Isamit,Julio Isamit,,,Q55717943,minister of National Assets of Chile,Q72724393-89607151-4bb7-046e-8462-64347ec8c972
-Q72749842,Ignacio Briones,Ignacio Briones,,,Q55718046,Minister of Finance - Chile,Q72749842-a424a736-45fe-bd79-6e40-9adcdb301e8c
-Q72753586,María José Zaldivar,María José Zaldivar,,,Q55718068,Minister of Labour,Q72753586-8dcb6248-4964-88bd-6497-e7802e4ae3f0
-Q734056,Carolina Schmidt,Carolina Schmidt,,,Q55718067,Environment Minister,Q734056-b76d19dc-4cc7-49f1-c24e-1fd654983e8f
-Q88996421,Juan José Ossa,Juan José Ossa,,,Q55718071,Minister Secretary General of the Presidency of Chile,Q88996421-31bd2ce9-48cd-7044-a3ef-b5d8e07a0ce1
-Q9015138,Juan Andrés Fontaine Talavera,Juan Andrés Fontaine Talavera,,,Q55718058,Minister of Public Works of Chile,Q9015138-96bcf58a-49eb-c089-bfc8-16e6472eb7aa
-Q9015138,Juan Andrés Fontaine Talavera,Juan Andrés Fontaine Talavera,,,Q55717969,,Q9015138-a8fd5bfa-4401-a155-e7ec-046491b9b02a
-Q922795,Roberto Ampuero,Roberto Ampuero,,,Q24262884,minister of Foreign Affairs of Chile,Q922795-b34d21dd-4c6a-ddce-d55f-817e764156b3
-Q96254224,Enrique Paris,Enrique Paris,,,Q22341446,Chilean minister of Health,Q96254224-61633269-4d0b-0907-6cb6-d77af80e53db
+wdid,name,wdLabel,source,sourceDate,pid,position,startDate,endDate,psid
+Q102217865,Rodrigo Cerda Norambuena,Rodrigo Cerda Norambuena,,,Q55718046,Minister of Finance - Chile,2021-01-26,,Q102217865-2d112f57-435b-d94f-b83d-108ad505938c
+Q104795337,María Emilia Undurraga,María Emilia Undurraga,,,Q55717940,Agriculture minister of Chile,2021-01-06,,Q104795337-0e47451f-4d53-120b-9d88-b65347edd554
+Q16297719,Jaime Bellolio,Jaime Bellolio,,,Q55718069,minister Secretary General of Government of Chile,2020-07-28,,Q16297719-37308b35-450d-eded-7208-35cacfa9a764
+Q16302468,Mónica Zalaquett,Mónica Zalaquett,,,Q55718049,,2020-06-09,,Q16302468-81662d69-42a3-dcea-f47e-9a4c1da79ead
+Q16584439,Juan Carlos Jobet,Juan Carlos Jobet,,,Q55717973,Minister of Energy (Chile),2019-06-13,,Q16584439-1057ae6f-41c3-ae82-3877-0d43710d90ff
+Q16584439,Juan Carlos Jobet,Juan Carlos Jobet,,,Q55718056,,2020-12-18,,Q16584439-b63c3ef6-4ccf-a076-ffd3-435268bdb2ab
+Q16625878,Rodrigo Delgado,Rodrigo Delgado,,,Q55718065,Interior and Public Security Minister of Chile,2020-11-04,,Q16625878-5b294666-4e19-4a6c-a4bf-83c1035e4e79
+Q2396467,Mauricio Rojas,Mauricio Rojas,,,Q55718051,,2018-08-09,2018-08-13,Q2396467-019d95d8-4885-82d7-e2d4-fd0179b5c8e1
+Q3486821,Jaime Mañalich,Jaime Mañalich,,,Q22341446,Chilean minister of Health,2019-06-13,2020-06-13,Q3486821-6fb3b203-4256-e6ae-2565-3cc0cea3a8ab
+Q47509510,Isabel Plá,Isabel Plá,,,Q55718049,,2018-03-11,2020-03-13,Q47509510-29cf3e81-4ed7-027d-441d-f12d46406397
+Q4760139,Andrés Allamand,Andrés Allamand,,,Q24262884,minister of Foreign Affairs of Chile,2020-07-28,,Q4760139-48d435de-4d8d-bf53-fb8c-70249dc2efeb
+Q4760169,Andrés Chadwick,Andrés Chadwick,,,Q55718065,Interior and Public Security Minister of Chile,2018-03-11,2019-10-28,Q4760169-c31ad62a-4d5d-2c56-b304-8030b94cd567
+Q4850447,Baldo Prokurica,Baldo Prokurica,,,Q55717944,minister of National Defence of Chile,2020-12-18,,Q4850447-85591043-4233-dd9d-a9c7-3625eb032534
+Q4850447,Baldo Prokurica,Baldo Prokurica,,,Q55718056,,2018-03-11,2020-12-18,Q4850447-c57adb8c-4ac3-65a0-d4f4-6b02cd96ab55
+Q501752,Teodoro Ribera,Teodoro Ribera,,,Q24262884,minister of Foreign Affairs of Chile,2019-06-13,2020-07-28,Q501752-1c7ed9d2-4c25-a602-ee73-7acb205a2138
+Q50532720,Gonzalo Blumel,Gonzalo Blumel,,,Q55718065,Interior and Public Security Minister of Chile,2019-10-28,2020-07-28,Q50532720-472EDBFC-EEF8-4415-9A0C-F7D455CB5481
+Q50532720,Gonzalo Blumel,Gonzalo Blumel,,,Q55718071,Minister Secretary General of the Presidency of Chile,2018-03-11,2019-10-28,Q50532720-846ba74e-4a5b-2035-557c-f0b849f3c0a4
+Q50820982,Raúl Figueroa,Raúl Figueroa,,,Q27149969,Minister of Education of Chile,2020-02-28,,Q50820982-ec596b6e-3c47-4e3d-bcd5-23ea9b622cf0
+Q55640611,Sebastián Sichel,Sebastián Sichel,,,Q63980185,Minister of Social Development and Family (Chile),2019-06-13,2020-06-04,Q55640611-2d2bcd9e-4df9-4c86-cd12-62b003960e07
+Q55767801,Gerardo Varela,Gerardo Varela,,,Q27149969,Minister of Education of Chile,2018-03-11,2018-08-09,Q55767801-3ca1958c-47c2-dc3f-61bb-fe4905b41d01
+Q56037180,Alejandra Pérez,Alejandra Pérez,,,Q55718051,,2018-03-11,2018-08-09,Q56037180-17147c3e-4810-fcef-2961-fdc8432be2f0
+Q56072569,Consuelo Valdés,Consuelo Valdés,,,Q55718051,,2018-08-13,,Q56072569-63d1ad1e-49f2-5136-3a56-e93e1828c70e
+Q56167729,Pauline Kantor,Pauline Kantor,,,Q55718064,sports minister of Chile,2018-03-11,2019-10-28,Q56167729-E632E97A-9D54-4A43-B63D-612A6884279C
+Q5640564,Cecilia Pérez,Cecilia Pérez,,,Q55718064,sports minister of Chile,2019-10-28,,Q5640564-21af3da5-4649-c67c-f2a3-2e33a74f9bb5
+Q5640564,Cecilia Pérez,Cecilia Pérez,,,Q55718069,minister Secretary General of Government of Chile,2018-03-11,2019-10-28,Q5640564-59E5E83B-3CC2-4040-9E85-D563258F7DA5
+Q5663007,Alberto Espina,Alberto Espina,,,Q55717944,minister of National Defence of Chile,2018-03-11,2020-07-28,Q5663007-16EE9F0F-876D-45F7-A0DF-092E126F1596
+Q5742466,Hernán Larraín,Hernán Larraín,,,Q55718048,Minister of Justice and Human Rights,2018-03-11,,Q5742466-f31b2440-42c4-47c1-df5f-c1d93d03253a
+Q5771849,Claudio Alvarado,Claudio Alvarado,,,Q55718071,Minister Secretary General of the Presidency of Chile,2020-06-04,2020-07-28,Q5771849-ccecc6fe-4197-c309-c449-b5f138716ab6
+Q5791610,Cristián Monckeberg,Cristián Monckeberg,,,Q55718071,Minister Secretary General of the Presidency of Chile,2020-07-28,2021-01-06,Q5791610-0728c1fb-455a-b01f-0479-28e4ca63b094
+Q5791610,Cristián Monckeberg,Cristián Monckeberg,,,Q63980185,Minister of Social Development and Family (Chile),2020-06-04,2020-07-28,Q5791610-4e1ff69c-4504-fb51-ad7a-df52ac5b16b5
+Q5791610,Cristián Monckeberg,Cristián Monckeberg,,,Q55718063,Minister of Housing and Urbanism of Chile,2018-03-11,2020-06-04,Q5791610-9475ed64-4191-ec94-3c9d-f83875eaed82
+Q58009685,José Ramón Valente Vias,José Ramón Valente Vias,,,Q55717969,"Minister of Economy, Development and Tourism",2018-03-11,2019-06-13,Q58009685-27C44312-11A8-4A3A-A3B5-718F62543606
+Q58293,Alfredo Moreno,Alfredo Moreno,,,Q63980185,Minister of Social Development and Family (Chile),2019-04-02,2019-06-13,Q58293-497002b2-4510-183a-5ca0-f9b5b1ee4099
+Q58293,Alfredo Moreno,Alfredo Moreno,,,Q55717968,Minister of Social Development of Chile,2018-03-11,2019-04-02,Q58293-a0384d7a-4baa-dfd4-5f7d-ba7d70424464
+Q58293,Alfredo Moreno,Alfredo Moreno,,,Q55718058,Minister of Public Works of Chile,2019-06-13,,Q58293-c477b585-412b-68bf-4aa4-8835eecdb576
+Q5858275,Felipe Larraín Bascuñán,Felipe Larraín Bascuñán,,,Q55718046,Minister of Finance - Chile,2018-03-11,2019-10-28,Q5858275-5166EA57-EFDB-425D-91DD-B0EDB06A2178
+Q5858483,Felipe Ward,Felipe Ward,,,Q55717943,minister of National Assets of Chile,2018-03-11,2019-10-28,Q5858483-30a61507-4c0f-7c03-edc2-1a4a17a52d9e
+Q5858483,Felipe Ward,Felipe Ward,,,Q55718071,Minister Secretary General of the Presidency of Chile,2019-10-28,2020-06-04,Q5858483-6b28984d-4cc8-61e0-c256-3605cecf8b0f
+Q5858483,Felipe Ward,Felipe Ward,,,Q55718063,Minister of Housing and Urbanism of Chile,2020-06-04,,Q5858483-f15a679d-468e-321d-3b63-b0286f20ab9a
+Q5881260,Gloria Hutt,Gloria Hutt,,,Q55718060,Transport and Telecommunications Minister of Chile,2018-03-11,,Q5881260-0fbc5c62-4bb3-5536-fb15-4de23f476f2e
+Q5958343,Karla Rubilar,Karla Rubilar,,,Q55718069,minister Secretary General of Government of Chile,2019-10-28,2020-07-28,Q5958343-95a0127a-4f80-4a8f-03e2-15a541707405
+Q5958343,Karla Rubilar,Karla Rubilar,,,Q63980185,Minister of Social Development and Family (Chile),2020-07-28,,Q5958343-c00e4ff1-4766-b6ec-a6d6-d391a899d642
+Q59797711,Antonio Walker,Antonio Walker,,,Q55717940,Agriculture minister of Chile,2018-03-11,2021-01-06,Q59797711-fa8d6f33-44bf-e48f-2878-d29df8fb608a
+Q59821999,Andrés Couve,Andrés Couve,,,Q59831726,"Minister of Science, Technology, Knowledge and Innovation",2018-12-17,,Q59821999-72e8d6fa-4206-5249-d504-a5d5001acfb7
+Q5988683,Macarena Santelices,Macarena Santelices,,,Q55718049,,2020-05-06,2020-06-09,Q5988683-fa3260ac-4502-2943-8322-d914c6c372dd
+Q5995504,Marcela Cubillos,Marcela Cubillos,,,Q55718067,Environment Minister,2018-03-11,2018-08-09,Q5995504-50EC7EEF-0DC4-4C1B-BE55-C2086539833C
+Q5995504,Marcela Cubillos,Marcela Cubillos,,,Q27149969,Minister of Education of Chile,2018-08-09,2020-02-28,Q5995504-a5791d6c-4412-56e4-ff77-3c616a2e588c
+Q5998614,Mario Desbordes,Mario Desbordes,,,Q55717944,minister of National Defence of Chile,2020-07-28,2020-12-18,Q5998614-6e2acf84-40fb-3a26-1e10-4f02e3f1387f
+Q60032521,Emilio Santelices,Emilio Santelices,,,Q22341446,Chilean minister of Health,2018-03-11,2019-06-13,Q60032521-14117f4b-40db-42fd-adbb-0c5e487acdb7
+Q6066731,Patricio Melero,Patricio Melero,,,Q55718068,Minister of Labour,2021-04-07,,Q6066731-939433c0-48c1-fff3-981f-04cf99d7d096
+Q6165698,Víctor Pérez Varela,Víctor Pérez Varela,,,Q55718065,Interior and Public Security Minister of Chile,2020-07-28,2020-11-03,Q6165698-34b801e3-43a2-66bd-8e70-3258970c12d2
+Q7030399,Nicolás Monckeberg,Nicolás Monckeberg,,,Q55718068,Minister of Labour,2018-03-11,2019-10-28,Q7030399-0e5547d7-4a7e-5f63-0b26-50be27a183e8
+Q72724393,Julio Isamit,Julio Isamit,,,Q55717943,minister of National Assets of Chile,2019-10-28,,Q72724393-89607151-4bb7-046e-8462-64347ec8c972
+Q72749842,Ignacio Briones,Ignacio Briones,,,Q55718046,Minister of Finance - Chile,2019-10-28,2021-01-26,Q72749842-a424a736-45fe-bd79-6e40-9adcdb301e8c
+Q72753586,María José Zaldivar,María José Zaldivar,,,Q55718068,Minister of Labour,2019-10-28,2021-04-07,Q72753586-8dcb6248-4964-88bd-6497-e7802e4ae3f0
+Q734056,Carolina Schmidt,Carolina Schmidt,,,Q55718067,Environment Minister,2018-08-09,,Q734056-b76d19dc-4cc7-49f1-c24e-1fd654983e8f
+Q88996421,Juan José Ossa,Juan José Ossa,,,Q55718071,Minister Secretary General of the Presidency of Chile,2021-01-06,,Q88996421-31bd2ce9-48cd-7044-a3ef-b5d8e07a0ce1
+Q9015138,Juan Andrés Fontaine Talavera,Juan Andrés Fontaine Talavera,,,Q55718058,Minister of Public Works of Chile,2018-03-11,2019-06-13,Q9015138-96bcf58a-49eb-c089-bfc8-16e6472eb7aa
+Q9015138,Juan Andrés Fontaine Talavera,Juan Andrés Fontaine Talavera,,,Q55717969,"Minister of Economy, Development and Tourism",2019-06-13,2019-10-28,Q9015138-a8fd5bfa-4401-a155-e7ec-046491b9b02a
+Q922795,Roberto Ampuero,Roberto Ampuero,,,Q24262884,minister of Foreign Affairs of Chile,2018-03-11,2019-06-13,Q922795-b34d21dd-4c6a-ddce-d55f-817e764156b3
+Q96254224,Enrique Paris,Enrique Paris,,,Q22341446,Chilean minister of Health,2020-06-13,,Q96254224-61633269-4d0b-0907-6cb6-d77af80e53db
