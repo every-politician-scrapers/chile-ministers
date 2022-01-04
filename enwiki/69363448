@@ -1,0 +1,192 @@
+{
+  "title": "Javier Naranjo Solano",
+  "pageID": 69363448,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Politicians from Santiago",
+    "Pontifical Catholic University of Chile alumni",
+    "Andrés Bello National University alumni",
+    "Environment ministers",
+    "Government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Javier Naranjo Solano (born 10 June 1983) is a Chilean lawyer and current Minister for the Environment.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chile"
+                },
+                {
+                  "text": "Minister for the Environment",
+                  "type": "internal",
+                  "page": "Ministry for the Environment (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Javier Naranjo Solano"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Naranjo",
+            "Solano"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1983",
+          "month": "6",
+          "day": "10",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Andrés Bello National University (BA)",
+            "Pontifical Catholic University of Chile (MD)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Javier Naranjo Solano"
+          },
+          "image": {
+            "text": "Subsecretario_Medio_Ambiente_Javier_Naranjo_2020.jpg"
+          },
+          "birth_date": {
+            "text": "June 10, 1983"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister for the Environment",
+            "links": [
+              {
+                "text": "Minister for the Environment",
+                "type": "internal",
+                "page": "Ministry for the Environment (Chile)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 November 2021"
+          },
+          "term_end": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Carolina Schmidt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carolina Schmidt"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Undersecretary for the Environment",
+            "links": [
+              {
+                "text": "Undersecretary for the Environment",
+                "type": "internal",
+                "page": "Undersecretariat for the Environment (Chile)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 February 2020"
+          },
+          "term_end2": {
+            "text": "22 November 2021"
+          },
+          "predecessor2": {
+            "text": "Marcelo Fernández Gómez"
+          },
+          "successor2": {
+            "text": "Felipe Riesco"
+          },
+          "president2": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent (politician)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Andrés Bello National University (BA)\n\nPontifical Catholic University of Chile (MD)"
+          },
+          "profession": {
+            "text": "Lawyer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawyer"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

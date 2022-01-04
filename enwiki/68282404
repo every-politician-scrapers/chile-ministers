@@ -1,0 +1,213 @@
+{
+  "title": "Julio Isamit",
+  "pageID": 68282404,
+  "categories": [
+    "1989 births",
+    "Living people",
+    "Chilean people of Arab descent",
+    "Instituto Nacional General José Miguel Carrera alumni",
+    "Pontifical Catholic University of Chile alumni",
+    "21st-century Chilean politicians",
+    "Independent Democratic Union politicians",
+    "People from Santiago",
+    "Government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Julio Isamit Díaz (born 18 August 1989) is a Chilean politician and lawyer.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Julio Isamit Díaz"
+                ]
+              }
+            },
+            {
+              "text": "In 2006, he was part of the Pingüino Movement (2006)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was named Minister of National Assets on 28 October 2019 amid the 2019–20 social crisis («Estallido Social»).",
+              "links": [
+                {
+                  "text": "Minister of National Assets",
+                  "type": "internal",
+                  "page": "Ministry of National Assets (Chile)"
+                },
+                {
+                  "text": "2019–20 social crisis",
+                  "type": "internal",
+                  "page": "2019-20 Chilean protests"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His surname is of Arab Maltese origin.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arab Maltese"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean journalist and politician.",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Isamit",
+            "Díaz"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1989",
+          "month": "2",
+          "day": "18",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Pontifical Catholic University of Chile (BA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Julio Isamit"
+          },
+          "image": {
+            "text": "JULIO_ISAMIT_DIAZ.jpg"
+          },
+          "caption": {
+            "text": "Official portrait (2019)"
+          },
+          "birth_date": {
+            "text": "February 18, 1989"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of National Assets",
+            "links": [
+              {
+                "text": "Minister of National Assets",
+                "type": "internal",
+                "page": "Ministry of National Assets (Chile)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 October 2019"
+          },
+          "predecessor": {
+            "text": "Felipe Ward",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Felipe Ward"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "party": {
+            "text": "Close to Unión Demócrata Independiente (2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Unión Demócrata Independiente"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Chile (BA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawyer"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Manuel Ángel Isamit Julia del Tránsito Díaz"
+          }
+        }
+      ]
+    }
+  ]
+}

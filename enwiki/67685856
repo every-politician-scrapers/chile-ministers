@@ -1,0 +1,188 @@
+{
+  "title": "Irací Hassler",
+  "pageID": 67685856,
+  "categories": [
+    "Living people",
+    "1990 births",
+    "Chilean people of Brazilian descent",
+    "Politicians from Santiago",
+    "21st-century Chilean women politicians",
+    "21st-century Chilean politicians",
+    "Communist Party of Chile politicians",
+    "University of Chile alumni",
+    "Chilean people of Swiss descent",
+    "Chilean people of Swiss-German descent",
+    "Mayors of Santiago"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Irací Luiza Hassler Jacob (born 6 November 1990) is a Chilean politician and economist who currently serves as the Mayor of the Commune of Santiago, which corresponds with Downtown Santiago, since 2021.",
+              "links": [
+                {
+                  "text": "Commune",
+                  "type": "internal",
+                  "page": "Communes of Chile"
+                },
+                {
+                  "text": "Santiago",
+                  "type": "internal",
+                  "page": "Santiago (commune)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Irací Luiza Hassler Jacob"
+                ]
+              }
+            },
+            {
+              "text": "Hassler is a member of the Communist Party of Chile (PCCh), a left-wing political party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Party of Chile"
+                },
+                {
+                  "text": "left-wing",
+                  "type": "internal",
+                  "page": "left-wing"
+                }
+              ]
+            },
+            {
+              "text": "She has been described as \"the new face of feminism and environmentalism\" in Chile.",
+              "links": [
+                {
+                  "text": "feminism",
+                  "type": "internal",
+                  "page": "Feminism in Chile"
+                },
+                {
+                  "text": "environmentalism",
+                  "type": "internal",
+                  "page": "environmentalism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chile"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Hassler",
+            "Jacob"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "description": "Chilean politician and economist",
+          "template": "short description"
+        },
+        {
+          "year": "1990",
+          "month": "11",
+          "day": "6",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Irací Hassler"
+          },
+          "image": {
+            "text": "Iraci Hassler Jacob.jpg"
+          },
+          "office": {
+            "text": "Mayor of Santiago Centro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago Centro"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 28, 2021"
+          },
+          "predecessor": {
+            "text": "Felipe Alessandri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Felipe Alessandri"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Irací Hassler"
+          },
+          "office1": {
+            "text": "Santiago municipal councillor",
+            "links": [
+              {
+                "text": "Santiago",
+                "type": "internal",
+                "page": "Santiago (commune)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2016",
+            "number": 2016
+          },
+          "term_end1": {
+            "text": "2021",
+            "number": 2021
+          },
+          "alma_mater": {
+            "text": "University of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Chile"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of Chile"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 6, 1990"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Irací Luiza Hassler Jacob"
+          }
+        }
+      ]
+    }
+  ]
+}

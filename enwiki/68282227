@@ -1,0 +1,234 @@
+{
+  "title": "Gloria Hutt",
+  "pageID": 68282227,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Chilean people of Swiss-German descent",
+    "Pontifical Catholic University of Chile alumni",
+    "Georgetown University alumni",
+    "21st-century Chilean politicians",
+    "Evópoli politicians",
+    "Government ministers of Chile",
+    "Women government ministers of Chile",
+    "21st-century Chilean women politicians",
+    "People from Santiago"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gloria de los Ángeles Hutt Hesse (born 31 January 1955) is a Chilean politician and journalist, militant from Political Evolution (Evópoli/EVOP).",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "journalist",
+                  "type": "internal",
+                  "page": "journalist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Political Evolution"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gloria de los Ángeles Hutt Hesse"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1990s, she was the vice-president of CEMA Chile, organization linked to Lucía Hiriart, wife of General Augusto Pinochet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "CEMA Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lucía Hiriart"
+                },
+                {
+                  "type": "internal",
+                  "page": "General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Augusto Pinochet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean civil engineer and politician.",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1955",
+          "month": "1",
+          "day": "31",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Pontifical Catholic University of Chile (BA)",
+            "Georgetown University (MA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gloria Hutt"
+          },
+          "image": {
+            "text": "GLORIA_HUTT.jpg"
+          },
+          "caption": {
+            "text": "Official portrait (2018)"
+          },
+          "birth_date": {
+            "text": "January 31, 1955"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Transport and Telecommunications",
+            "links": [
+              {
+                "text": "Minister of Transport and Telecommunications",
+                "type": "internal",
+                "page": "Ministry of Transport and Telecommunications"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2018"
+          },
+          "predecessor": {
+            "text": "Paola Tapia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paola Tapia"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Undersecretary of Transports",
+            "links": [
+              {
+                "text": "Undersecretary of Transports",
+                "type": "internal",
+                "page": "Undersecretariat Transports and Telecommunications"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 March 2010"
+          },
+          "term_end1": {
+            "text": "11 March 2014"
+          },
+          "predecessor1": {
+            "text": "Raúl Erazo Torricelli"
+          },
+          "successor1": {
+            "text": "Cristian Bowen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristian Bowen"
+              }
+            ]
+          },
+          "party": {
+            "text": "Evópoli",
+            "links": [
+              {
+                "text": "Evópoli",
+                "type": "internal",
+                "page": "Political Evolution"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Chile (BA)\n\nGeorgetown University (MA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Civil Engineer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Civil Engineer"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Felipe Cossio (1976–2020; dead in 2020  )"
+          },
+          "children": {
+            "text": "Five"
+          }
+        }
+      ]
+    }
+  ]
+}
