@@ -1,0 +1,143 @@
+{
+  "title": "Alfredo Moreno Charme",
+  "pageID": 33194751,
+  "categories": [
+    "1956 births",
+    "Foreign ministers of Chile",
+    "Living people",
+    "People from Santiago",
+    "Chilean Ministers of Public Works"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alfredo Moreno Charme (born August 4, 1956) is a Chilean diplomat and politician.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chile"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alfredo Moreno Charme"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Charme was born in Valparaíso, Chile.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Valparaíso"
+                }
+              ]
+            },
+            {
+              "text": "He was the Minister of Foreign Affairs of Chile under President Sebastián Piñera.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs of Chile",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Chile)"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastián Piñera"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1956",
+          "month": "8",
+          "day": "4",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alfredo Moreno Charme"
+          },
+          "image": {
+            "text": "Alfredo Moreno.jpg"
+          },
+          "office": {
+            "text": "Foreign Affairs Minister of Chile",
+            "links": [
+              {
+                "text": "Foreign Affairs Minister of Chile",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Chile)"
+              }
+            ]
+          },
+          "appointer": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 11, 2010"
+          },
+          "term_end": {
+            "text": "March 11, 2014"
+          },
+          "predecessor": {
+            "text": "Mariano Fernández Amunátegui",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mariano Fernández Amunátegui"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Heraldo Muñoz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heraldo Muñoz"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 4, 1956"
+          },
+          "birth_place": {
+            "text": "Valparaíso, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Valparaíso"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

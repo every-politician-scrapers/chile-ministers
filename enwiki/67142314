@@ -1,0 +1,127 @@
+{
+  "title": "Rodrigo Cerda",
+  "pageID": 67142314,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "People from Santiago",
+    "Chilean Ministers of Finance",
+    "Chilean economists",
+    "Pontifical Catholic University of Chile alumni",
+    "University of Chicago Booth School of Business alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodrigo Andrés Cerda Norambuena (born February 13, 1973) is a Chilean economist and politician.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chile"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rodrigo Andrés Cerda Norambuena"
+                ]
+              }
+            },
+            {
+              "text": "Between March 2018 and December 2019, he served as Budget Director."
+            },
+            {
+              "text": "He currently serves as Minister of Finance under the second government of Sebastián Piñera.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Chile)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastián Piñera"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean economist and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1973",
+          "month": "2",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "RODRIGO_CERDA_NORAMBUENA_MINISTRO_DE_HACIENDA_(2021).jpg"
+          },
+          "office": {
+            "text": "Minister of Finance of Chile",
+            "links": [
+              {
+                "text": "Minister of Finance of Chile",
+                "type": "internal",
+                "page": "Ministry of Finance (Chile)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 26, 2021"
+          },
+          "predecessor": {
+            "text": "Ignacio Briones",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ignacio Briones"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 13, 1973"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "name": {
+            "text": "Rodrigo Cerda"
+          }
+        }
+      ]
+    }
+  ]
+}

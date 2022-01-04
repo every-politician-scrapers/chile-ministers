@@ -1,0 +1,169 @@
+{
+  "title": "Ricardo Martínez Menanteau",
+  "pageID": 59426947,
+  "categories": [
+    "Chilean Army generals",
+    "Chilean Army",
+    "Chilean Army enlisted personnel",
+    "1960 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ricardo Martínez Menanteau (born 24 February 1960, Santiago, Chile) is a member of the Chilean military and has held the position of Commander-in-Chief of Chile since 9 March 2018, since being appointed by former president Michelle Bachelet after predecessor, Humberto Oviedo, retired.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Santiago"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chile"
+                },
+                {
+                  "text": "Commander-in-Chief",
+                  "type": "internal",
+                  "page": "List of commanders-in-chief of the Chilean Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "Michelle Bachelet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Humberto Oviedo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ricardo Martínez Menanteau"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean military officer",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Commander-in-chief of the Chilean Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Commander-in-chief of the Chilean Army"
+              }
+            ]
+          },
+          "honorific_prefix": {
+            "text": "Army General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Army General"
+              }
+            ]
+          },
+          "image": {
+            "text": "MartinezMenanteau,Ricardo-www.ejercito.cl.jpg"
+          },
+          "termstart": {
+            "text": "9 March 2018"
+          },
+          "term_end": {
+            "text": "9 March 2022"
+          },
+          "appointer": {
+            "text": "Michelle Bachelet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michelle Bachelet"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera (2018−2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Javier Iturriaga del Campo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Javier Iturriaga del Campo"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "24 February 1960, 60 years ago"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Coat of arms of Chile.svg Chilean Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chilean Army"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇨🇱 Chile",
+            "links": [
+              {
+                "text": "Chile",
+                "type": "internal",
+                "page": "chile"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1976-present"
+          },
+          "rank": {
+            "text": "Army General/Commander-in-chief",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Army General"
+              },
+              {
+                "type": "internal",
+                "page": "Commander-in-chief"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

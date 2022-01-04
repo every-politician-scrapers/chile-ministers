@@ -1,0 +1,195 @@
+{
+  "title": "María Emilia Undurraga",
+  "pageID": 68298663,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "Chilean people",
+    "Pontifical Catholic University of Chile alumni",
+    "Duke University alumni",
+    "21st-century Chilean politicians",
+    "Evópoli politicians",
+    "Ministers of Agriculture of Chile",
+    "Government ministers of Chile",
+    "Women government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "María Emilia Undurraga Marimón (born 1975) is a Chilean politician, sociologist and agronomist.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "sociologist",
+                  "type": "internal",
+                  "page": "sociology"
+                },
+                {
+                  "text": "agronomist",
+                  "type": "internal",
+                  "page": "agronomist"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "María Emilia Undurraga Marimón"
+                ]
+              }
+            },
+            {
+              "text": "Since 6 January 2021, she has served as minister of agriculture in the government of Chilean President Sebastián Piñera.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sebastián Piñera"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean journalist and politician.",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "María Emilia Undurraga"
+          ],
+          "date": "July 2021",
+          "template": "expand spanish"
+        },
+        {
+          "list": [
+            "Pontifical Catholic University of Chile (BA)",
+            "Duke University (MA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "María Emilia Undurraga"
+          },
+          "image": {
+            "text": "MINISTRA_DE_AGRICULTURA_DE_CHILE_MARÍA_EMILIA_UNDURRAGA_(2021).jpg"
+          },
+          "caption": {
+            "text": "Official portrait (2018)"
+          },
+          "birth_date": {
+            "text": "1975",
+            "number": 1975
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Agriculture",
+            "links": [
+              {
+                "text": "Minister of Agriculture",
+                "type": "internal",
+                "page": "Ministry of Agriculture (Chile)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 January 2021"
+          },
+          "predecessor": {
+            "text": "Antonio Walker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antonio Walker"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "party": {
+            "text": "Evópoli",
+            "links": [
+              {
+                "text": "Evópoli",
+                "type": "internal",
+                "page": "Political Evolution"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Chile (BA)\n\nDuke University (MA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Sociology, Agronomist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sociology"
+              },
+              {
+                "type": "internal",
+                "page": "Agronomist"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Cristián Matetic"
+          },
+          "children": {
+            "text": "Four"
+          }
+        }
+      ]
+    }
+  ]
+}

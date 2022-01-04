@@ -1,0 +1,280 @@
+{
+  "title": "Juan José Ossa",
+  "pageID": 68261598,
+  "categories": [
+    "1979 births",
+    "Living people",
+    "Chilean people",
+    "Pontifical Catholic University of Chile alumni",
+    "Alumni of the London School of Economics",
+    "21st-century Chilean politicians",
+    "National Renewal (Chile) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan José María Santa Cruz (born 12 September 1979) is a Chilean lawyer and politician.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan José María Santa Cruz"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Ministry General Secretariat of the Presidency and in 2018 y 2020 was appointed by Sebastián Piñera as Undersecretary of Justice and General Undersecretariat of the Presidency.",
+              "links": [
+                {
+                  "text": "Ministry General Secretariat of the Presidency",
+                  "type": "internal",
+                  "page": "Ministry General Secretariat of the Presidency (Chile)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastián Piñera"
+                },
+                {
+                  "text": "Undersecretary of Justice",
+                  "type": "internal",
+                  "page": "Undersecretary of Justice of Chile"
+                },
+                {
+                  "text": "General Undersecretariat of the Presidency",
+                  "type": "internal",
+                  "page": "General Undersecretariat of the Presidency (Chile)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "more citations needed"
+        },
+        {
+          "date": "July 2021",
+          "template": "expand spanish"
+        },
+        {
+          "df": "y",
+          "year": "1979",
+          "month": "9",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Pontifical Catholic University of Chile (BA)",
+            "London School of Economics (MA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Juan José Ossa"
+          },
+          "image": {
+            "text": "MINISTRO_SEGPRES_JUAN_JOSÉ_OSSA_(2021).png"
+          },
+          "caption": {
+            "text": "Official portrait (2021)"
+          },
+          "birth_date": {
+            "text": "September 12, 1979"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Ministry General Secretariat of the Presidency",
+            "links": [
+              {
+                "text": "Ministry General Secretariat of the Presidency",
+                "type": "internal",
+                "page": "Ministry General Secretariat of the Presidency (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Cristián Monckeberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristián Monckeberg"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 January 2021"
+          },
+          "office1": {
+            "text": "General Undersecretary of the Presidency",
+            "links": [
+              {
+                "text": "General Undersecretary of the Presidency",
+                "type": "internal",
+                "page": "General Undersecretariat of the Presidency (Chile)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 January 2020"
+          },
+          "term_end1": {
+            "text": "6 January 2021"
+          },
+          "predecessor1": {
+            "text": "Juan Francisco Galli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Francisco Galli"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Maximo Pávez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maximo Pávez"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Undersecretary of Justice",
+            "links": [
+              {
+                "text": "Undersecretary of Justice",
+                "type": "internal",
+                "page": "Undersecretary of Justice of Chile"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 March 2018"
+          },
+          "term_end2": {
+            "text": "1 January 2020"
+          },
+          "predecessor2": {
+            "text": "Nicolás Mena Letelier"
+          },
+          "successor2": {
+            "text": "Sebastián Valenzuela Agüero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Valenzuela Agüero"
+              }
+            ]
+          },
+          "party": {
+            "text": "Renovación Nacional",
+            "links": [
+              {
+                "text": "Renovación Nacional",
+                "type": "internal",
+                "page": "National Renewal (Chile)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Chile (BA)\n\nLondon School of Economics (MA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawyer"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Juan Luis Ossa Lucía Santa Cruz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Luis Ossa"
+              },
+              {
+                "type": "internal",
+                "page": "Lucía Santa Cruz"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Carmen Lyon"
+          },
+          "children": {
+            "text": "Three"
+          }
+        }
+      ]
+    }
+  ]
+}

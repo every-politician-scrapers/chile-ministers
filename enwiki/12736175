@@ -1,0 +1,339 @@
+{
+  "title": "Andrés Allamand",
+  "pageID": 12736175,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Candidates for President of Chile",
+    "Chilean Ministers of Defense",
+    "Chilean people of Basque descent",
+    "Chilean people of French descent",
+    "Foreign ministers of Chile",
+    "Members of the Chamber of Deputies of Chile",
+    "Members of the Inter-American Dialogue",
+    "Members of the Senate of Chile",
+    "National Renewal (Chile) politicians",
+    "Politicians from Santiago",
+    "University of Chile alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Andrés Allamand Zavala (born February 7, 1956), a Chilean politician, is the founder and one of the past leaders of Renovación Nacional.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chile"
+                },
+                {
+                  "text": "Renovación Nacional",
+                  "type": "internal",
+                  "page": "National Renewal (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Andrés Allamand Zavala"
+                ]
+              }
+            },
+            {
+              "text": "He is of French, and Basque descent.",
+              "links": [
+                {
+                  "text": "French",
+                  "type": "internal",
+                  "page": "French people"
+                },
+                {
+                  "text": "Basque",
+                  "type": "internal",
+                  "page": "Basque people"
+                }
+              ]
+            },
+            {
+              "text": "On January 14, 2011 he was named Minister of Defense by president Sebastián Piñera.",
+              "links": [
+                {
+                  "text": "Minister of Defense",
+                  "type": "internal",
+                  "page": "Ministry of National Defense (Chile)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sebastián Piñera"
+                }
+              ]
+            },
+            {
+              "text": "He was sworn in on January 16, 2011 and left office on November 5, 2012."
+            },
+            {
+              "text": "He was named Minister of Foreign Affairs following a Cabinet reshuffle on 28 July, 2021, resigning the Senate seat he had held since 2014.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Chile)"
+                },
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Senate of Chile"
+                }
+              ]
+            },
+            {
+              "text": "Allamand is a member of the Inter-American Dialogue.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inter-American Dialogue"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Allamand",
+            "Zavala"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2011",
+            "month": "1",
+            "date": "16",
+            "template": "start date",
+            "text": "January 16, 2011"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2012",
+            "month": "11",
+            "date": "5",
+            "template": "end date",
+            "text": "November 5, 2012"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2014",
+            "month": "3",
+            "date": "11",
+            "template": "start date",
+            "text": "March 11, 2014"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "7",
+            "date": "28",
+            "template": "end date",
+            "text": "July 28, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2006",
+            "month": "3",
+            "date": "11",
+            "template": "start date",
+            "text": "March 11, 2006"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2011",
+            "month": "1",
+            "date": "16",
+            "template": "end date",
+            "text": "January 16, 2011"
+          }
+        },
+        {
+          "df": "yes",
+          "year": "1956",
+          "month": "2",
+          "day": "7",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Andrés Allamand Zavala"
+          },
+          "image": {
+            "text": "Andrés Allamand Zavala.jpg"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs of Chile",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs of Chile",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "July 28, 2020"
+          },
+          "predecessor": {
+            "text": "Teodoro Ribera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teodoro Ribera"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Defense Minister of Chile",
+            "links": [
+              {
+                "text": "Defense Minister of Chile",
+                "type": "internal",
+                "page": "Ministry of National Defense (Chile)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "January 16, 2011"
+          },
+          "term_end2": {
+            "text": "November 5, 2012"
+          },
+          "predecessor2": {
+            "text": "Jaime Ravinet de la Fuente",
+            "links": [
+              {
+                "text": "Jaime Ravinet de la Fuente",
+                "type": "internal",
+                "page": "Jaime Ravinet"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Rodrigo Hinzpeter",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Hinzpeter"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Senator of Chile",
+            "links": [
+              {
+                "text": "Senator of Chile",
+                "type": "internal",
+                "page": "Senate of Chile"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Santiago Metropolitan Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago Metropolitan Region"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "March 11, 2014"
+          },
+          "term_end3": {
+            "text": "July 28, 2020"
+          },
+          "predecessor3": {
+            "text": "Jovino Novoa Vásquez"
+          },
+          "successor3": {
+            "text": "TBD"
+          },
+          "constituency4": {
+            "text": "Los Rios Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Los Rios Region"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "March 11, 2006"
+          },
+          "term_end4": {
+            "text": "January 16, 2011"
+          },
+          "predecessor4": {
+            "text": "Marco Cariola Barroilhet"
+          },
+          "successor4": {
+            "text": "Carlos Larraín Peña",
+            "links": [
+              {
+                "text": "Carlos Larraín Peña",
+                "type": "internal",
+                "page": "Carlos Larraín"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 7, 1956"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

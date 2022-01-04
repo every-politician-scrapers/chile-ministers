@@ -1,0 +1,358 @@
+{
+  "title": "Patricio Melero",
+  "pageID": 68283207,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "20th-century Chilean politicians",
+    "21st-century Chilean politicians",
+    "Independent Democratic Union politicians",
+    "Members of the Chamber of Deputies of Chile",
+    "Mayors of places in Chile",
+    "University of Chile alumni",
+    "Politicians from Santiago",
+    "Government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Patricio Melero Abaroa (born 19 June 1956) is a Chilean politician and agricultural engineer, militant from Unión Demócrata Independiente (UDI), party which he was president.",
+              "links": [
+                {
+                  "text": "agricultural engineer",
+                  "type": "internal",
+                  "page": "agricultural engineer"
+                },
+                {
+                  "text": "Unión Demócrata Independiente",
+                  "type": "internal",
+                  "page": "Independent Democratic Union"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Patricio Melero Abaroa"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a collaborator of Augusto Pinochet's dictatorship (1973–1990).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Augusto Pinochet"
+                },
+                {
+                  "text": "dictatorship",
+                  "type": "internal",
+                  "page": "Pinochet dictatorship"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 7 April 2021, he assumed the post of Minister of Labor and Social Providence after being appointed by Sebastián Piñera during his second government (2018–2022), administration where he official and initially he supported as deputy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sebastián Piñera"
+                },
+                {
+                  "text": "deputy",
+                  "type": "internal",
+                  "page": "Chamber of Deputies of Chile"
+                }
+              ]
+            },
+            {
+              "text": "Thus, Cristián Labbé Martínez replaced him.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cristián Labbé Martínez"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean business manager and politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1956",
+          "month": "7",
+          "day": "19",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Universidad de Chile (BA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Patricio Melero"
+          },
+          "image": {
+            "text": "MINISTRO_DEL_TRABAJO_PATRICIO_MELERO_(2021).jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2021"
+          },
+          "birth_date": {
+            "text": "July 19, 1956"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean"
+          },
+          "office": {
+            "text": "Minister of Labor and Social Providence"
+          },
+          "term_start": {
+            "text": "7 April 2021"
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "María José Zaldívar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "María José Zaldívar"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Chamber of Deputies of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chamber of Deputies of Chile"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "8th District"
+          },
+          "term_start1": {
+            "text": "11 March 2018"
+          },
+          "term_end1": {
+            "text": "7 April 2021"
+          },
+          "predecessor1": {
+            "text": "Creation of the district",
+            "formatting": {
+              "italic": [
+                "Creation of the district"
+              ]
+            }
+          },
+          "successor1": {
+            "text": "Cristián Labbé Martínez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristián Labbé Martínez"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 March 1990"
+          },
+          "term_end2": {
+            "text": "11 March 2018"
+          },
+          "predecessor2": {
+            "text": "Creation of the district",
+            "formatting": {
+              "italic": [
+                "Creation of the district"
+              ]
+            }
+          },
+          "successor2": {
+            "text": "Dissolution of the district",
+            "formatting": {
+              "italic": [
+                "Dissolution of the district"
+              ]
+            }
+          },
+          "office3": {
+            "text": "Unión Demócrata Independiente President",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Unión Demócrata Independiente"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "30 March 2012"
+          },
+          "term_end3": {
+            "text": "12 May 2014"
+          },
+          "predecessor3": {
+            "text": "Juan Antonio Coloma Correa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Antonio Coloma Correa"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Ernesto Silva Méndez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ernesto Silva Méndez"
+              }
+            ]
+          },
+          "office4": {
+            "text": "President of the Chamber of Deputies of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chamber of Deputies of Chile"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "15 March 2011"
+          },
+          "term_end4": {
+            "text": "20 March 2012"
+          },
+          "predecessor4": {
+            "text": "Alejandra Sepúlveda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alejandra Sepúlveda"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Nicolás Monckeberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolás Monckeberg"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Major of Pudahuel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pudahuel"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "12 September 1985"
+          },
+          "term_end5": {
+            "text": "17 July 1989"
+          },
+          "predecessor5": {
+            "text": "Sergio Oyarzún Arriagada"
+          },
+          "successor5": {
+            "text": "María Inés Suárez Montoya"
+          },
+          "office6": {
+            "text": "General Secretary of the Youth"
+          },
+          "term_start6": {
+            "text": "March 1983"
+          },
+          "term_end6": {
+            "text": "August 1985"
+          },
+          "predecessor6": {
+            "text": "Luis Cordero Baeza"
+          },
+          "successor6": {
+            "text": "Ignacio Fernández Doren"
+          },
+          "party": {
+            "text": "Unión Demócrata Independiente (UDI; 1989–)",
+            "links": [
+              {
+                "text": "Unión Demócrata Independiente",
+                "type": "internal",
+                "page": "Independent Democratic Union"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Universidad de Chile (BA)"
+          },
+          "profession": {
+            "text": "Agricultural engineer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agricultural engineer"
+              }
+            ]
+          },
+          "parents": {
+            "text": "José Manuel Melero Beatriz Abaroa"
+          },
+          "spouse": {
+            "text": "María Alejandrina Donoso"
+          },
+          "children": {
+            "text": "Two"
+          }
+        }
+      ]
+    }
+  ]
+}
