@@ -6,7 +6,8 @@
     "cabinet": {
       "id": "Q50400320",
       "start": "2018-03-11",
-      "parent": "Q29077203"
+      "parent": "Q29077203",
+      "government": "Q17633149"
     },
     "agent": "every-politican-scrapers/chile-ministers"
 }
