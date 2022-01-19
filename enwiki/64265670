@@ -19,6 +19,10 @@
               "text": "Oscar Enrique Paris Mancilla (born 3 September 1948) is a Chilean physician and politician currently serving as Minister of Health.",
               "links": [
                 {
+                  "type": "internal",
+                  "page": "Chilean"
+                },
+                {
                   "text": "Minister of Health",
                   "type": "internal",
                   "page": "Ministry of Health (Chile)"
