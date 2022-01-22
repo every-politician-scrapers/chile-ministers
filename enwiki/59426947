@@ -53,6 +53,21 @@
         {
           "description": "Chilean military officer",
           "template": "short description"
+        },
+        {
+          "list": [
+            "Martínez",
+            "Menanteau"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1960",
+          "month": "02",
+          "day": "24",
+          "df": "y",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -112,7 +127,7 @@
             ]
           },
           "birth_date": {
-            "text": "24 February 1960, 60 years ago"
+            "text": "February 24, 1960"
           },
           "birth_place": {
             "text": "Santiago, Chile",
@@ -147,7 +162,7 @@
             ]
           },
           "serviceyears": {
-            "text": "1976-present"
+            "text": "1976–present"
           },
           "rank": {
             "text": "Army General/Commander-in-chief",
