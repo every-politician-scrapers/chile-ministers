@@ -17,7 +17,9 @@ module.exports = function () {
           ?held ps:P39 ?positionItem ; pq:P580 ?startDate .
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           OPTIONAL { ?held pq:P582 ?endDate }
-          FILTER (!BOUND(?endDate) || ?endDate > "2018-03-11T00:00:00Z"^^xsd:dateTime)
+          FILTER (!BOUND(?endDate) || (
+            (?endDate < NOW()) && (?endDate > "${meta.cabinet.start}"^^xsd:dateTime)
+          ))
 
           OPTIONAL {
             ?held prov:wasDerivedFrom ?ref .
