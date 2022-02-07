@@ -1,0 +1,150 @@
+{
+  "title": "Rosanna Costa",
+  "pageID": 52516008,
+  "categories": [
+    "Chilean economists",
+    "Chilean journalists",
+    "Living people",
+    "1957 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rosanna Maria Assunta Costa Costa (Vina del Mar, 6 December 1957) is a Chilean economist, academic and investigative reporter.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chileans"
+                },
+                {
+                  "text": "economist",
+                  "type": "internal",
+                  "page": "economist"
+                },
+                {
+                  "text": "investigative reporter",
+                  "type": "internal",
+                  "page": "Investigative journalism"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rosanna Maria Assunta Costa Costa"
+                ]
+              }
+            },
+            {
+              "text": "Currently Governor of the Central Bank of Chile, She was the director of Presupuestos during the government of president Sebastián Piñera (2010-2014).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sebastián Piñera"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean economist, academic and investigative reporter",
+          "template": "short description"
+        },
+        {
+          "date": "December 2016",
+          "template": "blp sources"
+        },
+        {
+          "year": "1957",
+          "month": "12",
+          "day": "06",
+          "mf": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rosanna Costa Costa"
+          },
+          "image": {
+            "text": "Rosanna Costa (32059708224).jpg"
+          },
+          "office": {
+            "text": "President of the Central Bank of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central Bank of Chile"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "03 February 2022"
+          },
+          "predecessor": {
+            "text": "Mario Marcel"
+          },
+          "office1": {
+            "text": "Counselor of the Central Bank of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central Bank of Chile"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "18 January 2017"
+          },
+          "predecessor1": {
+            "text": "Rodrigo Vergara"
+          },
+          "office2": {
+            "text": "Director of the Budget Division Chile"
+          },
+          "term_start2": {
+            "text": "11 March 2010"
+          },
+          "term_end2": {
+            "text": "10 March 2014"
+          },
+          "predecessor2": {
+            "text": "Sergio Granados Roldán"
+          },
+          "successor2": {
+            "text": "Sergio Granados Roldàn"
+          },
+          "birth_name": {
+            "text": "Rosanna Maria Assunta Costa Costa"
+          },
+          "birth_date": {
+            "text": "December 6, 1957"
+          },
+          "birth_place": {
+            "text": "Viña del Mar, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viña del Mar"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website"
+          }
+        }
+      ]
+    }
+  ]
+}
