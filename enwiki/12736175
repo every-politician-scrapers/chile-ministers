@@ -213,6 +213,9 @@
           "term_start": {
             "text": "July 28, 2020"
           },
+          "term_end": {
+            "text": "February 6, 2022"
+          },
           "predecessor": {
             "text": "Teodoro Ribera",
             "links": [
@@ -221,6 +224,9 @@
                 "page": "Teodoro Ribera"
               }
             ]
+          },
+          "successor": {
+            "text": "Carolina Valdivia"
           },
           "office2": {
             "text": "Defense Minister of Chile",
