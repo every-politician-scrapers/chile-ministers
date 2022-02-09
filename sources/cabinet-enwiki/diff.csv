@@ -5,6 +5,7 @@
 ->,Q9015138,Juan Andrés Fontaine Talavera->Juan Andrés Fontaine,"Minister of Economy, Development and Tourism->Economy",2019-06-13,2019-10-28
 ->,Q88987534,Javier Naranjo Solano,Minister for the Environment->Environment,2021-11-22->2021-11-23,2022-03-11
 ->,Q87086583,Carolina Cuevas Merino,Minister of Woman->Women,2020-03-13,2020-05-06
+->,Q78097168->NULL,Carolina Valdivia Torres->Carolina Valdivia,minister of Foreign Affairs of Chile->Foreign Affairs,2022-02-06,
 ->,Q734056,Carolina Schmidt,Minister for the Environment->Environment,2018-08-09,2021-11-22
 ->,Q72869572,Lucas Palacios,"Minister of Economy, Development and Tourism->Economy",2019-10-28,
 ->,Q72753586,María José Zaldivar->María José Zaldívar,Minister of Labour->Labor,2019-10-28,2021-04-07
@@ -50,7 +51,7 @@
 ->,Q4850447,Baldo Prokurica,Minister of Mining->Mining,2018-03-11,2020-12-18
 ->,Q4850447,Baldo Prokurica,minister of National Defence of Chile->Defense,2020-12-18,
 ->,Q4760169,Andrés Chadwick,Interior and Public Security Minister of Chile->Interior,2018-03-11,2019-10-28
-->,Q4760139,Andrés Allamand,minister of Foreign Affairs of Chile->Foreign Affairs,2020-07-28,
+->,Q4760139,Andrés Allamand,Minister of Foreign Affairs of Chile->Foreign Affairs,2020-07-28,2022-02-06->NULL
 ->,Q47509510,Isabel Plá,Minister for Women->Women,2018-03-11,2020-03-13
 ->,Q3486821,Jaime Mañalich,Chilean minister of Health->Health,2019-06-13,2020-06-13
 ->,Q2396467,Mauricio Rojas,Minister of Culture and the Arts->Culture & theArts,2018-08-09,2018-08-13
