@@ -42,9 +42,13 @@
                   "Cecilia Pérez Jara"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "Between 2011 and 2012 she was intendant of the Santiago Metropolitan Region.",
+              "text": "From 2011 to 2012, she was intendant of the Santiago Metropolitan Region.",
               "links": [
                 {
                   "text": "intendant",
