@@ -1,6 +1,9 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q466956,President of Chile,Q298,Q298,,Q2114942,1826-07-09,,Q7155734,,President of Chile
 Q55717940,Agriculture minister of Chile,Q298,Q298,,,1930,,,,
+Q55718051,Minister of Culture and the Arts,Q298,Q298,,,2018-03-01,,,,
+Q55717969,"Minister of Economy, Development and Tourism",Q298,Q298,,,2010,,Q55840109,,
+Q55840109,"Minister of Economy, Development and Reconstruction",Q298,Q298,,,1960,2010,,Q55717969,
 Q27149969,Minister of Education of Chile,Q298,Q298,,,1990,,,,
 Q55717973,Minister of Energy (Chile),Q298,Q298,,,2010-02-01,,,,
 Q55718067,Environment Minister,Q298,Q298,,,2010-10-01,,,,
@@ -13,6 +16,7 @@ Q55718065,Interior and Public Security Minister of Chile,Q298,Q298,,,2011-02-21,
 Q55840124,minister of Justice of Chile,Q298,Q298,,,1927,2016,,Q55718048,
 Q55718048,Minister of Justice and Human Rights,Q298,Q298,,,2016,,Q55840124,,
 Q55718068,Minister of Labour,Q298,Q298,,,1959,,,,
+Q55718056,Minister of Mining,Q298,Q298,,,1953,,,,
 Q55717943,minister of National Assets of Chile,Q298,Q298,,,1980,,,,
 Q55717944,minister of National Defence of Chile,Q298,Q298,,,1927,,,,
 Q95000100,Minister of Planning of Chile,Q298,Q298,,,2005-02-10,2011-10-13,Q95000106,Q55717968,
@@ -23,6 +27,7 @@ Q63980185,Minister of Social Development and Family (Chile),Q298,Q298,,,2019-04-
 Q55717968,Minister of Social Development of Chile,Q298,Q298,,,2011-10-13,2019-04-02,Q95000100,Q63980185,
 Q55718064,sports minister of Chile,Q298,Q298,,,2013-11-14,,,,
 Q55718060,Transport and Telecommunications Minister of Chile,Q298,Q298,,,1977,,,,
+Q55718049,Minister for Women,Q298,Q298,,,2016-06-01,,,,
 Q55718069,minister Secretary General of Government of Chile,Q298,Q298,,,1976-03-22,,,,
 Q55718071,Minister Secretary General of the Presidency of Chile,Q298,Q298,,,1990,,,,
 Q6594729,president of the Chamber of Deputies of Chile,Q298,Q298,,,1811-07-04,,,,President of the Chamber of Deputies of Chile
