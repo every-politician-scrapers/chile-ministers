@@ -1,6 +1,9 @@
 position,title
 Q466956,President
 Q55717940,Minister of Agriculture
+Q55718051,Minister of Culture and the Arts
+Q55717969,"Minister of Economy, Development and Tourism"
+Q55840109,"Minister of Economy, Development and Reconstruction"
 Q27149969,Minister of Education
 Q55717973,Minister of Energy
 Q55718067,Minister of the Environment
@@ -13,6 +16,7 @@ Q55718065,Miniister of the Interior and Public Security
 Q55840124,Minister of Justice
 Q55718048,Minister of Justice and Human Rights
 Q55718068,Minister of Labour
+Q55718056,Minister of Mining
 Q55717943,Minister of National Assets
 Q55717944,Minister of National Defence
 Q95000100,Minister of Planning
@@ -23,6 +27,7 @@ Q63980185,Minister of Social Development and Family
 Q55717968,Minister of Social Development
 Q55718064,Minister of Sport
 Q55718060,Minister of Transport and Telecommunications
+Q55718049,Minister for Women
 Q55718069,Secretary General of Government
 Q55718071,Secretary General of the Presidency
 Q6594729,President of the Chamber of Deputies
