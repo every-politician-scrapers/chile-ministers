@@ -1,0 +1,180 @@
+{
+  "title": "Consuelo Valdés",
+  "pageID": 68308600,
+  "categories": [
+    "1948 births",
+    "Living people",
+    "Chilean people",
+    "Catholic University of the North alumni",
+    "University of Alabama alumni",
+    "21st-century Chilean politicians",
+    "21st-century Chilean women politicians",
+    "Government ministers of Chile",
+    "Chilean archaeologists",
+    "Women government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Consuelo Valdés Chadwick (born 9 October 1948) is a Chilean politician and archeologist.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "archeologist",
+                  "type": "internal",
+                  "page": "archeologist"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Consuelo Valdés Chadwick"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean archeologist and politician.",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Consuelo Valdés"
+          ],
+          "date": "July 2021",
+          "template": "expand spanish"
+        },
+        {
+          "df": "y",
+          "year": "1948",
+          "month": "10",
+          "day": "9",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Catholic University of the North (BA)",
+            "University of Alabama (MA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Consuelo Valdés"
+          },
+          "image": {
+            "text": "Consuelo_Valdés_Ministra_de_las_Culturas_2018.jpg"
+          },
+          "caption": {
+            "text": "Official portrait (2019)"
+          },
+          "birth_date": {
+            "text": "October 9, 1948"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Ministry of Cultures, Arts and Heritage",
+            "links": [
+              {
+                "text": "Ministry of Cultures, Arts and Heritage",
+                "type": "internal",
+                "page": "Ministry of Cultures, Arts and Heritage (Chile)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 August 2018"
+          },
+          "predecessor": {
+            "text": "Mauricio Rojas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mauricio Rojas"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "party": {
+            "text": "Close to centre-right",
+            "links": [
+              {
+                "text": "centre-right",
+                "type": "internal",
+                "page": "Centre-right politics"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Catholic University of the North (BA)\n\nUniversity of Alabama (MA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Archeologist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Archeologist"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Aníbal Valdés María Teresa Chadwick"
+          }
+        }
+      ]
+    }
+  ]
+}

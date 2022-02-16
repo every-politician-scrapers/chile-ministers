@@ -65,6 +65,14 @@
         {
           "date": "July 2020",
           "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Jobet",
+            "Eluchans"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
         }
       ]
     }
