@@ -1,0 +1,224 @@
+{
+  "title": "Mónica Zalaquett",
+  "pageID": 64250038,
+  "categories": [
+    "Ministers of Women and Gender Equality of Chile",
+    "Independent Democratic Union politicians",
+    "People from Santiago",
+    "Women government ministers of Chile",
+    "21st-century Chilean politicians",
+    "21st-century women politicians",
+    "Chilean people of Lebanese descent",
+    "Chilean people of Peruvian descent",
+    "Chilean people of Palestinian descent",
+    "Members of the Chamber of Deputies of Chile",
+    "Women members of the Chamber of Deputies of Chile",
+    "1962 births",
+    "Living people",
+    "Government ministers of Chile",
+    "Chilean anti-abortion activists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mónica Beatriz Zalaquett Said (born May 4, 1962 in Santiago, Chile) is a Chilean business and political communicator.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Santiago"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mónica Beatriz Zalaquett Said"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She currently serves as Minister of Women and Gender Equity under the second government of Sebastián Piñera since June 9, 2020, replacing Macarena Santelices.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sebastián Piñera"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2010 and 2014 she was a deputy of the district N ° 20 by the Independent Democratic Union (UDI).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Independent Democratic Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean businesswoman and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Zalaquett",
+            "Said"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1962",
+          "month": "5",
+          "day": "4",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Universidad Católica Boliviana (BA)",
+            "Universidad de Los Andes (MA)",
+            "American University (PgD)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mónica Zalaquett Said"
+          },
+          "image": {
+            "text": "MONICA ZALAQUETT.jpg"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 4, 1962"
+          },
+          "office": {
+            "text": "Minister of Women and Gender Equality",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Women and Gender Equality"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 June 2020"
+          },
+          "term_end": {
+            "text": "11 March 2022"
+          },
+          "president": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Macarena Santelices",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Macarena Santelices"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy of the Republic",
+            "links": [
+              {
+                "text": "Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Chile)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 March 2010"
+          },
+          "term_end1": {
+            "text": "11 March 2014"
+          },
+          "predecessor1": {
+            "text": "Roberto Sepúlveda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roberto Sepúlveda"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Joaquín Lavín León",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joaquín Lavín León"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "20th District"
+          },
+          "party": {
+            "text": "Unión Demócrata Independiente (UDI)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Unión Demócrata Independiente"
+              }
+            ]
+          },
+          "relatives": {
+            "text": "Pablo Zalaquett (brother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pablo Zalaquett"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Journalist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Journalist"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Universidad Católica Boliviana (BA)\n\nUniversidad de Los Andes (MA)\n\nAmerican University (PgD)"
+          }
+        }
+      ]
+    }
+  ]
+}
