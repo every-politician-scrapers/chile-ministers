@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Rosanna Maria Assunta Costa Costa (Vina del Mar, 6 December 1957) is a Chilean economist, academic and investigative reporter.",
+              "text": "Rosanna Maria Assunta Costa Costa (Vina del Mar, 6 December 1957) is a Chilean economist, academic and researcher.",
               "links": [
                 {
                   "text": "Chilean",
@@ -28,9 +28,9 @@
                   "page": "economist"
                 },
                 {
-                  "text": "investigative reporter",
+                  "text": "researcher",
                   "type": "internal",
-                  "page": "Investigative journalism"
+                  "page": "Research"
                 }
               ],
               "formatting": {
@@ -86,7 +86,7 @@
             ]
           },
           "term_start": {
-            "text": "03 February 2022"
+            "text": "3 February 2022"
           },
           "predecessor": {
             "text": "Mario Marcel"

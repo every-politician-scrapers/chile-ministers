@@ -263,6 +263,15 @@
               }
             ]
           },
+          "successor": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
           "term_start1": {
             "text": "11 March 2010"
           },
