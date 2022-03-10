@@ -1,311 +1,39 @@
 {
-  "title": "Cecilia Pérez",
-  "pageID": 38911384,
-  "categories": [
-    "1974 births",
-    "Chilean Ministers Secretary General of Government",
-    "Living people",
-    "Andrés Bello National University alumni",
-    "Intendants of Santiago Metropolitan Region",
-    "Place of birth missing (living people)",
-    "Women government ministers of Chile",
-    "National Renewal (Chile) politicians",
-    "Government ministers of Chile"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Cecilia Pérez Jara (born 23 September 1974) is a Chilean politician which has served as minister in the two governments of Sebastián Piñera.",
-              "links": [
-                {
-                  "text": "Chilean",
-                  "type": "internal",
-                  "page": "Chilean people"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sebastián Piñera"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Cecilia Pérez Jara"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "From 2011 to 2012, she was intendant of the Santiago Metropolitan Region.",
-              "links": [
-                {
-                  "text": "intendant",
-                  "type": "internal",
-                  "page": "intendant"
-                },
-                {
-                  "type": "internal",
-                  "page": "Santiago Metropolitan Region"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chilean politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "the Mexican triathlete",
-            "Cecilia Pérez (triathlete)"
-          ],
-          "template": "for"
-        },
-        {
-          "df": "y",
-          "year": "1974",
-          "month": "9",
-          "day": "23",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Andrés Bello National University (BA)"
-          ],
-          "template": "unbulleted list"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Cecilia Pérez Jara"
-          },
-          "image": {
-            "text": "Ceciliaperez.jpg"
-          },
-          "birth_date": {
-            "text": "September 23, 1974"
-          },
-          "birth_place": {
-            "text": "Santiago, Chile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Santiago, Chile"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Sports",
-            "links": [
-              {
-                "text": "Minister of Sports",
-                "type": "internal",
-                "page": "Ministry of Sports (Chile)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 October 2019"
-          },
-          "predecessor": {
-            "text": "Pauline Kantor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pauline Kantor"
-              }
-            ]
-          },
-          "president": {
-            "text": "Sebastián Piñera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastián Piñera"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister General Secretary of Government",
-            "links": [
-              {
-                "text": "Minister General Secretary of Government",
-                "type": "internal",
-                "page": "Ministry General Secretariat of Government (Chile)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "5 November 2012"
-          },
-          "term_end1": {
-            "text": "11 March 2014"
-          },
-          "predecessor1": {
-            "text": "Andrés Chadwick",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrés Chadwick"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Álvaro Elizalde",
-            "links": [
-              {
-                "text": "Álvaro Elizalde",
-                "type": "internal",
-                "page": "Álvaro Elizalde"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 March 2018"
-          },
-          "term_end2": {
-            "text": "28 October 2019"
-          },
-          "predecessor2": {
-            "text": "Paula Narváez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paula Narváez"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Karla Rubilar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karla Rubilar"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Intendant of the Metropolitan Region of Santiago",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Metropolitan Region of Santiago"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "21 July 2011"
-          },
-          "term_end3": {
-            "text": "5 November 2012"
-          },
-          "predecessor3": {
-            "text": "Fernando Echeverría",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fernando Echeverría"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Juan Antonio Peribonio",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Antonio Peribonio"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Vice-chief of the National Women's Service",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Women's Service"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "7 February 2011"
-          },
-          "term_end4": {
-            "text": "21 July 2011"
-          },
-          "predecessor4": {
-            "text": "María Paz Lagos"
-          },
-          "successor4": {
-            "text": "Jessica Mulaim"
-          },
-          "office5": {
-            "text": "Councilor of La Florida",
-            "links": [
-              {
-                "text": "La Florida",
-                "type": "internal",
-                "page": "La Florida, Chile"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "6 September 2000"
-          },
-          "term_end5": {
-            "text": "3 February 2011"
-          },
-          "successor5": {
-            "text": "Orlando Vidal Duarte"
-          },
-          "party": {
-            "text": "Renovación Nacional",
-            "links": [
-              {
-                "text": "Renovación Nacional",
-                "type": "internal",
-                "page": "Renovación Nacional (Chile)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Carlos Contreras (2004−2014)"
-          },
-          "children": {
-            "text": "Two"
-          },
-          "alma_mater": {
-            "text": "Andrés Bello National University (BA)"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "profession": {
-            "text": "Lawyer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawyer"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Cecilia Pérez Jara",
+  "image": "Ceciliaperez.jpg",
+  "birth_date": "September 23, 1974",
+  "birth_place": "Santiago, Chile",
+  "office": "Minister of Sports",
+  "term_start": "28 October 2019",
+  "predecessor": "Pauline Kantor",
+  "president": "Sebastián Piñera",
+  "office1": "Minister General Secretary of Government",
+  "term_start1": "5 November 2012",
+  "term_end1": "11 March 2014",
+  "predecessor1": "Andrés Chadwick",
+  "successor1": "Álvaro Elizalde",
+  "term_start2": "11 March 2018",
+  "term_end2": "28 October 2019",
+  "predecessor2": "Paula Narváez",
+  "successor2": "Karla Rubilar",
+  "office3": "Intendant of the Metropolitan Region of Santiago",
+  "term_start3": "21 July 2011",
+  "term_end3": "5 November 2012",
+  "predecessor3": "Fernando Echeverría",
+  "successor3": "Juan Antonio Peribonio",
+  "office4": "Vice-chief of the National Women's Service",
+  "term_start4": "7 February 2011",
+  "term_end4": "21 July 2011",
+  "predecessor4": "María Paz Lagos",
+  "successor4": "Jessica Mulaim",
+  "office5": "Councilor of La Florida",
+  "term_start5": "6 September 2000",
+  "term_end5": "3 February 2011",
+  "successor5": "Orlando Vidal Duarte",
+  "party": "Renovación Nacional",
+  "spouse": "Carlos Contreras (2004−2014)",
+  "children": "Two",
+  "alma_mater": "Andrés Bello National University (BA)",
+  "occupation": "Politician",
+  "profession": "Lawyer"
 }

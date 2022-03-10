@@ -1,312 +1,34 @@
 {
-  "title": "Karla Rubilar",
-  "pageID": 68245038,
-  "categories": [
-    "1977 births",
-    "National Renewal (Chile) politicians",
-    "University of Santiago, Chile alumni",
-    "Living people",
-    "Chilean Ministers Secretary General of Government",
-    "Government ministers of Chile",
-    "Women government ministers of Chile"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Karla Elizabeth Rubilar Barahona (born 17 April 1977) is a Chilean physician and politician.",
-              "links": [
-                {
-                  "text": "Chilean",
-                  "type": "internal",
-                  "page": "Chilean people"
-                },
-                {
-                  "text": "physician",
-                  "type": "internal",
-                  "page": "physician"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Karla Elizabeth Rubilar Barahona"
-                ]
-              }
-            },
-            {
-              "text": "During the second government of Sebastián Piñera (2018–2022), she has been a minister twice.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sebastián Piñera"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She is a member of the Chilean Medical College.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chilean Medical College"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chilean physician and politician",
-          "template": "short description"
-        },
-        {
-          "date": "July 2021",
-          "template": "expand spanish"
-        },
-        {
-          "df": "y",
-          "year": "1977",
-          "month": "4",
-          "day": "17",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Karla Rubilar"
-          },
-          "image": {
-            "text": "KARLA RUBILAR BARAHONA.jpg"
-          },
-          "caption": {
-            "text": "Official portrait of Karla Rubilar"
-          },
-          "birth_date": {
-            "text": "April 17, 1977"
-          },
-          "birth_place": {
-            "text": "Santiago, Chile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Santiago, Chile"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Chilean",
-            "links": [
-              {
-                "text": "Chilean",
-                "type": "internal",
-                "page": "Chilean people"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Social Development and Family",
-            "links": [
-              {
-                "text": "Minister of Social Development and Family",
-                "type": "internal",
-                "page": "Ministry of Social Development and Family of Chile"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 July 2020"
-          },
-          "president": {
-            "text": "Sebastián Piñera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastián Piñera"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Cristián Monckeberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristián Monckeberg"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister General Secretariat of Government",
-            "links": [
-              {
-                "text": "Minister General Secretariat of Government",
-                "type": "internal",
-                "page": "Ministry General Secretariat of Government (Chile)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "28 October 2019"
-          },
-          "term_end1": {
-            "text": "28 July 2020"
-          },
-          "predecessor1": {
-            "text": "Cecilia Pérez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cecilia Pérez"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Jaime Bellolio",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jaime Bellolio"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Intendant of the Metropolitan Region of Santiago",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Metropolitan Region of Santiago"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 March 2018"
-          },
-          "term_end2": {
-            "text": "28 October 2019"
-          },
-          "predecessor2": {
-            "text": "Claudio Orrego",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Claudio Orrego"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Felipe Guevara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Felipe Guevara"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy of the Republic of Chile 17th District",
-            "links": [
-              {
-                "text": "Deputy of the Republic of Chile",
-                "type": "internal",
-                "page": "Chamber of Deputies of Chile"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "11 March 2006"
-          },
-          "term_end3": {
-            "text": "11 March 2018"
-          },
-          "predecessor3": {
-            "text": "Pablo Longueira",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pablo Longueira"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Dissolution of the district"
-          },
-          "party": {
-            "text": "Renovación Nacional (2004–2014) Amplitude (2014–2015) Independent close to centre-right (2015–)",
-            "links": [
-              {
-                "text": "Renovación Nacional",
-                "type": "internal",
-                "page": "National Renewal (Chile)"
-              },
-              {
-                "text": "Amplitude",
-                "type": "internal",
-                "page": "Amplitude (political party)"
-              },
-              {
-                "text": "centre-right",
-                "type": "internal",
-                "page": "Centre-right politics"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Santiago de Chile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Santiago de Chile"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "profession": {
-            "text": "Physician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Physician"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Patricio Rubilar Vicky Barahona",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vicky Barahona"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Rubén Malvoa (2009–2018) Christian Pino (2019–)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rubén Malvoa"
-              }
-            ]
-          },
-          "children": {
-            "text": "Four"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Karla Rubilar",
+  "image": "KARLA RUBILAR BARAHONA.jpg",
+  "caption": "Official portrait of Karla Rubilar",
+  "birth_date": "April 17, 1977",
+  "birth_place": "Santiago, Chile",
+  "nationality": "Chilean",
+  "office": "Minister of Social Development and Family",
+  "term_start": "28 July 2020",
+  "president": "Sebastián Piñera",
+  "predecessor": "Cristián Monckeberg",
+  "office1": "Minister General Secretariat of Government",
+  "term_start1": "28 October 2019",
+  "term_end1": "28 July 2020",
+  "predecessor1": "Cecilia Pérez",
+  "successor1": "Jaime Bellolio",
+  "office2": "Intendant of the Metropolitan Region of Santiago",
+  "term_start2": "11 March 2018",
+  "term_end2": "28 October 2019",
+  "predecessor2": "Claudio Orrego",
+  "successor2": "Felipe Guevara",
+  "office3": "Deputy of the Republic of Chile 17th District",
+  "term_start3": "11 March 2006",
+  "term_end3": "11 March 2018",
+  "predecessor3": "Pablo Longueira",
+  "successor3": "Dissolution of the district",
+  "party": "Renovación Nacional (2004–2014) Amplitude (2014–2015) Independent close to centre-right (2015–)",
+  "alma_mater": "University of Santiago de Chile",
+  "occupation": "Politician",
+  "profession": "Physician",
+  "parents": "Patricio Rubilar Vicky Barahona",
+  "spouse": "Rubén Malvoa (2009–2018) Christian Pino (2019–)",
+  "children": "Four"
 }

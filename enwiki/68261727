@@ -1,324 +1,35 @@
 {
-  "title": "Felipe Ward",
-  "pageID": 68261727,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "Chilean people",
-    "University of the Andes (Chile) alumni",
-    "21st-century Chilean politicians",
-    "Independent Democratic Union politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Felipe Andrés Ward Edwards (born 14 September 1972) is a Chilean politician and lawyer, militant from Unión Demócrata Independiente (UDI).",
-              "links": [
-                {
-                  "text": "Chilean",
-                  "type": "internal",
-                  "page": "Chilean people"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "lawyer",
-                  "type": "internal",
-                  "page": "lawyer"
-                },
-                {
-                  "text": "Unión Demócrata Independiente",
-                  "type": "internal",
-                  "page": "Independent Democratic Union"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Felipe Andrés Ward Edwards"
-                ]
-              }
-            },
-            {
-              "text": "Since 4 June 2020, he has served as Minister of Housing & Urbanism during the second government of Sebastián Piñera (2018–2022).",
-              "links": [
-                {
-                  "text": "Minister of Housing & Urbanism",
-                  "type": "internal",
-                  "page": "Ministry of Housing and Urbanism (Chile)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sebastián Piñera"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Previously, he was Minister of National Assets (2018–2020) during Piñera's second government as well as Minister Secretary General of the Presidency (2019–2020).",
-              "links": [
-                {
-                  "text": "Minister of National Assets",
-                  "type": "internal",
-                  "page": "Ministry of National Assets (Chile)"
-                },
-                {
-                  "text": "Minister Secretary General of the Presidency",
-                  "type": "internal",
-                  "page": "Minister Secretary General of Government of Chile"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chilean lawyer and politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Ward",
-            "Edwards"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "df": "y",
-          "year": "1972",
-          "month": "9",
-          "day": "14",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Universidad de Los Andes (BA)"
-          ],
-          "template": "unbulleted list"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Felipe Ward"
-          },
-          "image": {
-            "text": "FELIPE WARD.jpg"
-          },
-          "caption": {
-            "text": "Official portrait (2018)"
-          },
-          "birth_date": {
-            "text": "September 14, 1972"
-          },
-          "birth_place": {
-            "text": "Santiago, Chile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Santiago, Chile"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Chilean",
-            "links": [
-              {
-                "text": "Chilean",
-                "type": "internal",
-                "page": "Chilean people"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Housing & Urbanism",
-            "links": [
-              {
-                "text": "Minister of Housing & Urbanism",
-                "type": "internal",
-                "page": "Ministry of Housing and Urbanism (Chile)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "4 June 2020"
-          },
-          "predecessor": {
-            "text": "Cristián Monckeberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristián Monckeberg"
-              }
-            ]
-          },
-          "president": {
-            "text": "Sebastián Piñera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastián Piñera"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Ministry General Secretariat of the Presidency",
-            "links": [
-              {
-                "text": "Ministry General Secretariat of the Presidency",
-                "type": "internal",
-                "page": "Ministry General Secretariat of the Presidency (Chile)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "28 October 2018"
-          },
-          "term_end1": {
-            "text": "4 June 2020"
-          },
-          "predecessor1": {
-            "text": "Gonzalo Blumel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gonzalo Blumel"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Claudio Alvarado",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Claudio Alvarado"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of National Assets",
-            "links": [
-              {
-                "text": "Minister of National Assets",
-                "type": "internal",
-                "page": "Ministry of National Assets (Chile)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 March 2018"
-          },
-          "term_end2": {
-            "text": "28 October 2019"
-          },
-          "predecessor2": {
-            "text": "Nivia Palma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nivia Palma"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Julio Isamit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julio Isamit"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy of the Republic of Chile",
-            "links": [
-              {
-                "text": "Deputy of the Republic of Chile",
-                "type": "internal",
-                "page": "Chamber of Deputies of Chile"
-              }
-            ]
-          },
-          "constituency3": {
-            "text": "3rd Disctict"
-          },
-          "term_start3": {
-            "text": "11 March 2006"
-          },
-          "term_end3": {
-            "text": "11 March 2018"
-          },
-          "predecessor3": {
-            "text": "Mario Escobar Urbina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mario Escobar Urbina"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Disolution of the district",
-            "formatting": {
-              "italic": [
-                "Disolution of the district"
-              ]
-            }
-          },
-          "party": {
-            "text": "Unión Demócrata Independiente (UDI)",
-            "links": [
-              {
-                "text": "Unión Demócrata Independiente",
-                "type": "internal",
-                "page": "Independent Democratic Union"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Universidad de Los Andes (BA)"
-          },
-          "occupation": {
-            "text": "Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawyer"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Carlos Ward María Teresa Edwards"
-          },
-          "spouse": {
-            "text": "Andrea Moreno"
-          },
-          "children": {
-            "text": "Four"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Felipe Ward",
+  "image": "FELIPE WARD.jpg",
+  "caption": "Official portrait (2018)",
+  "birth_date": "September 14, 1972",
+  "birth_place": "Santiago, Chile",
+  "nationality": "Chilean",
+  "office": "Minister of Housing & Urbanism",
+  "term_start": "4 June 2020",
+  "predecessor": "Cristián Monckeberg",
+  "president": "Sebastián Piñera",
+  "office1": "Ministry General Secretariat of the Presidency",
+  "term_start1": "28 October 2018",
+  "term_end1": "4 June 2020",
+  "predecessor1": "Gonzalo Blumel",
+  "successor1": "Claudio Alvarado",
+  "office2": "Minister of National Assets",
+  "term_start2": "11 March 2018",
+  "term_end2": "28 October 2019",
+  "predecessor2": "Nivia Palma",
+  "successor2": "Julio Isamit",
+  "office3": "Deputy of the Republic of Chile",
+  "constituency3": "3rd Disctict",
+  "term_start3": "11 March 2006",
+  "term_end3": "11 March 2018",
+  "predecessor3": "Mario Escobar Urbina",
+  "successor3": "Disolution of the district",
+  "party": "Unión Demócrata Independiente (UDI)",
+  "alma_mater": "Universidad de Los Andes (BA)",
+  "occupation": "Politician",
+  "profession": "Lawyer",
+  "parents": "Carlos Ward María Teresa Edwards",
+  "spouse": "Andrea Moreno",
+  "children": "Four"
 }

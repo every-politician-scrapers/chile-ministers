@@ -1,223 +1,24 @@
 {
-  "title": "Raúl Figueroa",
-  "pageID": 68283467,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Chilean people",
-    "Pontifical Catholic University of Chile alumni",
-    "University of the Andes (Chile) alumni",
-    "21st-century Chilean politicians",
-    "Chilean Ministers of Education"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Raúl Eugenio Figueroa Salas (born 21 March 1975) is a Chilean politician and lawyer.",
-              "links": [
-                {
-                  "text": "Chilean",
-                  "type": "internal",
-                  "page": "Chilean people"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "lawyer",
-                  "type": "internal",
-                  "page": "lawyer"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Raúl Eugenio Figueroa Salas"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chilean lawyer and politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Raúl Figueroa"
-          ],
-          "date": "July 2021",
-          "template": "expand spanish"
-        },
-        {
-          "df": "y",
-          "year": "1975",
-          "month": "3",
-          "day": "21",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Pontifical Catholic University of Chile (BA)",
-            "Universidad de Los Andes (MA)"
-          ],
-          "template": "unbulleted list"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Raúl Figueroa"
-          },
-          "image": {
-            "text": "Raul_Figueroa_Ministro_de_Educación_2020.jpg"
-          },
-          "caption": {
-            "text": "Official portrait (2020)"
-          },
-          "birth_date": {
-            "text": "March 21, 1975"
-          },
-          "birth_place": {
-            "text": "Santiago, Chile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Santiago, Chile"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Chilean",
-            "links": [
-              {
-                "text": "Chilean",
-                "type": "internal",
-                "page": "Chilean people"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Ministry of Education (Chile)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 February 2020"
-          },
-          "predecessor": {
-            "text": "Marcela Cubillos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marcela Cubillos"
-              }
-            ]
-          },
-          "president": {
-            "text": "Sebastián Piñera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastián Piñera"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Undersecretary of Education",
-            "links": [
-              {
-                "text": "Undersecretary of Education",
-                "type": "internal",
-                "page": "Undersecretariat of Education (Chile)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "11 March 2018"
-          },
-          "term_end1": {
-            "text": "28 October 2019"
-          },
-          "predecessor1": {
-            "text": "Valentina Quiroga Canahuate",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Valentina Quiroga Canahuate"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Jorge Poblete Aedo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jorge Poblete Aedo"
-              }
-            ]
-          },
-          "party": {
-            "text": "Close to centre-right",
-            "links": [
-              {
-                "text": "centre-right",
-                "type": "internal",
-                "page": "Centre-right politics"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Pontifical Catholic University of Chile (BA)\n\nUniversidad de Los Andes (MA)"
-          },
-          "occupation": {
-            "text": "Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawyer"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Luis Figueroa del Río María Eugenia Salas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luis Figueroa del Río"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Paulina Campos"
-          },
-          "children": {
-            "text": "Five"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Raúl Figueroa",
+  "image": "Raul_Figueroa_Ministro_de_Educación_2020.jpg",
+  "caption": "Official portrait (2020)",
+  "birth_date": "March 21, 1975",
+  "birth_place": "Santiago, Chile",
+  "nationality": "Chilean",
+  "office": "Minister of Education",
+  "term_start": "28 February 2020",
+  "predecessor": "Marcela Cubillos",
+  "president": "Sebastián Piñera",
+  "office1": "Undersecretary of Education",
+  "term_start1": "11 March 2018",
+  "term_end1": "28 October 2019",
+  "predecessor1": "Valentina Quiroga Canahuate",
+  "successor1": "Jorge Poblete Aedo",
+  "party": "Close to centre-right",
+  "alma_mater": "Pontifical Catholic University of Chile (BA)\n\nUniversidad de Los Andes (MA)",
+  "occupation": "Politician",
+  "profession": "Lawyer",
+  "parents": "Luis Figueroa del Río María Eugenia Salas",
+  "spouse": "Paulina Campos",
+  "children": "Five"
 }
