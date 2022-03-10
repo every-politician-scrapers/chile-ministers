@@ -1,365 +1,40 @@
 {
-  "title": "Jaime Bellolio",
-  "pageID": 68276910,
-  "categories": [
-    "1980 births",
-    "Living people",
-    "Chilean people",
-    "Pontifical Catholic University of Chile alumni",
-    "21st-century Chilean politicians",
-    "Independent Democratic Union politicians",
-    "Chilean Ministers Secretary General of Government"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jaime Andrés Bellolio Avaria (born 29 November 1980) is a Chilean engineer and politician, militant from Unión Demócrata Independiente (UDI).",
-              "links": [
-                {
-                  "text": "Chilean",
-                  "type": "internal",
-                  "page": "Chilean people"
-                },
-                {
-                  "text": "engineer",
-                  "type": "internal",
-                  "page": "engineer"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Unión Demócrata Independiente",
-                  "type": "internal",
-                  "page": "Independent Democratic Union"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jaime Andrés Bellolio Avaria"
-                ]
-              }
-            },
-            {
-              "text": "He served as deputy of the Republic from March 2014 to 2020.",
-              "links": [
-                {
-                  "text": "deputy of the Republic",
-                  "type": "internal",
-                  "page": "Chamber of Deputies of Chile"
-                }
-              ]
-            },
-            {
-              "text": "Since 28 July 2020, he has served as Minister Secretary General of the Government during the second government of Sebastián Piñera (2018–2022).",
-              "links": [
-                {
-                  "text": "Minister Secretary General of the Government",
-                  "type": "internal",
-                  "page": "Minister Secretary General of the Government of Chile"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sebastián Piñera"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He began his parliamentary career aged 34 being elected as a deputy for the then 30th district of the Metropolitan Region of Santiago.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Metropolitan Region of Santiago"
-                }
-              ]
-            },
-            {
-              "text": "Previously, he was president of the Students Federation of the Catholic University of Chile (FEUC; 2002–2003).",
-              "links": [
-                {
-                  "text": "Students Federation of the Catholic University of Chile",
-                  "type": "internal",
-                  "page": "Pontifical Catholic University of Chile"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chilean engineer and politician",
-          "template": "short description"
-        },
-        {
-          "df": "y",
-          "year": "1980",
-          "month": "11",
-          "day": "29",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Pontifical Catholic University of Chile (BA)",
-            "University of Chicago (MA)"
-          ],
-          "template": "unbulleted list"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jaime Bellolio"
-          },
-          "image": {
-            "text": "Ministro_Vocero_de_Gobierno_Jaime_Bellolio.jpg"
-          },
-          "caption": {
-            "text": "Official portrait (2018)"
-          },
-          "birth_date": {
-            "text": "November 29, 1980"
-          },
-          "birth_place": {
-            "text": "Santiago, Chile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Santiago, Chile"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Chilean",
-            "links": [
-              {
-                "text": "Chilean",
-                "type": "internal",
-                "page": "Chilean people"
-              }
-            ]
-          },
-          "office": {
-            "text": "Ministry General Secretariat of the Government",
-            "links": [
-              {
-                "text": "Ministry General Secretariat of the Government",
-                "type": "internal",
-                "page": "Ministry General Secretariat of Government (Chile)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 July 2020"
-          },
-          "predecessor": {
-            "text": "Cecilia Pérez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cecilia Pérez"
-              }
-            ]
-          },
-          "president": {
-            "text": "Sebastián Piñera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sebastián Piñera"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy of the Republic of Chile 14th Disctict",
-            "links": [
-              {
-                "text": "Deputy of the Republic of Chile",
-                "type": "internal",
-                "page": "Chamber of Deputies of Chile"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "11 March 2018"
-          },
-          "term_end1": {
-            "text": "28 July 2020"
-          },
-          "predecessor1": {
-            "text": "Creation of the district"
-          },
-          "successor1": {
-            "text": "Nora Cuevas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nora Cuevas"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy of the Republic of Chile 30th Disctict",
-            "links": [
-              {
-                "text": "Deputy of the Republic of Chile",
-                "type": "internal",
-                "page": "Chamber of Deputies of Chile"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 March 2014"
-          },
-          "term_end2": {
-            "text": "11 March 2018"
-          },
-          "predecessor2": {
-            "text": "José Antonio Kast",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Antonio Kast"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Creation of the district"
-          },
-          "office3": {
-            "text": "Unión Demócrata Independiente Assistant Secretary General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Unión Demócrata Independiente"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 March 2012"
-          },
-          "term_end3": {
-            "text": "10 May 2014"
-          },
-          "predecessor3": {
-            "text": "Felipe Salaberry",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Felipe Salaberry"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Pablo Terrazas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pablo Terrazas"
-              }
-            ]
-          },
-          "office4": {
-            "text": "President of the Federation of Students of the Pontifical Catholic University of Chile",
-            "links": [
-              {
-                "text": "Federation of Students of the Pontifical Catholic University of Chile",
-                "type": "internal",
-                "page": "Pontifical Catholic University of Chile"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end4": {
-            "text": "2003",
-            "number": 2003
-          },
-          "predecessor4": {
-            "text": "Enrique Álvarez"
-          },
-          "successor4": {
-            "text": "Julio Pertuzé",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julio Pertuzé"
-              }
-            ]
-          },
-          "party": {
-            "text": "Unión Demócrata Independiente (UDI)",
-            "links": [
-              {
-                "text": "Unión Demócrata Independiente",
-                "type": "internal",
-                "page": "Independent Democratic Union"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Pontifical Catholic University of Chile (BA)\n\nUniversity of Chicago (MA)"
-          },
-          "occupation": {
-            "text": "Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawyer"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Jaime Bellolio Rodríguez Margarita María Avaria"
-          },
-          "spouse": {
-            "text": "Teresita Zalaquett"
-          },
-          "children": {
-            "text": "Four"
-          },
-          "relatives": {
-            "text": "Blas Bellolio (grandfather) Álvaro Bellolio (brother) Cristóbal Bellolio (cousin)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Blas Bellolio"
-              },
-              {
-                "text": "Álvaro Bellolio",
-                "type": "internal",
-                "page": "Álvaro Bellolio"
-              },
-              {
-                "type": "internal",
-                "page": "Cristóbal Bellolio"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jaime Bellolio",
+  "image": "Ministro_Vocero_de_Gobierno_Jaime_Bellolio.jpg",
+  "caption": "Official portrait (2018)",
+  "birth_date": "November 29, 1980",
+  "birth_place": "Santiago, Chile",
+  "nationality": "Chilean",
+  "office": "Ministry General Secretariat of the Government",
+  "term_start": "28 July 2020",
+  "predecessor": "Cecilia Pérez",
+  "president": "Sebastián Piñera",
+  "office1": "Deputy of the Republic of Chile 14th Disctict",
+  "term_start1": "11 March 2018",
+  "term_end1": "28 July 2020",
+  "predecessor1": "Creation of the district",
+  "successor1": "Nora Cuevas",
+  "office2": "Deputy of the Republic of Chile 30th Disctict",
+  "term_start2": "11 March 2014",
+  "term_end2": "11 March 2018",
+  "predecessor2": "José Antonio Kast",
+  "successor2": "Creation of the district",
+  "office3": "Unión Demócrata Independiente Assistant Secretary General",
+  "term_start3": "30 March 2012",
+  "term_end3": "10 May 2014",
+  "predecessor3": "Felipe Salaberry",
+  "successor3": "Pablo Terrazas",
+  "office4": "President of the Federation of Students of the Pontifical Catholic University of Chile",
+  "term_start4": "2002",
+  "term_end4": "2003",
+  "predecessor4": "Enrique Álvarez",
+  "successor4": "Julio Pertuzé",
+  "party": "Unión Demócrata Independiente (UDI)",
+  "alma_mater": "Pontifical Catholic University of Chile (BA)\n\nUniversity of Chicago (MA)",
+  "occupation": "Politician",
+  "profession": "Lawyer",
+  "parents": "Jaime Bellolio Rodríguez Margarita María Avaria",
+  "spouse": "Teresita Zalaquett",
+  "children": "Four",
+  "relatives": "Blas Bellolio (grandfather) Álvaro Bellolio (brother) Cristóbal Bellolio (cousin)"
 }
