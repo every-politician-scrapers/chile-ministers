@@ -1,8 +1,8 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q110221375,Q110221375,,,,,,,,,,,,,Q50400320,2nd Piñera Cabinet,,
 ,Q5881961,Presidency of Salvador Allende,,,1970-11-04,11,,,1973-09-11,11,,,Q2886342,Military Junta of Chile,,,,
 ,Q2886342,Military Junta of Chile,1973-09-11,11,1975-09-11,11,,,1990-03-11,11,Q5881961,Presidency of Salvador Allende,,,,,,
 ,Q5881931,first government of Michelle Bachelet,,,2006-03-11,11,,,2010-03-11,11,,,Q47008560,first government of Sebastián Piñera,,,,
 ,Q47008560,first government of Sebastián Piñera,,,2010-03-11,11,,,2014-03-11,11,Q5881931,first government of Michelle Bachelet,Q16629823,Q16629823,,,,
 ,Q16629823,Q16629823,,,2014-03-11,11,,,2018-03-11,11,Q47008560,first government of Sebastián Piñera,Q50400320,2nd Piñera Cabinet,,,,
-,Q50400320,2nd Piñera Cabinet,,,2018-03-11,11,,,,,Q16629823,Q16629823,,,,,,
+,Q50400320,2nd Piñera Cabinet,,,2018-03-11,11,2022-03-11,11,,,Q16629823,Q16629823,Q110221375,Boric Government,,,,
+,Q110221375,Boric Government,2022-03-11,11,,,,,,,,,,,Q50400320,2nd Piñera Cabinet,,
