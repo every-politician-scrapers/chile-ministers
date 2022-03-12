@@ -11,7 +11,6 @@ Q55718046,Minister of Finance - Chile,Q298,Q298,,,1817-09-07,,,,
 Q24262884,minister of Foreign Affairs of Chile,Q298,Q298,,,1924,,,,
 Q22341446,Chilean minister of Health,Q298,Q298,,,1959,,,,
 Q55718063,Minister of Housing and Urbanism of Chile,Q298,Q298,,,1965-12-16,,,,
-Q55755578,Minister of the Interior,Q298,Q298,,,1871,2011-02-21,Q55840158,Q55718065,
 Q55718065,Interior and Public Security Minister of Chile,Q298,Q298,,,2011-02-21,,Q55755578,,
 Q55840124,minister of Justice of Chile,Q298,Q298,,,1927,2016,,Q55718048,
 Q55718048,Minister of Justice and Human Rights,Q298,Q298,,,2016,,Q55840124,,
@@ -32,7 +31,7 @@ Q55718069,minister Secretary General of Government of Chile,Q298,Q298,,,1976-03-
 Q55718071,Minister Secretary General of the Presidency of Chile,Q298,Q298,,,1990,,,,
 Q6594729,president of the Chamber of Deputies of Chile,Q298,Q298,,,1811-07-04,,,,President of the Chamber of Deputies of Chile
 Q9062551,president of the Senate of Chile,Q298,Q298,,,1812-11-10,,,,President of the Senate of Chile
-Q110824219,President of the Central Bank of Chile,Q298,,,,,,,,
+Q110824219,president of the Central Bank of Chile,Q298,,,,,,,,
 Q5928972,Chief of the Joint Chiefs of Defence (Chile),Q298,,,,,,,,Chief of the Joint Chiefs of Defence (Chile)
 Q2889060,Commander-in-Chief of the Chilean Army,Q298,Q298,,,1813-03-31,,,,List of commanders-in-chief of the Chilean Army
 Q56883976,mayor of Santiago,Q298,Q188002,,Q16656720,,,,,
