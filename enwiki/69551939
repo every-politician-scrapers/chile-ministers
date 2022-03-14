@@ -5,8 +5,11 @@
   "president1": "Gabriel Boric",
   "term_start1": "11 March 2022",
   "predecessor1": "Carolina Valdivia",
-  "known_for": "Commisioner and President of the Inter-American Commission on Human Rights",
+  "office2": "Commissioner and President of the Inter-American Commission on Human Rights",
+  "blank2": "Executive Secretary",
+  "data2": "Maria Claudia Pulido",
+  "term_start2": "2021",
+  "predecessor2": "Joel Hernández García",
   "occupation": "lawyer",
-  "predecessor": "Joel Hernández",
   "nationality": "Chile"
 }
