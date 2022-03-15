@@ -1,0 +1,164 @@
+id,name,relationship,relative,relativename
+Q106429420,Cristián Labbé Martínez,father,Q5791602,Cristián Labbé
+Q106943837,Bárbara Sepúlveda Hales,relative,Q961600,Alejandro Hales
+Q106945702,Lidia González,mother,Q2658232,Cristina Calderón
+Q106945702,Lidia González,relative,Q91150798,Úrsula Calderón
+Q109667678,Johannes Kaiser Barents-Von Hohenhagen,sibling,Q27765731,Axel Kaiser
+Q10976963,Ignacio Achurra,father,Q5548401,Patricio Achurra
+Q110636257,Nicolás Grau,mother,Q931701,Paulina Veloso
+Q111225933,Lorena Pizarro,mother,Q6131363,Sola Sierra
+Q12155806,Andrés Celis Montt,sibling,Q6101109,Raúl Celis
+Q1274258,Joaquín Lavín,child,Q16301053,Joaquín Lavín León
+Q1403199,Felipe Kast,father,Q3890688,Miguel Kast
+Q1403199,Felipe Kast,sibling,Q55410387,Pablo Kast
+Q16297362,Pedro Álvarez-Salamanca Ramírez,father,Q6070697,Pedro Álvarez-Salamanca Büchi
+Q16297876,Gabriel Boric,father,Q110417555,Luis Javier Boric Scarpa
+Q16297876,Gabriel Boric,mother,Q110417590,María Soledad Font Aguilera
+Q16297876,Gabriel Boric,partner,Q110221567,Irina Karamanos
+Q16298404,Daniella Cicardini,partner,Q37495544,Soltero
+Q16300930,Fidel Espinoza,father,Q61822240,Luis Espinoza Villalobos
+Q16301053,Joaquín Lavín León,father,Q1274258,Joaquín Lavín
+Q16301053,Joaquín Lavín León,spouse,Q27525281,Cathy Barriga
+Q16301478,Clemira Pacheco Rivas,spouse,Q61959224,René Osvaldo Carvajal Zúñiga
+Q16301870,Paulina Núñez Urrutia,spouse,Q5791610,Cristián Monckeberg
+Q16302186,Joaquín Palma,father,Q6292514,José Ignacio Palma
+Q16302186,Joaquín Palma,sibling,Q5673941,Ana María Palma
+Q16302186,Joaquín Palma,sibling,Q5676013,Andrés Palma
+Q16302468,Mónica Zalaquett,sibling,Q7121787,Pablo Zalaquett
+Q16543081,Carlos Abel Jarpa,father,Q48261506,Abel Jarpa Vallejos
+Q16543585,Carmen Hertz,child,Q95268890,Germán Berger-Hertz
+Q1657292,Ignacio Walker,child,Q61913562,Benjamín Walker
+Q1657292,Ignacio Walker,spouse,Q5056423,Cecilia Echenique
+Q16938235,Felipe Alessandri Vergara,father,Q5889453,Gustavo Alessandri Valdés
+Q16938235,Felipe Alessandri Vergara,sibling,Q16482703,Gustavo Alessandri Balmaceda
+Q16938235,Felipe Alessandri Vergara,sibling,Q47494552,Jorge Alessandri Vergara
+Q18242,María Ignacia Benítez,sibling,Q42424938,Andrés Benítez
+Q19897688,Ernesto Ottone,father,Q47523980,Ernesto Ottone Fernández
+Q21503376,Carolina Marzán,spouse,Q5771863,Claudio Arredondo
+Q2336523,Claudio Huepe,child,Q111217966,Claudio Huepe
+Q2600525,Andrés Zaldívar,sibling,Q5663680,Alberto Zaldívar
+Q2600525,Andrés Zaldívar,sibling,Q930844,Adolfo Zaldívar
+Q26764059,Loreto Carvajal,partner,Q5873569,Gabriel Silber
+Q27975168,Fernando Atria,spouse,Q110726712,Ximena Fuentes
+Q2849041,Andrés Velasco,father,Q5850607,Eugenio Velasco Letelier
+Q2849041,Andrés Velasco,spouse,Q5784855,Consuelo Saavedra
+Q306,Sebastián Piñera,father,Q4121315,José Piñera Carvallo
+Q306,Sebastián Piñera,mother,Q47494696,Magdalena Echenique
+Q306,Sebastián Piñera,sibling,Q5959016,Miguel Piñera Echenique
+Q306,Sebastián Piñera,sibling,Q6056331,Pablo Piñera Echenique
+Q306,Sebastián Piñera,sibling,Q664693,José Piñera Echenique
+Q306,Sebastián Piñera,spouse,Q4164742,Cecilia Morel
+Q3186176,José Antonio Viera-Gallo,spouse,Q108791496,María Teresa Chadwick Piñera
+Q320,Michelle Bachelet,child,Q16298907,Sebastián Dávalos
+Q320,Michelle Bachelet,father,Q1649494,Alberto Bachelet
+Q320,Michelle Bachelet,mother,Q6173642,Ángela Jeria
+Q320,Michelle Bachelet,relative,Q6035647,Máximo Jeria
+Q320,Michelle Bachelet,spouse,Q16298669,Jorge Dávalos
+Q326,Eduardo Frei Ruiz-Tagle,father,Q475,Eduardo Frei Montalva
+Q326,Eduardo Frei Ruiz-Tagle,mother,Q5695438,María Ruiz-Tagle
+Q326,Eduardo Frei Ruiz-Tagle,sibling,Q5043474,Carmen Frei
+Q326,Eduardo Frei Ruiz-Tagle,spouse,Q6774139,Marta Larraechea
+Q331,Ricardo Lagos,child,Q3430265,Ricardo Lagos Weber
+Q331,Ricardo Lagos,mother,Q5830275,Ema Escobar
+Q331,Ricardo Lagos,spouse,Q3266913,Luisa Durán
+Q331,Ricardo Lagos,spouse,Q5043618,Carmen Weber
+Q3333957,Mónica Jiménez,father,Q6174839,Óscar Jiménez Pinochet
+Q3341179,Nicolás Eyzaguirre,father,Q37773236,Joaquín Eyzaguirre Edwards
+Q3341179,Nicolás Eyzaguirre,mother,Q5253680,Delfina Guzmán
+Q3430265,Ricardo Lagos Weber,father,Q331,Ricardo Lagos
+Q3430265,Ricardo Lagos Weber,mother,Q5043618,Carmen Weber
+Q3460282,Guido Girardi,father,Q97107506,Guido Girardi Brière
+Q3660574,Carolina Tohá,father,Q2744873,José Tohá
+Q3660574,Carolina Tohá,spouse,Q5870897,Fulvio Rossi
+Q3810840,Juan Gabriel Valdés,father,Q2356230,Gabriel Valdés Subercaseaux
+Q3810840,Juan Gabriel Valdés,mother,Q6136764,Sylvia Soublette
+Q434756,Soledad Alvear,spouse,Q5889966,Gutenberg Martínez
+Q451359,María Isabel Allende,child,Q47461432,Marcia Tambutti Allende
+Q451359,María Isabel Allende,father,Q440,Salvador Allende
+Q451359,María Isabel Allende,mother,Q2443186,Hortensia Bussi
+Q451359,María Isabel Allende,sibling,Q4877250,Beatriz Allende
+Q47067675,Andrés Longton,father,Q5707321,Arturo Longton
+Q47067675,Andrés Longton,mother,Q5672323,Amelia Herrera
+Q4714452,Alejandra Krauss,father,Q5833474,Enrique Krauss
+Q47494552,Jorge Alessandri Vergara,father,Q5889453,Gustavo Alessandri Valdés
+Q47494552,Jorge Alessandri Vergara,sibling,Q16482703,Gustavo Alessandri Balmaceda
+Q47494552,Jorge Alessandri Vergara,sibling,Q16938235,Felipe Alessandri Vergara
+Q4760139,Andrés Allamand,child,Q5913043,Ignacia Allamand
+Q4760139,Andrés Allamand,father,Q6013849,Miguel Allamand
+Q4760139,Andrés Allamand,spouse,Q5995504,Marcela Cubillos
+Q4760169,Andrés Chadwick,father,Q76823010,Herman Chadwick Valdés
+Q4760169,Andrés Chadwick,sibling,Q108791496,María Teresa Chadwick Piñera
+Q4760169,Andrés Chadwick,sibling,Q5894897,Herman Chadwick
+Q50377219,Miguel Crispi,mother,Q5771798,Claudia Serrano
+Q5044837,Carolina Goic Boroevic,relative,Q960946,Alejandro Goic
+Q51048721,Juan Manuel Masferrer Vidal,father,Q5951382,Juan Masferrer
+Q522073,Ena von Baer,father,Q2879576,Erik von Baer
+Q522073,Ena von Baer,sibling,Q84747995,Karina von Baer
+Q522437,Magdalena Matte,child,Q1985090,Pablo Larraín
+Q522437,Magdalena Matte,child,Q54799925,Hernan Larrain Matte
+Q522437,Magdalena Matte,spouse,Q5742466,Hernán Larraín
+Q53856313,Amaro Labra,child,Q108791474,Cristóbal Labra Bassa
+Q5478697,Carmen Ibáñez Soto,child,Q6004191,María Luisa Godoy Ibañez
+Q5478697,Carmen Ibáñez Soto,spouse,Q5664182,Domingo Godoy Matte
+Q54799925,Hernan Larrain Matte,father,Q5742466,Hernán Larraín
+Q54799925,Hernan Larrain Matte,mother,Q522437,Magdalena Matte
+Q54799925,Hernan Larrain Matte,sibling,Q1985090,Pablo Larraín
+Q54826295,Gonzalo Winter,mother,Q6003671,María Elena Etcheberry
+Q55410387,Pablo Kast,father,Q3890688,Miguel Kast
+Q55410387,Pablo Kast,sibling,Q1403199,Felipe Kast
+Q5578064,Patricio Hales,father,Q961600,Alejandro Hales
+Q55843070,Álvaro Carter,sibling,Q17155059,Rodolfo Carter
+Q55844531,Karim Bianchi Retamales,father,Q5694561,Carlos Bianchi Chelech
+Q56479499,Harry Jürgensen Caesar,child,Q55844562,Harry Jürgensen Rundshagen
+Q5648704,Claudia Nogueira,spouse,Q5882895,Gonzalo Cornejo
+Q5672323,Amelia Herrera,child,Q47067675,Andrés Longton
+Q5672323,Amelia Herrera,spouse,Q5707321,Arturo Longton
+Q5673906,Ana María Gazmuri,spouse,Q57605107,Nicolás Dormal
+Q5676013,Andrés Palma,father,Q6292514,José Ignacio Palma
+Q5676013,Andrés Palma,sibling,Q16302186,Joaquín Palma
+Q5676013,Andrés Palma,sibling,Q5673941,Ana María Palma
+Q5681251,Jacqueline van Rysselberghe,father,Q5834005,Enrique van Rysselberghe Varela
+Q5681251,Jacqueline van Rysselberghe,sibling,Q5834000,Enrique van Rysselberghe Herrera
+Q5742466,Hernán Larraín,child,Q1985090,Pablo Larraín
+Q5742466,Hernán Larraín,child,Q54799925,Hernan Larrain Matte
+Q5742466,Hernán Larraín,spouse,Q522437,Magdalena Matte
+Q5771213,Clarisa Hardy,father,Q5732205,Boris H. Hardy
+Q5772063,Claudio Orrego,father,Q5772067,Claudio Orrego Vicuña
+Q5791610,Cristián Monckeberg,spouse,Q16301870,Paulina Núñez Urrutia
+Q5818156,Maya Fernández,mother,Q4877250,Beatriz Allende
+Q5834000,Enrique van Rysselberghe Herrera,father,Q5834005,Enrique van Rysselberghe Varela
+Q5834000,Enrique van Rysselberghe Herrera,sibling,Q5681251,Jacqueline van Rysselberghe
+Q5873569,Gabriel Silber,partner,Q26764059,Loreto Carvajal
+Q5925388,Jaime Tohá,sibling,Q2744873,José Tohá
+Q5925388,Jaime Tohá,sibling,Q5921242,Isidoro Tohá
+Q5935318,Jorge Insunza Gregorio de Las Heras,father,Q5935320,Jorge Insunza Becker
+Q5937916,José Antonio Kast,sibling,Q3890688,Miguel Kast
+Q5951802,Juan Pablo Letelier,father,Q443777,Orlando Letelier
+Q5976459,Lily Pérez,spouse,Q6013980,Miguel Bauzá
+Q59797711,Antonio Walker,sibling,Q1657292,Ignacio Walker
+Q59797711,Antonio Walker,sibling,Q6006757,Matías Walker
+Q59797711,Antonio Walker,sibling,Q6066812,Patricio Walker
+Q5990800,Malucha Pinto,father,Q5396796,Aníbal Pinto Santa Cruz
+Q5990800,Malucha Pinto,mother,Q10870923,Malucha Solari
+Q5995504,Marcela Cubillos,father,Q5896107,Hernán Cubillos
+Q5995504,Marcela Cubillos,sibling,Q5858157,Felipe Cubillos
+Q5995504,Marcela Cubillos,spouse,Q4760139,Andrés Allamand
+Q5995537,Marcela Sabat,father,Q6070074,Pedro Sabat
+Q6004610,María Soledad Tohá,father,Q5921242,Isidoro Tohá
+Q6066562,Patricia Poblete,spouse,Q5935701,Jorge Navarrete
+Q6069699,Pedro Pablo Errázuriz,relative,Q512118,Francisco Javier Errázuriz Ossa
+Q6069699,Pedro Pablo Errázuriz,relative,Q5949226,Juan Eduardo Errázuriz
+Q6101012,Raúl Alcaíno,spouse,Q17364389,Carmen Gloria López
+Q6101109,Raúl Celis,sibling,Q12155806,Andrés Celis Montt
+Q6153670,Tucapel Jiménez Fuentes,father,Q6153668,Tucapel Jiménez
+Q6169262,Ximena Rincón,sibling,Q6036254,Mónica Rincón
+Q6169262,Ximena Rincón,sibling,Q6108443,Ricardo Rincón
+Q6169262,Ximena Rincón,spouse,Q975427,Juan Carlos Latorre
+Q7121787,Pablo Zalaquett,sibling,Q16302468,Mónica Zalaquett
+Q734056,Carolina Schmidt,father,Q5668026,Alfredo Schmidt
+Q8846905,Evelyn Matthei,father,Q5444826,Fernando Matthei
+Q88996421,Juan José Ossa,father,Q5950795,Juan Luis Ossa Bulnes
+Q9015138,Juan Andrés Fontaine Talavera,father,Q5707227,Arturo Fontaine Aldunate
+Q930844,Adolfo Zaldívar,sibling,Q2600525,Andrés Zaldívar
+Q930844,Adolfo Zaldívar,sibling,Q5663680,Alberto Zaldívar
+Q930844,Adolfo Zaldívar,spouse,Q5673941,Ana María Palma
