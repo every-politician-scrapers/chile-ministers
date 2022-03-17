@@ -1,9 +1,14 @@
 {
   "name": "Raúl Soto",
   "office": "President of the Chamber of Deputies of Chile",
-  "termstart": "March 11, 2022",
+  "termstart": "11 March 2022",
+  "predecessor": "Diego Paulsen",
   "image": "Raúl Humberto Soto Mardones (2018).jpg",
+  "caption": "Official portrait, 2018",
   "birth_date": "November 20, 1987",
-  "birth_place": "Rengo, Chile",
-  "alma_mater": "University of Chile"
+  "birth_place": "Rengo, Cachapoal, Chile",
+  "alma_mater": "University of Chile",
+  "party": "Christian Democratic Party (until 2019)\n\nParty for Democracy (since 2020)",
+  "spouse": "Natalia Bustamante Acevedo",
+  "children": "1"
 }
