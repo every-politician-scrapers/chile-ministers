@@ -7,6 +7,7 @@ Q109667678,Johannes Kaiser,sibling,Q27765731,Axel Kaiser
 Q10976963,Ignacio Achurra,father,Q5548401,Patricio Achurra
 Q110636257,Nicolás Grau,mother,Q931701,Paulina Veloso
 Q111225933,Lorena Pizarro,mother,Q6131363,Sola Sierra
+Q111289092,,sibling,Q108714725,Patricia Labra
 Q12155806,Andrés Celis Montt,sibling,Q6101109,Raúl Celis
 Q1274258,Joaquín Lavín,child,Q16301053,Joaquín Lavín León
 Q1403199,Felipe Kast,father,Q3890688,Miguel Kast
@@ -16,6 +17,9 @@ Q16297876,Gabriel Boric,father,Q110417555,Luis Javier Boric Scarpa
 Q16297876,Gabriel Boric,mother,Q110417590,María Soledad Font Aguilera
 Q16297876,Gabriel Boric,partner,Q110221567,Irina Karamanos
 Q16298404,Daniella Cicardini,partner,Q37495544,Soltero
+Q16298964,Álvaro Elizalde,father,Q111270254,Antonio Elizalde Hevia
+Q16298964,Álvaro Elizalde,mother,Q111270257,María Eugenia Soto Albornoz
+Q16298964,Álvaro Elizalde,spouse,Q111270244,Patricia Roa Ramírez
 Q16300930,Fidel Espinoza,father,Q61822240,Luis Espinoza Villalobos
 Q16301053,Joaquín Lavín León,father,Q1274258,Joaquín Lavín
 Q16301053,Joaquín Lavín León,spouse,Q27525281,Cathy Barriga
@@ -69,6 +73,7 @@ Q3430265,Ricardo Lagos Weber,father,Q331,Ricardo Lagos
 Q3430265,Ricardo Lagos Weber,mother,Q5043618,Carmen Weber
 Q3460282,Guido Girardi,father,Q97107506,Guido Girardi Brière
 Q3660574,Carolina Tohá,father,Q2744873,José Tohá
+Q3660574,Carolina Tohá,mother,Q20994940,Victoria Morales Etchevers
 Q3660574,Carolina Tohá,spouse,Q5870897,Fulvio Rossi
 Q3810840,Juan Gabriel Valdés,father,Q2356230,Gabriel Valdés Subercaseaux
 Q3810840,Juan Gabriel Valdés,mother,Q6136764,Sylvia Soublette
@@ -122,6 +127,7 @@ Q5681251,Jacqueline van Rysselberghe,sibling,Q5834000,Enrique van Rysselberghe H
 Q5742466,Hernán Larraín,child,Q1985090,Pablo Larraín
 Q5742466,Hernán Larraín,child,Q54799925,Hernan Larrain Matte
 Q5742466,Hernán Larraín,spouse,Q522437,Magdalena Matte
+Q57601220,Raúl Soto,spouse,Q111270260,Natalia Bustamante Acevedo
 Q5771213,Clarisa Hardy,father,Q5732205,Boris H. Hardy
 Q5772063,Claudio Orrego,father,Q5772067,Claudio Orrego Vicuña
 Q5791610,Cristián Monckeberg,spouse,Q16301870,Paulina Núñez Urrutia
