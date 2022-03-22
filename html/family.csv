@@ -8,7 +8,10 @@ Q10976963,Ignacio Achurra,father,Q5548401,Patricio Achurra
 Q110636257,Nicolás Grau,mother,Q931701,Paulina Veloso
 Q111225933,Lorena Pizarro,mother,Q6131363,Sola Sierra
 Q111289092,Paula Labra,sibling,Q108714725,Patricia Labra
-Q111303561,,father,Q6122810,Sebastián Acevedo
+Q111303561,María Candelaria Acevedo,father,Q6122810,Sebastián Acevedo
+Q111304539,,father,Q6068192,Pedro Araya Ortiz
+Q111304539,,sibling,Q6068190,Pedro Araya Guerrero
+Q111304710,,sibling,Q4738861,Alí Funaki Manouchehri
 Q12155806,Andrés Celis Montt,sibling,Q6101109,Raúl Celis
 Q1274258,Joaquín Lavín,child,Q16301053,Joaquín Lavín León
 Q1403199,Felipe Kast,father,Q3890688,Miguel Kast
@@ -41,6 +44,7 @@ Q18242,María Ignacia Benítez,sibling,Q42424938,Andrés Benítez
 Q19897688,Ernesto Ottone,father,Q47523980,Ernesto Ottone Fernández
 Q21503376,Carolina Marzán,spouse,Q5771863,Claudio Arredondo
 Q2336523,Claudio Huepe,child,Q111217966,Claudio Huepe
+Q242230,Camila Vallejo,relative,Q60831760,Jorge Dowling Desmadryl
 Q2600525,Andrés Zaldívar,sibling,Q5663680,Alberto Zaldívar
 Q2600525,Andrés Zaldívar,sibling,Q930844,Adolfo Zaldívar
 Q26764059,Loreto Carvajal,partner,Q5873569,Gabriel Silber
