@@ -9,9 +9,10 @@ Q110636257,Nicolás Grau,mother,Q931701,Paulina Veloso
 Q111225933,Lorena Pizarro,mother,Q6131363,Sola Sierra
 Q111289092,Paula Labra,sibling,Q108714725,Patricia Labra
 Q111303561,María Candelaria Acevedo,father,Q6122810,Sebastián Acevedo
-Q111304539,,father,Q6068192,Pedro Araya Ortiz
-Q111304539,,sibling,Q6068190,Pedro Araya Guerrero
-Q111304710,,sibling,Q4738861,Alí Funaki Manouchehri
+Q111304539,Jaime Araya Guerrero,father,Q6068192,Pedro Araya Ortiz
+Q111304539,Jaime Araya Guerrero,sibling,Q6068190,Pedro Araya Guerrero
+Q111304710,Daniel Manouchehri,sibling,Q4738861,Alí Funaki Manouchehri
+Q111337455,,sibling,Q108175081,Luis Astudillo Peiretti
 Q12155806,Andrés Celis Montt,sibling,Q6101109,Raúl Celis
 Q1274258,Joaquín Lavín,child,Q16301053,Joaquín Lavín León
 Q1403199,Felipe Kast,father,Q3890688,Miguel Kast
