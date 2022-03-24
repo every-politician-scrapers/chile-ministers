@@ -1,5 +1,6 @@
 {
   "name": "Marcela Ríos",
+  "image": "Ministra Marcela Ríos.jpg",
   "birth_date": "December 14, 1966",
   "birth_place": "Santiago, Chile",
   "nationality": "Chilean",
@@ -10,5 +11,6 @@
   "party": "Social Convergence",
   "alma_mater": "University of York (BA)\n\nLatin American Faculty of Social Sciences (MA)\n\nUniversity of Wisconsin–Madison (Ph.D)",
   "occupation": "Politician",
-  "profession": "Sociologist"
+  "profession": "Sociologist",
+  "caption": "Ríos in March 2022"
 }
