@@ -58,7 +58,7 @@ Minister of the Environment,Marcelo Mena,Q44010940,2017-03-20,2018-03-11,male,19
 Minister of the Environment,Marcela Cubillos,Q5995504,2018-03-11,2018-08-09,female,1967-02-02,,MARCELA CUBILLOS.jpg,Marcela Cubillos
 Minister of the Environment,Carolina Schmidt,Q734056,2018-08-09,2021-11-22,female,1967-09-09,,Carolina Schmidt Zaldívar.png,Carolina Schmidt
 Minister of the Environment,Javier Naranjo Solano,Q88987534,2021-11-22,2022-03-11,male,1983-06-10,,Subsecretario Medio Ambiente Javier Naranjo 2020.jpg,Javier Naranjo Solano
-Minister of the Environment,Maisa Rojas,Q47538727,2022-03-11,,female,1972-08-10,,,Maisa Rojas
+Minister of the Environment,Maisa Rojas,Q47538727,2022-03-11,,female,1972-08-10,,"Maisa Rojas, 2022.png",Maisa Rojas
 Minister of Finance,Manuel Marfán,Q5669247,1999-12-03,2000-03-11,male,1952-12-26,,Marfan.jpg,Manuel Marfán
 Minister of Finance,Nicolás Eyzaguirre,Q3341179,2000-03-11,2006-03-11,male,1953-01-03,,"Nicolás Eyzaguirre Guzmán, ministro de educación.jpg",Nicolás Eyzaguirre
 Minister of Finance,Andrés Velasco,Q2849041,2006-03-11,2010-03-11,male,1960-08-30,,Andrés Velasco Brañes (2014).jpg,Andrés Velasco
@@ -155,7 +155,7 @@ Minister of National Defence,José Antonio Gómez Urrutia,Q3810389,2015-05-11,20
 Minister of National Defence,Alberto Espina,Q5663007,2018-03-11,2020-07-28,male,1956-11-04,,ALBERTO ESPINA.jpg,Alberto Espina
 Minister of National Defence,Mario Desbordes,Q5998614,2020-07-28,2020-12-18,male,1968-10-15,,MARIO DESBORDES JIMENEZ.jpg,Mario Desbordes
 Minister of National Defence,Baldo Prokurica,Q4850447,2020-12-18,2022-03-11,male,1958-07-02,,BALDO PROKURICA.jpg,Baldo Prokurica
-Minister of National Defence,Maya Fernández,Q5818156,2022-03-11,,female,1971-09-27,,,Maya Fernández
+Minister of National Defence,Maya Fernández,Q5818156,2022-03-11,,female,1971-09-27,,Maya Alejandra Fernández Allende (2018).jpg,Maya Fernández
 Minister of Planning,Yasna Provoste,Q3571936,2005-02-10,2006-03-11,female,1969-12-16,,Yasna Provoste Campillay.jpg,Yasna Provoste
 Minister of Planning,Clarisa Hardy,Q5771213,2006-03-11,2008-01-08,female,1945-12-15,,"30.08.2011 Seminario Internacional “Protección social, inclusión y equidad” (6099943487).jpg",Clarisa Hardy
 Minister of Planning,Paula Quintana,Q955615,2008-01-08,2010-03-11,female,1965-06-26,,Paula Quintana por Valparaíso.jpg,Paula Quintana
@@ -191,7 +191,7 @@ Minister of Sport,Natalia Riffo,Q16302038,2014-03-11,2016-11-18,female,1971-07-2
 Minister of Sport,Pablo Squella,Q5813279,2016-11-18,2018-03-11,male,1963-08-14,,Pablo Squella oficial.jpg,Pablo Squella
 Minister of Sport,Pauline Kantor,Q56167729,2018-03-11,2019-10-28,female,1964-04-10,,PAULINE KANTOR.jpg,Pauline Kantor
 Minister of Sport,Cecilia Pérez,Q5640564,2019-10-28,2022-03-11,female,1974-09-23,,CECILIA PEREZ.jpg,Cecilia Pérez
-Minister of Sport,Alexandra Benado,Q110636091,2022-03-11,,female,1976-05-11,,,Alexandra Benado
+Minister of Sport,Alexandra Benado,Q110636091,2022-03-11,,female,1976-05-11,,"Ministra del Deporte, Alexandra Benado Vergara (2022).jpg",Alexandra Benado
 Minister of Transport and Telecommunications,Claudio Hohmann,Q5771974,1996-09-28,2000-03-11,male,1954-06-03,,,Claudio Hohmann
 Minister of Transport and Telecommunications,Carlos Cruz Lorenzen,Q5750097,2000-03-11,2002-01-07,male,1951-10-13,,,Carlos Cruz Lorenzen
 Minister of Transport and Telecommunications,Javier Etcheberry,Q5927727,2002-01-07,2005-01-03,male,1947-03-14,,Ministro Javier Etcheberry (2004).gif,Javier Etcheberry
@@ -251,7 +251,7 @@ President of the Chamber of Deputies,Carlos Montes Cisternas,Q5751049,1999-03-11
 President of the Chamber of Deputies,María Isabel Allende,Q451359,2003-03-18,2004-03-16,female,1945-01-18,,Isabel Allende Bussi .jpg,Isabel Allende (politician)
 President of the Chamber of Deputies,Francisco Encina,Q5865610,2008,2009,male,1943-12-18,,José Francisco Encina Moriamez.jpg,Francisco Encina
 President of the Chamber of Deputies,Juan Bustos,Q11686373,2008-03-13,2008-08-07,male,1935-12-08,2008-08-07,Juan José Bustos Ramírez.jpg,Juan Bustos (politician)
-President of the Chamber of Deputies,Maya Fernández,Q5818156,2018-03-11,2019-03,female,1971-09-27,,,Maya Fernández
+President of the Chamber of Deputies,Maya Fernández,Q5818156,2018-03-11,2019-03,female,1971-09-27,,Maya Alejandra Fernández Allende (2018).jpg,Maya Fernández
 President of the Chamber of Deputies,Iván Flores,Q18719731,2019-03-19,2020-04-07,male,1955-06-15,,Iván Flores García.jpg,Iván Flores
 President of the Chamber of Deputies,Diego Paulsen,Q17478200,2020-04-07,2022-03-11,male,1987-08-01,,Diego Alfredo Paulsen Kehr.jpg,Diego Paulsen
 President of the Chamber of Deputies,Raúl Soto,Q57601220,2022-03-11,,male,1987-11-20,,Raúl Humberto Soto Mardones (2018).jpg,Raúl Soto
@@ -310,6 +310,7 @@ Undersecretary of Education,Fernando Rojas Ochagavía,Q16302134,2010-03-11,2014-
 Undersecretary of Education,Valentina Quiroga,Q16645221,2014-03-11,2018-03-11,female,1982-02-03,,"Subsecretaria de Educación, Valentina Quiroga. (15481004065).jpg",
 Undersecretary of Education,Raúl Figueroa,Q50820982,2018-03-11,2020-02-28,male,1975-03-21,,Raul Figueroa Ministro de Educación 2020.jpg,Raúl Figueroa
 Undersecretary of Education,Jorge Poblete Aedo,Q87651993,2020-03-09,,male,1975,,SUBSECRETARIO JORGE POBLETE AEDO 2020.jpg,
+Undersecretary of Education,Nicolás Cataldo,Q111202990,2022-03-11,,male,1984-06-22,,Nicolás Cataldo Astorga (2022).jpg,
 Governor of the Antofagasta Region,Ricardo Díaz Cortés,Q107302823,2021-07-14,,male,,,,
 Governor of the Araucanía Region,Luciano Rivas,Q107303067,2021-07-14,,male,,,Gore-LucianoRivas.jpg,
 Governor of the Atacama Region,Miguel Vargas Correa,Q18630583,2021-07-14,,male,1967-04-21,,Miguel Vargas - Intendente Región de Atacama.jpg,
