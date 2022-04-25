@@ -1,7 +1,7 @@
 {
   "name": "Juan Carlos García",
   "birth_date": "January 3, 1971",
-  "birth_place": "Valparaíso, Chile",
+  "birth_place": "Santiago, Chile",
   "nationality": "Chilean",
   "office": "Minister of Public Works",
   "president": "Gabriel Boric",
@@ -10,5 +10,8 @@
   "party": "Liberal Party",
   "alma_mater": "Pontifical Catholic University of Valparaíso (BA)\n\nÉcole des ponts ParisTech (PhD)",
   "occupation": "Politician",
-  "profession": "Architect"
+  "profession": "Architect",
+  "parents": "Carlos García Lazcano María Isabel Pérez de Arce Antoncich",
+  "spouse": "Xochitl Poblete",
+  "children": "2"
 }
