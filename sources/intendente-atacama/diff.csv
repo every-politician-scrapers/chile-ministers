@@ -3,18 +3,16 @@
 +++,Jaime Núñez Cabrera,,1978-12-29,1981-01-13
 +++,Alejandro González Samohod,,1981-02-01,1985-01-27
 +++,Gabriel Alliende Figueroa,,1985-01-28,1987-12-14
-+++,Juan Emilio Cheyre Espinosa,Q3187641,1987-12-15,1990-03-11
-+++,Raúl Armando Barrionuevo,Q7299732,1990-04,1992-11
+->,Juan Emilio Cheyre->Juan Emilio Cheyre Espinosa,Q3187641,1987-12-15,1990-03-11
 +++,Guillermo Cuellar Garriga,,1992-11,1994-03-11
 +++,Eduardo Morales Espinosa,,1994-03-11,2000-03-11
-+++,Armando Arancibia Calderón,Q23071124,2000-03-11,2001-12-26
+->,Armando Arancibia->Armando Arancibia Calderón,Q23071124,2000-03-11,2001-12-26
 ->,Yasna Provoste->Yasna Provoste Campillay,Q3571936,2001-12-26,2004-09-30
 +++,Rodrigo Rojas Veas,,2004-10-01,2006-03-11
 +++,Julieta Cruz Figueroa,,2006-03-11,2007-01-22
-+++,Viviana Ireland Cortés,Q5638292,2007-01-22,2010-03-11
-+++,Ximena Matas Quilodrán,Q6169261,2010-03-11,2012-05-31
-+++,Rafael Prohens Espinosa,Q6097826,2012-06-01,2014-03-11
-+++,Alexandra Núñez Sorich,Q102419623,2017-07-21,2018-03-11
+->,Viviana Ireland->Viviana Ireland Cortés,Q5638292,2007-01-22,2010-03-11
+->,Ximena Matas->Ximena Matas Quilodrán,Q6169261,2010-03-11,2012-05-31
+->,Rafael Prohens->Rafael Prohens Espinosa,Q6097826,2012-06-01,2014-03-11
 +++,Berta Torres Licuime,,2018-03-11,2018-07-10
-->,Patricio Urquieta García,Q62842578->Q96776992,2018-03-11->2019-03-18,NULL->2021-07-14
-->,Francisco Sánchez Barrera,Q56551619,2018-07-12->2018-07-11,NULL->2019-02-20
+->,Patricio Urquieta García,Q62842578,2018-03-11->2019-03-18,2021-07-14
+->,Francisco Sánchez Barrera,Q56551619,2018-07-12->2018-07-11,2019-02-20
