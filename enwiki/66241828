@@ -12,7 +12,7 @@
   "office2": "Chief of Defence of the Metropolitan Region of Santiago",
   "term_start2": "19 October 2019",
   "term_end2": "1 November 2019",
-  "predecessor2": "Creation of the charge",
+  "predecessor2": "Position established",
   "successor2": "Carlos Ricotti Velásquez",
   "office3": "Military attaché of Chile in Brazil",
   "term_start3": "January 2014",
@@ -20,6 +20,9 @@
   "birth_place": "Santiago, Chile",
   "birth_date": "October 25, 1965",
   "nationality": "Chilean",
-  "education": "[[Image:Coat of arms of the Chilean Army.svg|20px]] Chilean Army (1980–1984)",
-  "parents": "Dante Iturriaga Gloria del Campo Ortiz"
+  "alma_mater": "Bernardo O'Higgins Military Academy",
+  "parents": "Dante Iturriaga Gloria del Campo Ortiz",
+  "allegiance": "🇨🇱 Chile",
+  "serviceyears": "1980–present",
+  "rank": "Army General"
 }
