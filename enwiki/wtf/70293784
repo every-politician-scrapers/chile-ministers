@@ -1,0 +1,176 @@
+{
+  "title": "Raúl Soto",
+  "pageID": 70293784,
+  "categories": [
+    "University of Chile alumni",
+    "21st-century Chilean lawyers",
+    "Christian Democratic Party (Chile) politicians",
+    "Party for Democracy (Chile) politicians",
+    "1987 births",
+    "Presidents of the Chamber of Deputies of Chile",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Raúl Humberto Soto Mardones (born 20 November 1987) is a Chilean lawyer and politician who currently serves as President of the Chamber of Deputies of Chile.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chileans"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the Chamber of Deputies of Chile"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Raúl Humberto Soto Mardones"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1987",
+          "month": "11",
+          "day": "20",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Soto",
+            "Mardones"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Raúl Soto"
+          },
+          "office": {
+            "text": "President of the Chamber of Deputies of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Chamber of Deputies of Chile"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Diego Paulsen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Diego Paulsen"
+              }
+            ]
+          },
+          "image": {
+            "text": "Raúl Humberto Soto Mardones.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2022"
+          },
+          "birth_date": {
+            "text": "November 20, 1987"
+          },
+          "birth_place": {
+            "text": "Rengo, Cachapoal, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rengo"
+              },
+              {
+                "text": "Cachapoal",
+                "type": "internal",
+                "page": "Cachapoal Province"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Chile"
+              }
+            ]
+          },
+          "party": {
+            "text": "Christian Democratic Party (until 2019)\n\nParty for Democracy (since 2020)",
+            "links": [
+              {
+                "text": "Christian Democratic Party",
+                "type": "internal",
+                "page": "Christian Democratic Party (Chile)"
+              },
+              {
+                "text": "Party for Democracy",
+                "type": "internal",
+                "page": "Party for Democracy (Chile)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Natalia Bustamante Acevedo"
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Mostrador",
+          "first": "El",
+          "date": "2022-03-11",
+          "title": "El PPD Raúl Soto asumirá presidencia de la Cámara de Diputados",
+          "url": "https://www.elmostrador.cl/dia/2022/03/11/el-ppd-raul-soto-asumira-presidencia-de-la-camara-de-diputados/",
+          "access-date": "2022-03-12",
+          "website": "El Mostrador",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-11",
+          "title": "Cámara de Diputados será presidida por Raúl Soto (PPD)",
+          "url": "https://www.ladiscusion.cl/camara-de-diputados-sera-presidida-por-raul-soto-ppd/",
+          "access-date": "2022-03-12",
+          "website": "La Discusión",
+          "language": "es-CL",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "chile-politician-stub"
+        }
+      ]
+    }
+  ]
+}

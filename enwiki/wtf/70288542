@@ -1,0 +1,410 @@
+{
+  "title": "Marcela Hernando",
+  "pageID": 70288542,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "University of Chile alumni",
+    "University of Paris alumni",
+    "Catholic University of the North alumni",
+    "University of Barcelona alumni",
+    "Adolfo Ibáñez University alumni",
+    "21st-century Chilean politicians",
+    "Party for Democracy (Chile) politicians",
+    "Radical Social Democratic Party of Chile politicians",
+    "Radical Party of Chile politicians",
+    "Women government ministers of Chile",
+    "Chilean Ministers of Mining"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marcela Ximena Hernando Pérez (born 12 February 1960) is a Chilean politician and physician who currently serves as Minister of Mining.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "physician",
+                  "type": "internal",
+                  "page": "physician"
+                },
+                {
+                  "text": "Minister of Mining",
+                  "type": "internal",
+                  "page": "Ministry of Mining (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marcela Ximena Hernando Pérez"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1960",
+          "month": "2",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Party for Democracy (1987−2008)",
+            "Independent (2008−2012)",
+            "Radical Social Democratic Party (2013−2018)",
+            "Radical Party (2018−present)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "University of Chile (BA in Medicine)",
+            "University of Paris (MA in Public Health)",
+            "Catholic University of the North (PgD in Business Administration)",
+            "University of Barcelona (MA in Marketing",
+            "Adolfo Ibáñez University (MA in Management and Public Policies)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Marcela Hernando"
+          },
+          "image": {
+            "text": "Marcela_Hernando_Pérez.jpg"
+          },
+          "caption": {
+            "text": "Hernando in 2018"
+          },
+          "birth_date": {
+            "text": "February 12, 1960"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Mining",
+            "links": [
+              {
+                "text": "Minister of Mining",
+                "type": "internal",
+                "page": "Ministry of Mining (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Juan Carlos Jobet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Carlos Jobet"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Chamber of Deputies of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chamber of Deputies of Chile"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 March 2018"
+          },
+          "term_end1": {
+            "text": "11 March 2022"
+          },
+          "constituency1": {
+            "text": "3rd District (Antofagasta, Calama, María Elena, Mejillones, Ollagüe, San Pedro de Atacama, Sierra Gorda, Taltal and Tocopilla)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antofagasta"
+              },
+              {
+                "text": "Calama",
+                "type": "internal",
+                "page": "Calama, Chile"
+              },
+              {
+                "text": "María Elena",
+                "type": "internal",
+                "page": "María Elena, Chile"
+              },
+              {
+                "type": "internal",
+                "page": "Mejillones"
+              },
+              {
+                "type": "internal",
+                "page": "Ollagüe"
+              },
+              {
+                "type": "internal",
+                "page": "San Pedro de Atacama"
+              },
+              {
+                "type": "internal",
+                "page": "Sierra Gorda"
+              },
+              {
+                "type": "internal",
+                "page": "Taltal"
+              },
+              {
+                "type": "internal",
+                "page": "Tocopilla"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Creation of the District"
+          },
+          "term_start2": {
+            "text": "11 March 2014"
+          },
+          "term_end2": {
+            "text": "11 March 2018"
+          },
+          "constituency2": {
+            "text": "4th District (Antofagasta, Mejillones, Sierra Gorda and Taltal)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antofagasta"
+              },
+              {
+                "type": "internal",
+                "page": "Mejillones"
+              },
+              {
+                "type": "internal",
+                "page": "Sierra Gorda"
+              },
+              {
+                "type": "internal",
+                "page": "Taltal"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Pedro Araya Guerrero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Araya Guerrero"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Dissolution of the district"
+          },
+          "office3": {
+            "text": "Mayor of Antofagasta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antofagasta"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 December 2008"
+          },
+          "term_end3": {
+            "text": "6 December 2012"
+          },
+          "predecessor3": {
+            "text": "Gonzalo Dantagnan Vergara"
+          },
+          "successor3": {
+            "text": "Jaime Araya Guerrero"
+          },
+          "office4": {
+            "text": "Intendant of the Antofagasta Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antofagasta Region"
+              }
+            ]
+          },
+          "president4": {
+            "text": "Michelle Bachelet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michelle Bachelet"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "11 March 2006"
+          },
+          "term_end4": {
+            "text": "19 December 2007"
+          },
+          "predecessor4": {
+            "text": "Jorge Molina Cárcamo"
+          },
+          "successor4": {
+            "text": "Cristián Rodríguez Salas"
+          },
+          "office5": {
+            "text": "Regional Ministerial Secretary of Health of the Antofagasta Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antofagasta Region"
+              }
+            ]
+          },
+          "president5": {
+            "text": "Ricardo Lagos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ricardo Lagos"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "March 2005"
+          },
+          "term_end5": {
+            "text": "June 2005"
+          },
+          "party": {
+            "text": "Party for Democracy (1987−2008)\n\nIndependent (2008−2012)\n\nRadical Social Democratic Party (2013−2018)\n\nRadical Party (2018−present)"
+          },
+          "alma_mater": {
+            "text": "University of Chile (BA in Medicine)\n\nUniversity of Paris (MA in Public Health)\n\nCatholic University of the North (PgD in Business Administration)\n\nUniversity of Barcelona (MA in Marketing\n\nAdolfo Ibáñez University (MA in Management and Public Policies)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Physician Public Administrator Business administrator",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Physician"
+              },
+              {
+                "type": "internal",
+                "page": "Public Administrator"
+              },
+              {
+                "type": "internal",
+                "page": "Business administrator"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.latercera.com/politica/noticia/quien-es-marcela-hernando-la-nueva-ministra-de-mineria-de-gabriel-boric/L6BLSQMDOZE7NNOYK6BYNVZ7II/",
+          "title": "Quién es Marcela Hernando, la nueva ministra de Minería de Gabriel Boric",
+          "publisher": "La Tercera",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pauta.cl/politica/marcela-hernando-politica-de-antofagasta-asume-como-ministra-de-mineria",
+          "title": "Marcela Hernando, política de Antofagasta, asume como ministra de Minería",
+          "publisher": "Radio Pauta",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "MarcelaHernando",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}

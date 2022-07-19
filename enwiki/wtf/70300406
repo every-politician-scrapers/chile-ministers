@@ -1,0 +1,229 @@
+{
+  "title": "Marcela Ríos",
+  "pageID": 70300406,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "21st-century Chilean politicians",
+    "Chilean Ministers of Justice",
+    "Female justice ministers",
+    "Social Convergence politicians",
+    "Alumni of the University of York",
+    "University of Wisconsin–Madison alumni",
+    "Women government ministers of Chile",
+    "Politicians from Santiago"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marcela Alejandra Ríos Tobar (born 14 December 1966) is a Chilean politician and sociologist who currently serves as Chile's Minister of Justice since 11 March 2022.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "sociologist",
+                  "type": "internal",
+                  "page": "sociologist"
+                },
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marcela Alejandra Ríos Tobar"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Ávila",
+            "Lavanal"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1966",
+          "month": "12",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of York (BA)",
+            "Latin American Faculty of Social Sciences (MA)",
+            "University of Wisconsin–Madison (Ph.D)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Marcela Ríos"
+          },
+          "image": {
+            "text": "Ministra Marcela Ríos.jpg"
+          },
+          "birth_date": {
+            "text": "December 14, 1966"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Hernán Larraín",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hernán Larraín"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Convergence",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Social Convergence"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of York (BA)\n\nLatin American Faculty of Social Sciences (MA)\n\nUniversity of Wisconsin–Madison (Ph.D)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Sociologist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sociologist"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Ríos in March 2022"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.latercera.com/politica/noticia/quien-es-marcela-rios-la-nueva-ministra-de-justicia-de-gabriel-boric/QOMVUIBOGZECHMURKA3HDJKYSE/",
+          "title": "Quién es Marcela Ríos, la nueva ministra de Justicia de Gabriel Boric",
+          "publisher": "La Tercera",
+          "first": "Paulina",
+          "last": "Tejos",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://cooperativa.cl/noticias/pais/presidente-boric/marcela-rios-la-futura-ministra-de-justicia-de-gabriel-boric/2022-01-21/113507.html",
+          "title": "Marcela Ríos, la futura ministra de Justicia de Gabriel Boric",
+          "publisher": "Radio Cooperativa",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "mriost",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}

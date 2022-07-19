@@ -1,0 +1,354 @@
+{
+  "title": "Carlos Montes Cisternas",
+  "pageID": 68409812,
+  "categories": [
+    "1946 births",
+    "Chilean people",
+    "Chilean economists",
+    "Christian Democratic Party (Chile) politicians",
+    "Popular Unitary Action Movement politicians",
+    "Socialist Party of Chile politicians",
+    "Party for Democracy (Chile) politicians",
+    "Pontifical Catholic University of Chile alumni",
+    "Senators of the LV Legislative Period of the National Congress of Chile",
+    "Presidents of the Senate of Chile",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Eduardo Montes Cisternas (born 11 May 1946) is a Chilean politician and economist who served as President of the Senate of Chile from 2018 to 2019.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "economist",
+                  "type": "internal",
+                  "page": "economist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senate of Chile"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carlos Eduardo Montes Cisternas"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2021",
+          "template": "one source"
+        },
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Carlos Montes Cisternas"
+          ],
+          "date": "August 2021",
+          "template": "expand spanish"
+        },
+        {
+          "df": "y",
+          "year": "1946",
+          "month": "5",
+          "day": "11",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Pontifical Catholic University of Chile (BA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Montes"
+          },
+          "image": {
+            "text": "Carlos_Montes_Cisternas.jpg"
+          },
+          "birth_date": {
+            "text": "May 11, 1946"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of the Senate of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Senate of Chile"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 March 2018"
+          },
+          "term_end1": {
+            "text": "12 March 2019"
+          },
+          "predecessor1": {
+            "text": "Andrés Zaldívar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrés Zaldívar"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Jaime Quintana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jaime Quintana"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Senate of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Senate of Chile"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "8th Circunscription (Santiago Centro)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago Centro"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 March 2014"
+          },
+          "predecessor2": {
+            "text": "Soledad Alvear",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Soledad Alvear"
+              }
+            ]
+          },
+          "office3": {
+            "text": "President of the Chamber of Deputies of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chamber of Deputies of Chile"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "11 March 1999"
+          },
+          "term_end3": {
+            "text": "22 March 2000"
+          },
+          "predecessor3": {
+            "text": "Gutenberg Martínez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gutenberg Martínez"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Víctor Barrueto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Víctor Barrueto"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the Chamber of Deputies of Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chamber of Deputies of Chile"
+              }
+            ]
+          },
+          "constituency4": {
+            "text": "26th District (La Florida)",
+            "links": [
+              {
+                "text": "La Florida",
+                "type": "internal",
+                "page": "La Florida, Chile"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "11 March 2002"
+          },
+          "term_end4": {
+            "text": "11 March 2010"
+          },
+          "predecessor4": {
+            "text": "Creation of the District",
+            "formatting": {
+              "italic": [
+                "Creation of the District"
+              ]
+            }
+          },
+          "successor4": {
+            "text": "Camila Vallejo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Camila Vallejo"
+              }
+            ]
+          },
+          "party": {
+            "text": "Christian Democratic Party Popular Unitary Action Movement Party for Democracy Socialist Party",
+            "links": [
+              {
+                "text": "Christian Democratic Party",
+                "type": "internal",
+                "page": "Christian Democratic Party (Chile)"
+              },
+              {
+                "type": "internal",
+                "page": "Popular Unitary Action Movement"
+              },
+              {
+                "text": "Party for Democracy",
+                "type": "internal",
+                "page": "Party for Democracy (Chile)"
+              },
+              {
+                "text": "Socialist Party",
+                "type": "internal",
+                "page": "Socialist Party of Chile"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Chile (BA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Economist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economist"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Carlos José Montes María Elena Cisternas"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.latercera.com/pulso/noticia/presidente-del-senado-carlos-montes-muchas-cosas-no-tenemos-acuerdo-cara-una-mala-contrarreforma/290330/",
+          "title": "Presidente del Senado, Carlos Montes: \"En muchas cosas no tenemos acuerdo. Tiene cara de una mala contrarreforma\"",
+          "publisher": "La Tercera",
+          "date": "22 August 2018",
+          "accessdate": "5 August 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "presidents of the senate of chile"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "BCN Profile",
+            "links": [
+              {
+                "text": "BCN Profile",
+                "type": "external",
+                "site": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Carlos_Montes_Cisternas"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

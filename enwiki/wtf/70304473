@@ -1,0 +1,211 @@
+{
+  "title": "María Begoña Yarza",
+  "pageID": 70304473,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "University of Havana alumni",
+    "University of Chile alumni",
+    "Pompeu Fabra University alumni",
+    "21st-century Chilean politicians",
+    "Women government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "María Begoña Yarza Sáez (born 20 February 1964) is a Chilean politician and physician who currently serves as Minister of Health.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "physician",
+                  "type": "internal",
+                  "page": "physician"
+                },
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "María Begoña Yarza Sáez"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1964",
+          "month": "2",
+          "day": "20",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Havana (BA)",
+            "University of Chile (MA)",
+            "Pompeu Fabra University (Ph.D.)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "María Begoña Yarza"
+          },
+          "image": {
+            "text": "Ministra_María_Begoña_Yarza.jpg"
+          },
+          "birth_date": {
+            "text": "February 20, 1964"
+          },
+          "birth_place": {
+            "text": "Rengo, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rengo"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Enrique Paris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enrique Paris"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent"
+          },
+          "alma_mater": {
+            "text": "University of Havana (BA)\n\nUniversity of Chile (MA)\n\nPompeu Fabra University (Ph.D.)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Physician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Physician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.emol.com/noticias/Nacional/2022/01/21/1044623/begona-yarza-ministra-salud-perfil.html",
+          "title": "Magíster en Salud Pública y representante del Colmed: quién es María Begoña Yarza, la nueva ministra de Salud",
+          "publisher": "Emol",
+          "date": "21 January 2022",
+          "accessdate": "13 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.latercera.com/la-tercera-sabado/noticia/begona-yarza-el-modelo-de-salud-publica-que-inspira-a-la-futura-ministra/YJYWT4PIA5HHJIPNGLVBJNSRCM/?outputType=amp",
+          "title": "Begoña Yarza: El modelo de salud pública que inspira a la futura ministra",
+          "publisher": "La Tercera",
+          "date": "28 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "begoyarza",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}

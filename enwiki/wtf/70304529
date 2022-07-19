@@ -1,0 +1,320 @@
+{
+  "title": "Maisa Rojas",
+  "pageID": 70304529,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "21st-century Chilean politicians",
+    "Alumni of the University of Oxford",
+    "Chilean climatologists",
+    "Chilean people of Italian descent",
+    "Environment ministers of Chile",
+    "Geophysicists",
+    "Paleoclimatologists",
+    "University of Chile alumni",
+    "Women government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maisa Heloísa Juana Rojas Corradi (born 10 August 1972) is a Chilean politician, physicist and climatologist who currently serves as Minister for the Environment.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "physicist",
+                  "type": "internal",
+                  "page": "physicist"
+                },
+                {
+                  "text": "climatologist",
+                  "type": "internal",
+                  "page": "climatologist"
+                },
+                {
+                  "text": "Minister for the Environment",
+                  "type": "internal",
+                  "page": "Ministry for the Environment (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maisa Heloísa Juana Rojas Corradi"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rojas received her undergraduate degree in physics from the University of Chile and her Ph.D. in atmospheric physics from Lincoln College, Oxford.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lincoln College, Oxford"
+                }
+              ]
+            },
+            {
+              "text": "She then was a postdoctoral fellow at International Research Institute for Climate and Society at Columbia University in 2001.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Research Institute for Climate and Society"
+                },
+                {
+                  "type": "internal",
+                  "page": "Columbia University"
+                }
+              ]
+            },
+            {
+              "text": "She then returned to Universidad de Chile as a postdoctoral fellow, researcher, and then professor of geophysics.",
+              "links": [
+                {
+                  "text": "geophysics",
+                  "type": "internal",
+                  "page": "geophysics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Maisa has become an international leading climate change scientist."
+            },
+            {
+              "text": "She was the lead author of the Paleoclimate chapter for the UN Intergovernmental Panel on Climate Change's (IPCC) fifth report (AR5), and is also a coordinating lead author for the next IPCC report (AR6)."
+            },
+            {
+              "text": "She has served on various presidential councils and committees on climate change."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2022, Chilean President Gabriel Boric named Maisa Rojas to be Minister for the Environment in his cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gabriel Boric"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1972",
+          "month": "8",
+          "day": "10",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Chile (BA, 1991−1995)",
+            "Oxford University (Ph.D., 1996−2000)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Maisa Rojas"
+          },
+          "image": {
+            "text": "Maisa.png_328x342_q85_crop_subsampling-2.png"
+          },
+          "birth_date": {
+            "text": "August 10, 1972"
+          },
+          "birth_place": {
+            "text": "Rengo, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rengo"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister for the Environment",
+            "links": [
+              {
+                "text": "Minister for the Environment",
+                "type": "internal",
+                "page": "Ministry for the Environment (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Javier Naranjo Solano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Javier Naranjo Solano"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent"
+          },
+          "alma_mater": {
+            "text": "University of Chile (BA, 1991−1995)\n\nOxford University (Ph.D., 1996−2000)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Physicist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Physicist"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://elpais.com/sociedad/2019/09/24/actualidad/1569356630_151425.html",
+          "title": "'Nuestras estimaciones sobre los riesgos del cambio climático fueron muy conservadoras'",
+          "publisher": "El País",
+          "date": "25 September 2021",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.latercera.com/politica/noticia/quien-es-maisa-rojas-la-nueva-ministra-de-medio-ambiente-de-gabriel-boric/WABEL2PBEFA2ZPTZYFDFKAU6PY/",
+          "title": "Quién es Maisa Rojas, la nueva ministra de Medio Ambiente de Gabriel Boric",
+          "publisher": "La Tercera",
+          "date": "21 January 2022",
+          "accessdate": "13 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Maisa Rojas {{!}} Wilson Center",
+          "url": "https://www.wilsoncenter.org/person/maisa-rojas",
+          "access-date": "2022-03-20",
+          "website": "www.wilsoncenter.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-02-05",
+          "title": "‘We need politicians and experts’: how Chile is putting the climate crisis first",
+          "url": "https://www.theguardian.com/world/2022/feb/05/we-need-politicians-and-experts-maisa-rojas-how-chile-putting-climate-crisis-first",
+          "access-date": "2022-03-20",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Maisa Rojas",
+          "url": "http://dgf.uchile.cl/~maisa/Maisa_english/Maisa_Rojas.html",
+          "access-date": "2022-03-20",
+          "website": "dgf.uchile.cl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Women who Inspire: Maisa Rojas {{!}} Columbia Global Centers",
+          "url": "https://globalcenters.columbia.edu/news/women-who-inspire-maisa-rojas",
+          "access-date": "2022-03-20",
+          "website": "globalcenters.columbia.edu",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "Maisa_Rojas",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}

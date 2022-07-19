@@ -1,0 +1,351 @@
+{
+  "title": "Jorge Ulloa",
+  "pageID": 68547669,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Independent Democratic Union politicians",
+    "20th-century Chilean politicians",
+    "21st-century Chilean politicians",
+    "Chilean anti-communists",
+    "University of Concepción alumni",
+    "University of Valparaíso alumni",
+    "Members of the Chamber of Deputies of Chile",
+    "Intendants of Biobío Region",
+    "Ambassadors of Chile to Paraguay",
+    "People from Talcahuano"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jorge Iván Ulloa Aguillón (born 15 September 1958) is a Chilean politician who currently serves as amabassador of Paraguay.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paraguay"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jorge Iván Ulloa Aguillón"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was close to Manuel Contreras.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manuel Contreras"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On January 8, 1993, while a deputy, he held a six hour long filibuster in the Chamber of Deputies to allow Pablo Longueira arrive from Concepción and vote on an accusation against various ministers of the Supreme Court and the General Comptroller of the Chilean Army.",
+              "links": [
+                {
+                  "text": "filibuster",
+                  "type": "internal",
+                  "page": "filibuster"
+                },
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies of Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pablo Longueira"
+                },
+                {
+                  "text": "Concepción",
+                  "type": "internal",
+                  "page": "Concepción, Chile"
+                },
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Chile"
+                },
+                {
+                  "text": "General Comptroller",
+                  "type": "internal",
+                  "page": "comptroller"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chilean Army"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician.",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Jorge Ulloa"
+          ],
+          "date": "July 2021",
+          "template": "expand spanish"
+        },
+        {
+          "list": [
+            "Ulloa",
+            "Aguillón"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1958",
+          "month": "9",
+          "day": "15",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Concepción (BA)",
+            "University of Valparaíso (MA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jorge Ulloa"
+          },
+          "image": {
+            "text": "Jorge_Ulloa.jpg"
+          },
+          "caption": {
+            "text": "Official portrait (2018)"
+          },
+          "birth_date": {
+            "text": "September 15, 1958"
+          },
+          "birth_place": {
+            "text": "Talcahuano, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Talcahuano"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Ambassador of Chile in Paraguay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chile"
+              },
+              {
+                "type": "internal",
+                "page": "Paraguay"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "27 August 2019"
+          },
+          "predecessor": {
+            "text": "Alejandro Bahamondes Saavedra"
+          },
+          "office1": {
+            "text": "Intendant of the Bío-Bío Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bío-Bío Region"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 March 2018"
+          },
+          "term_end1": {
+            "text": "16 April 2019"
+          },
+          "predecessor1": {
+            "text": "Rodrigo Díaz Worner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Díaz Worner"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Sergio Giacaman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergio Giacaman"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy of the Republic of Chile",
+            "links": [
+              {
+                "text": "Deputy of the Republic of Chile",
+                "type": "internal",
+                "page": "Chamber of Deputies of Chile"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "43th District"
+          },
+          "term_start2": {
+            "text": "11 March 1990"
+          },
+          "term_end2": {
+            "text": "11 March 2018"
+          },
+          "predecessor2": {
+            "text": "Creation of the district"
+          },
+          "successor2": {
+            "text": "Dissolution of the district"
+          },
+          "party": {
+            "text": "UDI_2017_(recorte).svg Unión Demócrata Independiente",
+            "links": [
+              {
+                "text": "Unión Demócrata Independiente",
+                "type": "internal",
+                "page": "Independent Democratic Union"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Concepción (BA)\n\nUniversity of Valparaíso (MA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Teacher of History",
+            "links": [
+              {
+                "text": "History",
+                "type": "internal",
+                "page": "Historiography"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Rubén Ulloa Castro María Teresa de Jesús Aguillón"
+          },
+          "spouse": {
+            "text": "Siomara Concha"
+          },
+          "children": {
+            "text": "Three"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.eldinamo.cl/pais/2013/09/10/diputado-ulloa-justifica-sus-visitas-a-manuel-contreras-hace-40-anos-no-existia-el-tema-de-los-dd-hh/",
+          "title": "Diputado Ulloa justifica sus visitas a Manuel Contreras: \"Hace 40 años no existía el tema de los DD.HH\"",
+          "publisher": "El Dínamo",
+          "date": "10 September 2013",
+          "accessdate": "23 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "\"Filibusterismo\": la técnica de Naranjo que hace recordar el discurso de 6 horas de Jorge Ulloa",
+          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2021/11/08/filibustero-la-tecnica-de-naranjo-para-dilatar-ac-contra-pinera.shtml",
+          "last": "Hermosilla",
+          "first": "Ignacio",
+          "date": "2021-11-08",
+          "access-date": "2021-11-10",
+          "work": "Radio Bío-Bío",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "jorge_ulloa",
+          "template": "twitter"
+        },
+        {
+          "template": "chile-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "title": "Claudio Orrego",
+  "pageID": 40736136,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "Politicians from Santiago",
+    "Christian Democratic Party (Chile) politicians",
+    "Saint George's College, Santiago alumni",
+    "Pontifical Catholic University of Chile alumni",
+    "Government ministers of Chile",
+    "Intendants of Santiago Metropolitan Region",
+    "Mayors of places in Chile",
+    "Presidents of the Pontifical Catholic University of Chile Student Federation",
+    "Harvard Kennedy School alumni",
+    "Chilean people of Basque descent",
+    "Chilean Roman Catholics",
+    "Candidates for President of Chile",
+    "20th-century Chilean lawyers",
+    "Larraín family"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Claudio Benjamín Orrego Larraín (born 20 December 1966) is a Chilean lawyer, Christian Democrat politician, and, since 14 July 2021, the governor of the Santiago Metropolitan Region.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "Christian Democrat",
+                  "type": "internal",
+                  "page": "Christian Democrat Party of Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Santiago Metropolitan Region"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Claudio Benjamín Orrego Larraín"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Orrego is a former minister of President Ricardo Lagos Escobar, and former mayor of the commune of Peñalolén.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ricardo Lagos Escobar"
+                },
+                {
+                  "text": "commune",
+                  "type": "internal",
+                  "page": "communes of Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Peñalolén"
+                }
+              ]
+            },
+            {
+              "text": "He was a candidate for president of Chile in 2013, but lost the primary election to Michelle Bachelet, among other candidates.",
+              "links": [
+                {
+                  "text": "primary election",
+                  "type": "internal",
+                  "page": "2013 Chilean presidential primaries"
+                },
+                {
+                  "type": "internal",
+                  "page": "Michelle Bachelet"
+                }
+              ]
+            },
+            {
+              "text": "On 11 March 2014 he was designated intendant of the Santiago Metropolitan Region by President Bachelet.",
+              "links": [
+                {
+                  "text": "intendant",
+                  "type": "internal",
+                  "page": "intendant"
+                },
+                {
+                  "type": "internal",
+                  "page": "Santiago Metropolitan Region"
+                }
+              ]
+            },
+            {
+              "text": "On 13 June 2021, he was elected governor of the Santiago Metropolitan Region, a newly created office."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chiilean politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2014",
+            "month": "3",
+            "date": "11",
+            "df": "y",
+            "template": "start date",
+            "text": "March 11, 2014"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2018",
+            "month": "3",
+            "date": "11",
+            "df": "y",
+            "template": "end date",
+            "text": "March 11, 2018"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2004",
+            "month": "12",
+            "date": "6",
+            "df": "y",
+            "template": "start date",
+            "text": "December 6, 2004"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2012",
+            "month": "12",
+            "date": "6",
+            "df": "y",
+            "template": "end date",
+            "text": "December 6, 2012"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2000",
+            "month": "3",
+            "date": "11",
+            "df": "y",
+            "template": "start date",
+            "text": "March 11, 2000"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2000",
+            "month": "12",
+            "date": "29",
+            "df": "y",
+            "template": "end date",
+            "text": "December 29, 2000"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2000",
+            "month": "3",
+            "date": "11",
+            "df": "y",
+            "template": "start date",
+            "text": "March 11, 2000"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2000",
+            "month": "12",
+            "date": "29",
+            "df": "y",
+            "template": "end date",
+            "text": "December 29, 2000"
+          }
+        },
+        {
+          "year": "1966",
+          "month": "12",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Pontifical Catholic University of Chile",
+            "Harvard University"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Claudio Orrego"
+          },
+          "image": {
+            "text": "Claudio Orrego sobre fondo negro (Headshot).jpg"
+          },
+          "office": {
+            "text": "Intendant of Santiago Metropolitan Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Intendant"
+              },
+              {
+                "type": "internal",
+                "page": "Santiago Metropolitan Region"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 11, 2014"
+          },
+          "term_end": {
+            "text": "March 11, 2018"
+          },
+          "predecessor": {
+            "text": "Juan Antonio Peribonio"
+          },
+          "successor": {
+            "text": "Karla Rubilar"
+          },
+          "office1": {
+            "text": "Mayor of Peñalolén",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peñalolén"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "December 6, 2004"
+          },
+          "term_end1": {
+            "text": "December 6, 2012"
+          },
+          "predecessor1": {
+            "text": "Carlos Alarcón Castro"
+          },
+          "successor1": {
+            "text": "Carolina Leitao Álvarez-Salamanca"
+          },
+          "office2": {
+            "text": "Minister of Housing and Urban Development of Chile"
+          },
+          "predecessor2": {
+            "text": "Sergio Henríquez Díaz"
+          },
+          "successor2": {
+            "text": "Jaime Ravinet de la Fuente",
+            "links": [
+              {
+                "text": "Jaime Ravinet de la Fuente",
+                "type": "internal",
+                "page": "Jaime Ravinet"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Ricardo Lagos Escobar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ricardo Lagos Escobar"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "March 11, 2000"
+          },
+          "term_end2": {
+            "text": "December 29, 2000"
+          },
+          "office3": {
+            "text": "Minister of National Assets of Chile"
+          },
+          "predecessor3": {
+            "text": "Sergio Galilea Ocón"
+          },
+          "successor3": {
+            "text": "Jaime Ravinet de la Fuente",
+            "links": [
+              {
+                "text": "Jaime Ravinet de la Fuente",
+                "type": "internal",
+                "page": "Jaime Ravinet"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Ricardo Lagos Escobar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ricardo Lagos Escobar"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "March 11, 2000"
+          },
+          "term_end3": {
+            "text": "December 29, 2000"
+          },
+          "birth_name": {
+            "text": "Claudio Benjamín Orrego Larraín"
+          },
+          "birth_date": {
+            "text": "December 20, 1966"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Francisca Morales"
+          },
+          "children": {
+            "text": "Claudio, Daniel, Sebastián, and Benjamín"
+          },
+          "occupation": {
+            "text": "Lawyer and politician"
+          },
+          "party": {
+            "text": "PDC",
+            "links": [
+              {
+                "text": "PDC",
+                "type": "internal",
+                "page": "Christian Democrat Party (Chile)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Chile\n\nHarvard University"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.intendenciametropolitana.gov.cl/conozca_al_intendente.html",
+          "title": "Conozca al Intendente",
+          "language": "Spanish",
+          "publisher": "Intendencia de Santiago",
+          "accessdate": "22 December 2015",
+          "archive-url": "https://web.archive.org/web/20151223072630/http://www.intendenciametropolitana.gov.cl/conozca_al_intendente.html",
+          "archive-date": "23 December 2015",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.t13.cl/noticia/elecciones-2021/politica/claudio-orrego-gobernador-region-metropolitana-karina-oliva-servel-13-06-2021",
+          "title": "Orrego vence a Oliva por estrecho margen y será el gobernador de la Región Metropolitana",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Claudio Orrego Larraín"
+          ],
+          "template": "commonscat"
+        },
+        {
+          "list": [
+            "es"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "chile-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official campaign website",
+            "links": [
+              {
+                "text": "Official campaign website",
+                "type": "external",
+                "site": "http://www.orregopresidente.cl/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

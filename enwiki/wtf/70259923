@@ -1,0 +1,289 @@
+{
+  "title": "Jeannette Vega",
+  "pageID": 70259923,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Chilean people",
+    "Chilean physicians",
+    "University of Chile alumni",
+    "University of Illinois alumni",
+    "Party for Democracy (Chile) politicians",
+    "Government ministers of Chile",
+    "Women government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jeanette del Rosario Vega Morales (born 11 October 1957) is a Chilean politician and physician.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "physician",
+                  "type": "internal",
+                  "page": "physician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jeanette del Rosario Vega Morales"
+                ]
+              }
+            },
+            {
+              "text": "Since March 2022, she has served as Chile's Minister of Social Development and Family.",
+              "links": [
+                {
+                  "text": "Minister of Social Development and Family",
+                  "type": "internal",
+                  "page": "Ministry of Social Development (Chile)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Vega",
+            "Morales"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1957",
+          "month": "10",
+          "day": "11",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Chile (BA)",
+            "University of Illinois (MA)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Party for Democracy (1988−2018)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jeanette Vega"
+          },
+          "image": {
+            "text": "Ministra Jeanette Vega.jpg"
+          },
+          "caption": {
+            "text": "Vega in March 2022"
+          },
+          "birth_date": {
+            "text": "October 11, 1957"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Social Development",
+            "links": [
+              {
+                "text": "Minister of Social Development",
+                "type": "internal",
+                "page": "Ministry of Social Development (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Karla Rubilar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karla Rubilar"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Undersecretary of Public Health"
+          },
+          "president1": {
+            "text": "Michelle Bachelet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michelle Bachelet"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 January 2008"
+          },
+          "term_end1": {
+            "text": "1 March 2010"
+          },
+          "predecessor1": {
+            "text": "Lidia Amarales"
+          },
+          "successor1": {
+            "text": "Liliana Jadue Hund"
+          },
+          "alma_mater": {
+            "text": "University of Chile (BA)\n\nUniversity of Illinois (MA)"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "party": {
+            "text": "Party for Democracy (1988−2018)"
+          },
+          "profession": {
+            "text": "Physician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Physician"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Pedro Vega María Rosa Morales"
+          },
+          "children": {
+            "text": "One"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lanacion.cl/presidente-boric-tomo-juramento-a-su-gabinete/",
+          "title": "President Boric Swore In His Cabinet",
+          "first": "Patricia Schuller",
+          "last": "Gamboa",
+          "publisher": "La Nación",
+          "date": "11 March 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.latercera.com/politica/noticia/quien-es-jeanette-vega-la-nueva-ministra-de-desarrollo-social-y-familia-de-gabriel-boric/A33KU4RDENGNTL7O2EGUUOSKRY/",
+          "title": "Quién es Jeanette Vega, la nueva ministra de Desarrollo Social y Familia de Gabriel Boric",
+          "publisher": "La Tercera",
+          "first": "Juan Manuel",
+          "last": "Ojeda",
+          "date": "21 January 2022",
+          "accessdate": "8 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.elmostrador.cl/noticias/2022/01/21/exsubsecretaria-de-bachelet-y-asesora-de-la-oms-jeanette-vega-llega-al-ministerio-de-desarrollo-social-por-mandato-de-boric/",
+          "title": "Exsubsecretaria de Bachelet y asesora de la OMS Jeanette Vega llega al Ministerio de Desarrollo Social por mandato de Boric",
+          "publisher": "El Mostrador",
+          "date": "21 January 2022",
+          "accessdate": "8 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.adnradio.cl/politica/2022/01/21/quien-es-jeanette-del-rosario-vega-la-nueva-ministra-de-desarrollo-social-y-familia.html",
+          "title": "¿Quién es Jeanette del Rosario Vega, la nueva ministra de Desarrollo Social y Familia?",
+          "publisher": "ADN Radio Chile",
+          "date": "21 January 2022",
+          "accessdate": "8 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.24horas.cl/politica/jeanette-vega-la-ex-subsecretaria-bacheletista-y-asesora-de-la-oms-que-llega-a-desarrollo-social-5154668",
+          "title": "Jeanette Vega: La ex subsecretaria \"bacheletista\" y asesora de la OMS que llega a Desarrollo Social",
+          "publisher": "24 Horas",
+          "date": "21 January 2022",
+          "accessdate": "8 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pauta.cl/politica/jeanette-vega-llega-al-ministerio-de-desarrollo-social",
+          "title": "Jeanette Vega llega al Ministerio de Desarrollo Social",
+          "publisher": "Radio Pauta",
+          "date": "21 January 2022",
+          "accessdate": "8 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "jeanvegamorales",
+          "template": "twitter"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "chile-politician-stub"
+        }
+      ]
+    }
+  ]
+}

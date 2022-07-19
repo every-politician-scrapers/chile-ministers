@@ -1,0 +1,255 @@
+{
+  "title": "Marco Antonio Ávila",
+  "pageID": 70286349,
+  "categories": [
+    "1977 births",
+    "Living people",
+    "21st-century Chilean politicians",
+    "Democratic Revolution politicians",
+    "LGBT politicians from Chile",
+    "Chilean Ministers of Education",
+    "Gay politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marco Antonio Ávila Lavanal (born 30 August 1977) is a Chilean politician and teacher who has served as Chile's Minister of Education since 11 March 2022.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "teacher",
+                  "type": "internal",
+                  "page": "teacher"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Education"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marco Antonio Ávila Lavanal"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is openly gay."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Ávila",
+            "Lavanal"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "y",
+          "year": "1977",
+          "month": "8",
+          "day": "30",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Catholic University Silva Henríquez (BA) (MA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Marco Antonio Ávila"
+          },
+          "birth_date": {
+            "text": "August 30, 1977"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Education",
+            "links": [
+              {
+                "text": "Minister of Education",
+                "type": "internal",
+                "page": "Ministry of Education (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Raúl Figueroa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raúl Figueroa"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic Revolution",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Revolution"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Catholic University Silva Henríquez (BA) (MA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Teacher of Spanish language",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teacher"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Enrique Ávila Marta Lavanal"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.24-horas.mx/2022/03/11/quienes-son-los-que-gobernaran-con-gabriel-boric-en-chile/",
+          "title": "Who are those who will govern with Gabriel Boric in Chile?",
+          "publisher": "24horas",
+          "date": "11 March 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.eldinamo.cl/educacion/Quien-es-Marco-Antonio-Avila-el-nuevo-ministro-de-Educacion-20220121-0020.html",
+          "title": "Quién es Marco Antonio Ávila, el nuevo ministro de Educación",
+          "publisher": "El Dínamo",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cronicadigital.cl/2022/01/21/boric-cuenta-con-dos-ministros-lgbtiqa-educacion-y-deportes/",
+          "title": "Boric cuenta con dos ministros LGBTIQA+: Educación y Deportes",
+          "publisher": "Crónica Digital",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lared.cl/2022/nacional/el-profesor-de-la-diversidad-marco-antonio-avila-el-nuevo-ministro-de-educacion-de-boric",
+          "title": "El profesor de la diversidad: Marco Antonio Ávila, el nuevo Ministro de Educación de Boric",
+          "publisher": "La Red",
+          "date": "22 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theclinic.cl/2022/01/21/movilh-felicita-ministros-lgbt/",
+          "title": "Histórico: Movilh felicita a los primeros ministros abiertamente LGBT",
+          "publisher": "The Clinic",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "profmarcoavila",
+          "template": "twitter"
+        },
+        {
+          "template": "chile-politician-stub"
+        }
+      ]
+    }
+  ]
+}

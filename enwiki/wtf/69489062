@@ -1,0 +1,203 @@
+{
+  "title": "Pablo Milad",
+  "pageID": 69489062,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "Intendants of Maule Region",
+    "Presidents of the ANFP",
+    "Evópoli politicians",
+    "21st-century Chilean politicians",
+    "Metropolitan University of Technology alumni",
+    "People from Viña del Mar",
+    "Chilean people of Palestinian descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pablo Milad Abusleme (born 15 February 1964) is a Chilean politician and leader who currently serves as president of the Asociación Nacional de Fútbol Profesional (ANFP).",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Asociación Nacional de Fútbol Profesional"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pablo Milad Abusleme"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Pablo Milad"
+          ],
+          "date": "December 2021",
+          "template": "expand spanish"
+        },
+        {
+          "df": "y",
+          "year": "1964",
+          "month": "2",
+          "day": "15",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Pablo Milad"
+          },
+          "image": {
+            "text": "Pablo_Milad.jpg"
+          },
+          "birth_date": {
+            "text": "February 15, 1964"
+          },
+          "birth_place": {
+            "text": "Vina del Mar, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vina del Mar"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "President of the ANFP"
+          },
+          "term_start": {
+            "text": "30 July 2020"
+          },
+          "predecessor": {
+            "text": "Sebastián Moreno"
+          },
+          "office1": {
+            "text": "Intendant of the Maule Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maule Region"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Sebastián Piñera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sebastián Piñera"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 March 2018"
+          },
+          "term_end1": {
+            "text": "3 June 2020"
+          },
+          "predecessor1": {
+            "text": "Pablo Meza"
+          },
+          "successor1": {
+            "text": "Juan Eduardo Prieto"
+          },
+          "alma_mater": {
+            "text": "Metropolitan University of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Metropolitan University of Technology"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Licensed in Physical Education",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Physical Education"
+              }
+            ]
+          },
+          "party": {
+            "text": "Evópoli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Evópoli"
+              }
+            ]
+          },
+          "children": {
+            "text": "Two"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://radio.uchile.cl/2020/06/01/a-competir-por-la-anfp-pablo-milad-renuncia-a-intendencia-del-maule/",
+          "title": "¿A competir por la ANFP?: Pablo Milad renuncia a Intendencia del Maule",
+          "publisher": "Radio Universidad de Chile",
+          "date": "1 June 2020",
+          "accessdate": "10 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.anfp.cl/noticia/35648/pablo-milad-nuevo-presidente-de-la-anfp-lo-mas-importante-es-el-crecimiento-del-futbol-chileno",
+          "title": "EPablo Milad, nuevo presidente de la ANFP: \"Lo más importante es el crecimiento del fútbol chileno\"",
+          "publisher": "ANFP",
+          "date": "30 July 2020",
+          "accessdate": "10 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

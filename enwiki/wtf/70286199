@@ -1,0 +1,222 @@
+{
+  "title": "Julieta Brodsky",
+  "pageID": 70286199,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "University of Granada alumni",
+    "Academy of Christian Humanism University alumni",
+    "21st-century Chilean politicians",
+    "Social Convergence politicians",
+    "Culture ministers of Chile",
+    "Women government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Julieta Brodsky Hernández (born 10 October 1983) is a Chilean politician and antropologist who has served as the Minister of Cultures, Arts and Heritage since 2022.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "antropologist",
+                  "type": "internal",
+                  "page": "antropologist"
+                },
+                {
+                  "text": "Minister of Cultures, Arts and Heritage",
+                  "type": "internal",
+                  "page": "Ministry of Cultures, Arts and Heritage (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Julieta Brodsky Hernández"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1983",
+          "month": "10",
+          "day": "10",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Chile (BA)",
+            "Academy of Christian Humanism University (MA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Julieta Brodsky"
+          },
+          "birth_date": {
+            "text": "October 10, 1983"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Cultures, Arts and Heritage",
+            "links": [
+              {
+                "text": "Minister of Cultures, Arts and Heritage",
+                "type": "internal",
+                "page": "Ministry of Cultures, Arts and Heritage (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Consuelo Valdés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Consuelo Valdés"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Convergence",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Social Convergence"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Chile (BA)\n\nAcademy of Christian Humanism University (MA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Antropologist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antropologist"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Pablo Brodsky Paula Hernández"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.elmostrador.cl/cultura/2022/01/21/la-antropologa-julieta-brodsky-asumira-en-el-ministerio-de-las-culturas/",
+          "title": "La antropóloga Julieta Brodsky asumirá en el Ministerio de las Culturas",
+          "publisher": "El Mostrador",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://radio.uchile.cl/2022/01/21/mundo-de-las-artes-califica-como-esperanzador-el-nombramiento-de-julieta-brodsky-como-ministra-de-las-culturas/",
+          "title": "El mundo de las artes califica como esperanzador el nombramiento de Julieta Brodsky como Ministra de las Culturas",
+          "publisher": "Radio Universidad de Chile",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pauta.cl/politica/julieta-brodsky-asume-como-minstra-de-cultura-las-artes-y-el-patrimonio",
+          "title": "Julieta Brodsky asume como ministra de Cultura, las Artes y el Patrimonio",
+          "publisher": "Radio Universidad Pauta",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "jubrodsky",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "title": "Flavio Salazar",
+  "pageID": 70303459,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "Uppsala University alumni",
+    "Karolinska Institute alumni",
+    "21st-century Chilean politicians",
+    "Communist Party of Chile politicians",
+    "Government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Flavio Andrés Salazar Onfray (born 7 October 1965) is a Chilean politician who has served as the minister of science, technology, knowledge and innovation since 2022.",
+              "links": [
+                {
+                  "text": "minister of science, technology, knowledge and innovation",
+                  "type": "internal",
+                  "page": "Ministry of Science, Technology, Knowledge and Innovation"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Flavio Andrés Salazar Onfray"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1965",
+          "month": "10",
+          "day": "7",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Uppsala University (BA)",
+            "Karolinska Institute (Ph.D.)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Flavio Salazar"
+          },
+          "birth_date": {
+            "text": "October 7, 1965"
+          },
+          "birth_place": {
+            "text": "Buenos Aires, Argentina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Buenos Aires"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean"
+          },
+          "office": {
+            "text": "Minister of Science, Technology, Knowledge and Innovation",
+            "links": [
+              {
+                "text": "Minister of Science, Technology, Knowledge and Innovation",
+                "type": "internal",
+                "page": "Ministry of Science, Technology, Knowledge and Innovation"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Andrés Couve",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrés Couve"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party",
+            "links": [
+              {
+                "text": "Communist Party",
+                "type": "internal",
+                "page": "Communist Party of Chile"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Uppsala University (BA)\n\nKarolinska Institute (Ph.D.)"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "profession": {
+            "text": "Biologist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Biologist"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.latercera.com/politica/noticia/quien-es-flavio-salazar-el-nuevo-ministro-de-ciencia-de-gabriel-boric/QOKGOJZBNZHXFEKJDGVC5RN4EA/",
+          "title": "Quién es Flavio Salazar, el nuevo ministro de Ciencia de Gabriel Boric",
+          "publisher": "La Tercera",
+          "date": "21 January 2022",
+          "accessdate": "13 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2022/01/21/quien-es-flavio-salazar-el-nuevo-ministro-de-ciencias-tecnologia-conocimiento-e-innovacion.shtml",
+          "title": "¿Quién es Flavio Salazar? el nuevo Ministro de Ciencias, Tecnología, Conocimiento e Innovación",
+          "publisher": "Radio Bío-Bío",
+          "first": "Almendra",
+          "last": "Palma",
+          "date": "21 January 2022",
+          "accessdate": "13 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "DrFSalazar",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}

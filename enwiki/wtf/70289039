@@ -1,0 +1,224 @@
+{
+  "title": "Claudio Huepe Minoletti",
+  "pageID": 70289039,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "Pontifical Catholic University of Chile alumni",
+    "Alumni of University College London",
+    "21st-century Chilean politicians",
+    "Social Convergence politicians",
+    "Ministers of Energy of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Claudio Humberto Huepe Minoletti (born 7 August 1966) is a Chilean politician who has served as the Minister of Energy since 11 March 2022.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Minister of Energy",
+                  "type": "internal",
+                  "page": "Ministry of Energy (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Claudio Humberto Huepe Minoletti"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1966",
+          "month": "2",
+          "day": "7",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Social Convergence (2019−present)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Pontifical Catholic University of Chile (BA)",
+            "University College London (MA in Economics)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Claudio Huepe Minoletti"
+          },
+          "birth_date": {
+            "text": "February 7, 1966"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Energy",
+            "links": [
+              {
+                "text": "Minister of Energy",
+                "type": "internal",
+                "page": "Ministry of Energy (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Juan Carlos Jobet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Carlos Jobet"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Convergence (2019−present)"
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Chile (BA)\n\nUniversity College London (MA in Economics)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Business administration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Business administration"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Claudio Huepe Gilda Minoletti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Claudio Huepe"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Daniela Marinovic"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.diariosostenible.cl/noticia/energia-y-mineria/2022/01/quien-es-claudio-huepe-minoletti-el-nuevo-ministro-de-energia",
+          "title": "Quién es Claudio Huepe Minoletti, el nuevo ministro de Energía",
+          "publisher": "Diario Sostenible",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pauta.cl/politica/claudio-huepe-nuevo-ministro-de-energia",
+          "title": "Claudio Huepe, nuevo ministro de Energía",
+          "publisher": "Radio Pauta",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "BCN Profile",
+            "links": [
+              {
+                "text": "BCN Profile",
+                "type": "external",
+                "site": "https://www.bcn.cl/historiapolitica/resenas_parlamentarias/wiki/Claudio_Humberto_Huepe_Garc%c3%ada"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

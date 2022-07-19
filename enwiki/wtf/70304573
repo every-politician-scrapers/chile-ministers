@@ -1,0 +1,214 @@
+{
+  "title": "Juan Carlos Muñoz Abogabir",
+  "pageID": 70304573,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Chilean people",
+    "Chilean people of Palestinian descent",
+    "Pontifical Catholic University of Chile alumni",
+    "University of California, Berkeley alumni",
+    "21st-century Chilean politicians",
+    "Government ministers of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Carlos Muñoz Abogabir (born 22 June 1970) is a Chilean politician and civil engineer who currently serves as Minister of Transportation and Telecommunications.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "civil engineer",
+                  "type": "internal",
+                  "page": "civil engineer"
+                },
+                {
+                  "text": "Minister of Transportation and Telecommunications",
+                  "type": "internal",
+                  "page": "Ministry of Transportation and Telecommunications (Chile)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan Carlos Muñoz Abogabir"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1970",
+          "month": "6",
+          "day": "22",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Pontifical Catholic University of Chile (BA)",
+            "University of California, Berkeley (MA) (Ph.D.)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Juan Carlos Muñoz"
+          },
+          "image": {
+            "text": "Ministro_Juan_Carlos_Muñoz.jpg"
+          },
+          "birth_date": {
+            "text": "June 22, 1970"
+          },
+          "birth_place": {
+            "text": "Vina del Mar, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vina del Mar"
+              },
+              {
+                "type": "internal",
+                "page": "Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Transportation and Telecommunications",
+            "links": [
+              {
+                "text": "Minister of Transportation and Telecommunications",
+                "type": "internal",
+                "page": "Ministry of Transportation and Telecommunications (Chile)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Gloria Hutt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gloria Hutt"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent"
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Chile (BA)\n\nUniversity of California, Berkeley (MA) (Ph.D.)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Civil engineer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Civil engineer"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Juan Carlos Muñoz Frías María Ximena Abogabir Scott"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.latercera.com/politica/noticia/quien-es-juan-carlos-munoz-el-nuevo-ministro-de-ministerio-de-transportes-y-telecomunicaciones-de-gabriel-boric/3Y33LNMB6FBINDY65GBMFIUSHU/",
+          "title": "Quién es Juan Carlos Muñoz, el nuevo Ministro de Ministerio de Transportes y Telecomunicaciones de Gabriel Boric",
+          "publisher": "La Tercera",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pauta.cl/politica/juan-carlos-munoz-el-ministro-de-transporte-que-viaja-en-bus-y-bicicleta",
+          "title": "Juan Carlos Muñoz, el ministro de Transporte que viaja en bus y bicicleta",
+          "publisher": "Radio Pauta",
+          "date": "21 January 2022",
+          "accessdate": "13 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "juancamunoza",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "title": "Antonia Orellana",
+  "pageID": 70286097,
+  "categories": [
+    "1989 births",
+    "Living people",
+    "University of Chile alumni",
+    "21st-century Chilean politicians",
+    "Social Convergence politicians",
+    "Women government ministers of Chile",
+    "Ministers of Women and Gender Equality of Chile"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Antonia Cósmica Orellana Guarello (born 21 December 1989) is a Chilean politician, journalist and Minister of Women and Gender Equality.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chilean people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "journalist",
+                  "type": "internal",
+                  "page": "journalist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Women and Gender Equality"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Antonia Cósmica Orellana Guarello"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chilean politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1989",
+          "month": "12",
+          "day": "21",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University of Chile (BA)"
+          ],
+          "template": "unbulleted list"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Antonia Orellana"
+          },
+          "image": {
+            "text": "Antonia_Orellana_2021.jpg"
+          },
+          "caption": {
+            "text": "Orellana in 2021"
+          },
+          "birth_date": {
+            "text": "December 21, 1989"
+          },
+          "birth_place": {
+            "text": "Santiago, Chile",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santiago, Chile"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chilean",
+            "links": [
+              {
+                "text": "Chilean",
+                "type": "internal",
+                "page": "Chilean people"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Women and Gender Equality",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Women and Gender Equality"
+              }
+            ]
+          },
+          "president": {
+            "text": "Gabriel Boric",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel Boric"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 March 2022"
+          },
+          "predecessor": {
+            "text": "Mónica Zalaquett",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mónica Zalaquett"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Convergence (2019−present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Social Convergence"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Libertarian Left (2015−2017) Socialism and Liberty (SOL) (2017−2019)",
+            "links": [
+              {
+                "text": "Libertarian Left",
+                "type": "internal",
+                "page": "Libertarian Left (Chile)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Chile (BA)"
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Journalist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Journalist"
+              }
+            ]
+          },
+          "relatives": {
+            "text": "Juan Cristóbal Guarello (uncle)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Cristóbal Guarello"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.biobiochile.cl/noticias/nacional/chile/2022/03/08/antonia-orellana-tendra-oficina-en-la-moneda-este-gobierno-si-tiene-ministra-de-la-mujer.shtml",
+          "title": "Antonia Orellana tendrá oficina en La Moneda: 'Este gobierno sí tiene ministra de la Mujer'",
+          "publisher": "Radio Bío-Bío",
+          "date": "8 March 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.biobiochile.cl/noticias/sociedad/historia/2022/01/21/antonia-orellana-guarello-trayectoria-de-la-proxima-ministra-de-la-mujer-y-equidad-de-genero.shtml",
+          "title": "Antonia Orellana Guarello, trayectoria de la próxima Ministra de la Mujer y Equidad de Género",
+          "publisher": "Radio Bío-Bío",
+          "date": "21 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.latercera.com/la-tercera-pm/noticia/antonia-toti-orellana-el-transito-politico-que-la-llevo-al-circulo-de-hierro-del-presidente-electo/ECW7VYYYCVCATJFI7XMXTKDNUY/",
+          "title": "Antonia “Toti” Orellana, el tránsito político que la llevó al círculo de hierro del presidente electo",
+          "publisher": "La Tercera",
+          "date": "24 January 2022",
+          "accessdate": "11 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "totiorellanag",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}
