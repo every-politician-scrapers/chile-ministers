@@ -166,7 +166,13 @@
             "text": "Lidia Amarales"
           },
           "successor1": {
-            "text": "Liliana Jadue Hund"
+            "text": "Liliana Jadue",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liliana Jadue"
+              }
+            ]
           },
           "alma_mater": {
             "text": "University of Chile (BA)\n\nUniversity of Illinois (MA)"
