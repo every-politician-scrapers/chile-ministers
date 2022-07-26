@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Pontifical Catholic University of Chile"
+      ],
+      "stated_as": "President of the Pontifical Catholic University of Chile Student Federation"
+    },
+    "P580": "2010-11-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Joaquín Walker"
+    },
+    "P582": "2011-11-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Noam Titelman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "Member of the Chamber of Deputies of Chile, District 10 (Santiago, Providencia, Ñuñoa, Macul, San Joaquín and La Granja)"
+    },
+    "P580": "2014-03-11",
+    "P1365": {
+      "links": [
+        "Felipe Harboe"
+      ],
+      "stated_as": "Felipe Harboe"
+    },
+    "P582": "2022-03-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry General Secretariat of the Presidency (Chile)"
+      ],
+      "stated_as": "Minister Secretary-General of the Presidency"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Juan José Ossa"
+      ],
+      "stated_as": "Juan José Ossa"
+    }
+  }
+]

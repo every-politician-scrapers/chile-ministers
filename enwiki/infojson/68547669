@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "Deputy of the Republic of Chile"
+    },
+    "P580": "1990-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Creation of the district"
+    },
+    "P582": "2018-03-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dissolution of the district"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Bío-Bío Region"
+      ],
+      "stated_as": "Intendant of the Bío-Bío Region"
+    },
+    "P580": "2018-03-11",
+    "P1365": {
+      "links": [
+        "Rodrigo Díaz Worner"
+      ],
+      "stated_as": "Rodrigo Díaz Worner"
+    },
+    "P582": "2019-04-16",
+    "P1366": {
+      "links": [
+        "Sergio Giacaman"
+      ],
+      "stated_as": "Sergio Giacaman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chile",
+        "Paraguay"
+      ],
+      "stated_as": "Ambassador of Chile in Paraguay"
+    },
+    "P580": "2019-08-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alejandro Bahamondes Saavedra"
+    }
+  }
+]

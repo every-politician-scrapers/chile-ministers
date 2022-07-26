@@ -1,0 +1,98 @@
+[
+  {
+    "office": {
+      "links": [
+        "University of Chile Student Federation"
+      ],
+      "stated_as": "President of the University of Chile Student Federation"
+    },
+    "P580": "1993",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Arturo Barros Oteiza"
+    },
+    "P582": "1994",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rodrigo Roco"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Superintendent of Social Security"
+    },
+    "P580": "2008-12-04",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Javier Fuenzalida"
+    },
+    "P582": "2010-03-11",
+    "P1366": {
+      "links": [
+        "María José Zaldívar"
+      ],
+      "stated_as": "María José Zaldívar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry General Secretariat of Government (Chile)"
+      ],
+      "stated_as": "Minister of General Secretariat of Government"
+    },
+    "P580": "2014-03-11",
+    "P1365": {
+      "links": [
+        "Cecilia Pérez"
+      ],
+      "stated_as": "Cecilia Pérez"
+    },
+    "P582": "2015-05-11",
+    "P1366": {
+      "links": [
+        "Marcelo Díaz Díaz"
+      ],
+      "stated_as": "Marcelo Díaz Díaz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Chile"
+      ],
+      "stated_as": "Member of the Senate of Chile"
+    },
+    "P580": "2018-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Creation of the circunscription"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Chile"
+      ],
+      "stated_as": "President of the Senate of Chile"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Ximena Rincón"
+      ],
+      "stated_as": "Ximena Rincón"
+    }
+  }
+]

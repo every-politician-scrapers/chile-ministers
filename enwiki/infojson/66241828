@@ -1,0 +1,67 @@
+[
+  {
+    "office": {
+      "links": [
+        "Military attaché",
+        "Chile",
+        "Brazil"
+      ],
+      "stated_as": "Military attaché of Chile in Brazil"
+    },
+    "P580": "2014-01",
+    "P582": "2014-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Metropolitan Region of Santiago"
+      ],
+      "stated_as": "Chief of Defence of the Metropolitan Region of Santiago"
+    },
+    "P580": "2019-10-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2019-11-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carlos Ricotti Velásquez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Joint Chiefs of Defence (Chile)"
+      ],
+      "stated_as": "Chief of the Joint Chiefs of Defence of Chile"
+    },
+    "P580": "2020-11-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodrigo Álvarez Aguirre"
+    },
+    "P582": "2022-03-09"
+  },
+  {
+    "office": {
+      "links": [
+        "List of commanders-in-chief of the Chilean Army"
+      ],
+      "stated_as": "Commander-in-chief of the Chile Army"
+    },
+    "P580": "2022-03-09",
+    "P1365": {
+      "links": [
+        "Ricardo Martínez Menanteau"
+      ],
+      "stated_as": "Ricardo Martínez Menanteau"
+    }
+  }
+]

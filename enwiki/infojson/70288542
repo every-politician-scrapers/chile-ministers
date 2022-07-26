@@ -1,0 +1,109 @@
+[
+  {
+    "office": {
+      "links": [
+        "Antofagasta Region"
+      ],
+      "stated_as": "Regional Ministerial Secretary of Health of the Antofagasta Region"
+    },
+    "P580": "2005-03",
+    "P582": "2005-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Antofagasta Region"
+      ],
+      "stated_as": "Intendant of the Antofagasta Region"
+    },
+    "P580": "2006-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jorge Molina Cárcamo"
+    },
+    "P582": "2007-12-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Cristián Rodríguez Salas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Antofagasta"
+      ],
+      "stated_as": "Mayor of Antofagasta"
+    },
+    "P580": "2008-12-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Gonzalo Dantagnan Vergara"
+    },
+    "P582": "2012-12-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jaime Araya Guerrero"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "Member of the Chamber of Deputies of Chile"
+    },
+    "P580": "2014-03-11",
+    "P1365": {
+      "links": [
+        "Pedro Araya Guerrero"
+      ],
+      "stated_as": "Pedro Araya Guerrero"
+    },
+    "P582": "2018-03-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dissolution of the district"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "Member of the Chamber of Deputies of Chile"
+    },
+    "P580": "2018-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Creation of the District"
+    },
+    "P582": "2022-03-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Mining (Chile)"
+      ],
+      "stated_as": "Minister of Mining"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Juan Carlos Jobet"
+      ],
+      "stated_as": "Juan Carlos Jobet"
+    }
+  }
+]

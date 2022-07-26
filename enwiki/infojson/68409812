@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "President of the Chamber of Deputies of Chile"
+    },
+    "P580": "1999-03-11",
+    "P1365": {
+      "links": [
+        "Gutenberg Martínez"
+      ],
+      "stated_as": "Gutenberg Martínez"
+    },
+    "P582": "2000-03-22",
+    "P1366": {
+      "links": [
+        "Víctor Barrueto"
+      ],
+      "stated_as": "Víctor Barrueto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "Member of the Chamber of Deputies of Chile"
+    },
+    "P580": "2002-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Creation of the District"
+    },
+    "P582": "2010-03-11",
+    "P1366": {
+      "links": [
+        "Camila Vallejo"
+      ],
+      "stated_as": "Camila Vallejo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Chile"
+      ],
+      "stated_as": "Member of the Senate of Chile"
+    },
+    "P580": "2014-03-11",
+    "P1365": {
+      "links": [
+        "Soledad Alvear"
+      ],
+      "stated_as": "Soledad Alvear"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Senate of Chile"
+      ],
+      "stated_as": "President of the Senate of Chile"
+    },
+    "P580": "2018-03-11",
+    "P1365": {
+      "links": [
+        "Andrés Zaldívar"
+      ],
+      "stated_as": "Andrés Zaldívar"
+    },
+    "P582": "2019-03-12",
+    "P1366": {
+      "links": [
+        "Jaime Quintana"
+      ],
+      "stated_as": "Jaime Quintana"
+    }
+  }
+]

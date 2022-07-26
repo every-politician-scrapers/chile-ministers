@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Inter-American Commission on Human Rights"
+      ],
+      "stated_as": "Commissioner and President of the Inter-American Commission on Human Rights"
+    },
+    "P580": "2021",
+    "P1365": {
+      "links": [
+        "Joel Hernández García"
+      ],
+      "stated_as": "Joel Hernández García"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Chile)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Carolina Valdivia"
+      ],
+      "stated_as": "Carolina Valdivia"
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Director of the Budget Division of Chile"
+    },
+    "P580": "2000-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Joaquín Vial Ruiz-Tagle"
+    },
+    "P582": "2006-03-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Alberto Arenas de Mesa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Central Bank of Chile"
+      ],
+      "stated_as": "Counselor of the Central Bank of Chile"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Enrique Marshall Rivera"
+    },
+    "P582": "2022-01-27",
+    "P1366": {
+      "links": [
+        "Stephany Griffith-Jones"
+      ],
+      "stated_as": "Stephany Griffith-Jones"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Central Bank of Chile"
+      ],
+      "stated_as": "President of the Central Bank of Chile"
+    },
+    "P580": "2016-12-11",
+    "P1365": {
+      "links": [
+        "Rodrigo Vergara"
+      ],
+      "stated_as": "Rodrigo Vergara"
+    },
+    "P582": "2022-01-27",
+    "P1366": {
+      "links": [
+        "Rosanna Costa"
+      ],
+      "stated_as": "Rosanna Costa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Chile)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Rodrigo Cerda"
+      ],
+      "stated_as": "Rodrigo Cerda"
+    }
+  }
+]

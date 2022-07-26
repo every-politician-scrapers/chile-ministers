@@ -1,35 +1,35 @@
-pageid,title
-17343590,Roberto Ampuero
-28701299,Esteban Valenzuela
-32652273,Camila Vallejo
-40736136,Claudio Orrego
-40857986,Giorgio Jackson
-47329497,Gabriel Boric
-52516008,Rosanna Costa
-53968566,Mario Marcel
-66241828,Javier Iturriaga del Campo
-67238793,Maya Fernández
-67562249,Izkia Siches
-67685856,Irací Hassler
-68409812,Carlos Montes Cisternas
-68547669,Jorge Ulloa
-68677020,Álvaro Elizalde
-69489062,Pablo Milad
-69551939,Antonia Urrejola
-69842299,Alexandra Benado
-69884613,Juan Carlos García Pérez de Arce
-69969623,Nicolás Grau
-70259923,Jeannette Vega
-70286097,Antonia Orellana
-70286199,Julieta Brodsky
-70286349,Marco Antonio Ávila
-70288542,Marcela Hernando
-70289039,Claudio Huepe Minoletti
-70289645,Javiera Toro Cáceres
-70293784,Raúl Soto
-70300406,Marcela Ríos
-70303364,Jeannette Jara
-70303459,Flavio Salazar
-70304473,María Begoña Yarza
-70304529,Maisa Rojas
-70304573,Juan Carlos Muñoz Abogabir
+pageid,title,wikidata,label
+17343590,Roberto Ampuero,Q922795,Roberto Ampuero
+28701299,Esteban Valenzuela,Q5400841,Esteban Valenzuela
+32652273,Camila Vallejo,Q242230,Camila Vallejo
+40736136,Claudio Orrego,Q5772063,Claudio Orrego
+40857986,Giorgio Jackson,Q5880050,Giorgio Jackson
+47329497,Gabriel Boric,Q16297876,Gabriel Boric
+52516008,Rosanna Costa,Q6112329,Rosanna Costa
+53968566,Mario Marcel,Q5998841,Mario Marcel
+66241828,Javier Iturriaga del Campo,Q74246258,Javier Iturriaga del Campo
+67238793,Maya Fernández,Q5818156,Maya Fernández
+67562249,Izkia Siches,Q88030581,Izkia Siches
+67685856,Irací Hassler,Q106866749,Irací Hassler
+68409812,Carlos Montes Cisternas,Q5751049,Carlos Montes Cisternas
+68547669,Jorge Ulloa,Q5936177,Jorge Ulloa
+68677020,Álvaro Elizalde,Q16298964,Álvaro Elizalde
+69489062,Pablo Milad,Q56025862,Pablo Milad Abusleme
+69551939,Antonia Urrejola,Q75836988,Antonia Urrejola
+69842299,Alexandra Benado,Q110636091,Alexandra Benado
+69884613,Juan Carlos García Pérez de Arce,Q110664149,Juan Carlos García Pérez de Arce
+69969623,Nicolás Grau,Q110636257,Nicolás Grau
+70259923,Jeannette Vega,Q110640365,Jeannette Vega
+70286097,Antonia Orellana,Q110637131,Antonia Orellana
+70286199,Julieta Brodsky,Q110645571,Julieta Brodsky
+70286349,Marco Antonio Ávila,Q110636393,Marco Antonio Ávila
+70288542,Marcela Hernando,Q5995515,Marcela Hernando
+70289039,Claudio Huepe Minoletti,Q110640779,Claudio Huepe Minoletti
+70289645,Javiera Toro Cáceres,Q103838952,Javiera Toro Cáceres
+70293784,Raúl Soto,Q57601220,Raúl Soto
+70300406,Marcela Ríos,Q110640448,Marcela Ríos
+70303364,Jeannette Jara,Q110103620,Jeannette Jara
+70303459,Flavio Salazar,Q88222842,Flavio Salazar
+70304473,María Begoña Yarza,Q110639253,María Begoña Yarza
+70304529,Maisa Rojas,Q47538727,Maisa Rojas
+70304573,Juan Carlos Muñoz Abogabir,Q110636946,Juan Carlos Muñoz
