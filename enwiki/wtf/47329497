@@ -2877,7 +2877,7 @@
               "text": "In April Boric was attacked by a man who attempted to throw a stone at him."
             },
             {
-              "text": "On May one of Boric's bodyguards was kidnapped and shot in the arm by unknown assailants."
+              "text": "In the night of May 13 one of Boric's bodyguards was kidnapped and shot in the arm by unknown assailants."
             },
             {
               "text": "On the same day the house of the Minister of National Defense Maya Fernández was robbed.",
@@ -2892,6 +2892,9 @@
                   "page": "Maya Fernández"
                 }
               ]
+            },
+            {
+              "text": "According to Chilean police these events are not related."
             }
           ]
         }
@@ -2905,6 +2908,18 @@
           "date": "2022-04-22",
           "access-date": "2022-05-10",
           "work": "El País",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Carabineros descarta vinculación entre asalto en casa de ministra Fernández y secuestro de escolta presidencial",
+          "url": "https://www.emol.com/noticias/Nacional/2022/05/17/1061186/descartan-vinculo-robo-ministra-secuestro.html",
+          "last": "González",
+          "first": "Carolina",
+          "date": "2022-05-17",
+          "access-date": "2022-06-22",
+          "work": "Emol",
           "language": "Spanish",
           "template": "citation",
           "type": "news"

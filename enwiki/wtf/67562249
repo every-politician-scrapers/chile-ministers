@@ -85,6 +85,10 @@
       ],
       "templates": [
         {
+          "date": "July 2022",
+          "template": "pov"
+        },
+        {
           "description": "Chilean doctor and president of the Chilean Medical College",
           "template": "short description"
         },
