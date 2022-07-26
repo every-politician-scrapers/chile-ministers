@@ -1,0 +1,91 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Housing and Urban Development of Chile"
+    },
+    "P580": "2000-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sergio Henríquez Díaz"
+    },
+    "P582": "2000-12-29",
+    "P1366": {
+      "links": [
+        "Jaime Ravinet"
+      ],
+      "stated_as": "Jaime Ravinet de la Fuente"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of National Assets of Chile"
+    },
+    "P580": "2000-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sergio Galilea Ocón"
+    },
+    "P582": "2000-12-29",
+    "P1366": {
+      "links": [
+        "Jaime Ravinet"
+      ],
+      "stated_as": "Jaime Ravinet de la Fuente"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Peñalolén"
+      ],
+      "stated_as": "Mayor of Peñalolén"
+    },
+    "P580": "2004-12-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carlos Alarcón Castro"
+    },
+    "P582": "2012-12-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carolina Leitao Álvarez-Salamanca"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Intendant",
+        "Santiago Metropolitan Region"
+      ],
+      "stated_as": "Intendant of Santiago Metropolitan Region"
+    },
+    "P580": "2014-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Juan Antonio Peribonio"
+    },
+    "P582": "2018-03-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Karla Rubilar"
+    }
+  }
+]

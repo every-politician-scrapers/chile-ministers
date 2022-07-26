@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+        "University of Chile Student Federation"
+      ],
+      "stated_as": "President of the University of Chile Student Federation"
+    },
+    "P580": "2011-12-19",
+    "P1365": {
+      "links": [
+        "Camila Vallejo"
+      ],
+      "stated_as": "Camila Vallejo"
+    },
+    "P582": "2012-11-28",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Andrés Fielbaum"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile",
+        "Magallanes Region"
+      ],
+      "stated_as": "Member of the Chamber of Deputies from Magallanes"
+    },
+    "P580": "2014-03-11",
+    "P1365": {
+      "links": [
+        "Miodrag Marinović"
+      ],
+      "stated_as": "Miodrag Marinović"
+    },
+    "P582": "2018-03-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "District suppressed"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile",
+        "Magallanes Region"
+      ],
+      "stated_as": "Member of the Chamber of Deputies from Magallanes"
+    },
+    "P580": "2018-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "District established"
+    },
+    "P582": "2022-03-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Javiera Morales"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Chile"
+    },
+    "P1545": "37",
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Sebastián Piñera"
+      ],
+      "stated_as": "Sebastián Piñera"
+    }
+  }
+]

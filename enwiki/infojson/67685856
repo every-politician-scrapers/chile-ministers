@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Santiago (commune)"
+      ],
+      "stated_as": "Santiago municipal councillor"
+    },
+    "P580": "2016",
+    "P582": "2021"
+  },
+  {
+    "office": {
+      "links": [
+        "Santiago Centro"
+      ],
+      "stated_as": "Mayor of Santiago Centro"
+    },
+    "P580": "2021-06-28",
+    "P1365": {
+      "links": [
+        "Felipe Alessandri"
+      ],
+      "stated_as": "Felipe Alessandri"
+    },
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Irací Hassler"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "University of Chile Student Federation"
+      ],
+      "stated_as": "President of the University of Chile Student Federation"
+    },
+    "P580": "2005-11-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Felipe Melo Rivera"
+    },
+    "P582": "2006-11-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Giorgio Boccardo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy, Development and Tourism (Chile)"
+      ],
+      "stated_as": "Minister of Economy"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Lucas Palacios"
+      ],
+      "stated_as": "Lucas Palacios"
+    }
+  }
+]

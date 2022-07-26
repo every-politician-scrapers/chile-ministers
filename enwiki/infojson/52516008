@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Director of the Budget Division Chile"
+    },
+    "P580": "2010-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sergio Granados Roldán"
+    },
+    "P582": "2014-03-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sergio Granados Roldàn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Central Bank of Chile"
+      ],
+      "stated_as": "Counselor of the Central Bank of Chile"
+    },
+    "P580": "2017-01-18",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodrigo Vergara"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Central Bank of Chile"
+      ],
+      "stated_as": "President of the Central Bank of Chile"
+    },
+    "P580": "2022-02-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mario Marcel"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Maule Region"
+      ],
+      "stated_as": "Intendant of the Maule Region"
+    },
+    "P580": "2018-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Pablo Meza"
+    },
+    "P582": "2020-06-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Juan Eduardo Prieto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of the ANFP"
+    },
+    "P580": "2020-07-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sebastián Moreno"
+    }
+  }
+]

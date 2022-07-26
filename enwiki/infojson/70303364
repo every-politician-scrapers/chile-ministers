@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "University of Santiago, Chile"
+      ],
+      "stated_as": "President of the University of Santiago, Chile Students Federation"
+    },
+    "P580": "2016-11-10",
+    "P582": "2018-03-11",
+    "P1366": {
+      "links": [
+        "Marcos Barraza"
+      ],
+      "stated_as": "Marcos Barraza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Undersecretary of Social Provision"
+    },
+    "P580": "2016-11-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Julia Urquieta"
+    },
+    "P582": "2018-03-11",
+    "P1366": {
+      "links": [
+        "María José Zaldívar"
+      ],
+      "stated_as": "María José Zaldívar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Labor and Social Provision (Chile)"
+      ],
+      "stated_as": "Minister of Labor and Social Provision"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Patricio Melero"
+      ],
+      "stated_as": "Patricio Melero"
+    }
+  }
+]

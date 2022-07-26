@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "Member of the Chamber of Deputies of Chile"
+    },
+    "P580": "2014",
+    "P582": "2022"
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "President of Chamber of Deputies of Chile"
+    },
+    "P580": "2018-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Fidel Espinoza"
+    },
+    "P582": "2019-03-19",
+    "P1366": {
+      "links": [
+        "Iván Flores"
+      ],
+      "stated_as": "Iván Flores"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Defense (Chile)"
+      ],
+      "stated_as": "Minister of National Defense of Chile"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Baldo Prokurica"
+      ],
+      "stated_as": "Baldo Prokurica"
+    }
+  }
+]

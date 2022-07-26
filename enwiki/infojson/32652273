@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "University of Chile Student Federation"
+      ],
+      "stated_as": "President of the University of Chile Student Federation"
+    },
+    "P580": "2010-11-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Julio Sarmiento"
+    },
+    "P582": "2011-11-16",
+    "P1366": {
+      "links": [
+        "Gabriel Boric"
+      ],
+      "stated_as": "Gabriel Boric"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "Member of the Chamber of Deputies of Chile"
+    },
+    "P580": "2014-03-11",
+    "P1365": {
+      "links": [
+        "Carlos Montes Cisternas"
+      ],
+      "stated_as": "Carlos Montes Cisternas"
+    },
+    "P582": "2018-03-11",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "District dissolved"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies of Chile"
+      ],
+      "stated_as": "Member of the Chamber of Deputies of Chile"
+    },
+    "P580": "2018-03-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "District established"
+    },
+    "P582": "2022-03-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry General Secretariat of Government (Chile)"
+      ],
+      "stated_as": "Minister General Secretariat of Government"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Jaime Bellolio"
+      ],
+      "stated_as": "Jaime Bellolio"
+    }
+  }
+]

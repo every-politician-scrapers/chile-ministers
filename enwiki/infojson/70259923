@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Undersecretary of Public Health"
+    },
+    "P580": "2008-01-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Lidia Amarales"
+    },
+    "P582": "2010-03-01",
+    "P1366": {
+      "links": [
+        "Liliana Jadue"
+      ],
+      "stated_as": "Liliana Jadue"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social Development (Chile)"
+      ],
+      "stated_as": "Minister of Social Development"
+    },
+    "P580": "2022-03-11",
+    "P1365": {
+      "links": [
+        "Karla Rubilar"
+      ],
+      "stated_as": "Karla Rubilar"
+    }
+  }
+]
