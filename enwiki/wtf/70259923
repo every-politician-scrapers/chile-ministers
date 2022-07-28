@@ -163,7 +163,13 @@
             "text": "1 March 2010"
           },
           "predecessor1": {
-            "text": "Lidia Amarales"
+            "text": "Lidia Amarales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lidia Amarales"
+              }
+            ]
           },
           "successor1": {
             "text": "Liliana Jadue",
