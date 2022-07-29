@@ -119,6 +119,10 @@
       ],
       "templates": [
         {
+          "description": "Chilean politician and writer",
+          "template": "short description"
+        },
+        {
           "year": "1953",
           "month": "2",
           "day": "20",
